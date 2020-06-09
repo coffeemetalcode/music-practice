@@ -1,0 +1,164 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,73,7,S,0
+
+SectionStart,Main
+SaveDate,2019-09-27 21:16
+SoundFileName,04 - Five Magics.wav,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Megadeth/rust_in_peace/wav/04 - Five Magics.wav
+SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,65856090,48000,16464003,343.000063
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,70000,0
+FX_Misc,1,0,70,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,39
+PianoTopNote,90
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.461580
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.871465
+VertProfileZoom,1.000000
+HorizProfileZoom,0.176776
+HorizProfilePos,2577
+SelectionLeft,5969697
+SelectionRight,8153830
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,39
+S,31789,1,A,0,0:00:00.662
+S,162921,1,B,0,0:00:03.394
+S,295371,1,C,0,0:00:06.154
+S,1011945,1,D,0,0:00:21.082
+S,1728521,1,E,0,0:00:36.011
+S,2445096,1,F,0,0:00:50.940
+S,2980209,1,G,0,0:01:02.088
+S,3695458,1,H,0,0:01:16.989
+S,4413357,1,I,0,0:01:31.945
+S,5129932,1,J,0,0:01:46.874
+S,5665044,1,K,0,0:01:58.022
+S,6006775,1,L,0,0:02:05.141
+S,6046995,1,M,0,0:02:05.979
+S,6323340,1,N,0,0:02:11.736
+S,6605466,1,O,0,0:02:17.614
+S,6884943,1,P,0,0:02:23.436
+S,7165744,1,Q,0,0:02:29.286
+S,7439924,1,R,0,0:02:34.998
+S,7724699,1,S,0,0:02:40.931
+S,8002853,1,T,0,0:02:46.726
+S,8132657,1,U,0,0:02:49.430
+S,8552535,1,V,0,0:02:58.178
+S,8972413,1,W,0,0:03:06.925
+S,9393616,1,X,0,0:03:15.700
+S,9763163,1,Y,0,0:03:23.399
+S,9833362,1,Z,0,0:03:24.862
+S,10430728,1,A,0,0:03:37.307
+S,10756565,1,B,0,0:03:44.095
+S,11087699,1,C,0,0:03:50.994
+S,11417508,1,D,0,0:03:57.865
+S,11747318,1,E,0,0:04:04.736
+S,12282431,1,F,0,0:04:15.884
+S,12809597,1,G,0,0:04:26.867
+S,13336762,1,H,0,0:04:37.849
+S,13732798,1,I,0,0:04:46.100
+S,14257315,1,J,0,0:04:57.027
+S,14916935,1,K,0,0:05:10.769
+S,15312971,1,L,0,0:05:19.020
+S,15709007,1,M,0,0:05:27.271
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,34
+T,31789,5,190,Grey,0:00:00.662,Intro (0:00.7)\n\n,0
+T,295371,5,532,Black,0:00:06.154,(0:06.2)\n\n,0
+T,1011945,5,532,Black,0:00:21.082,(0:21.1)\n\n,0
+T,1728521,5,532,Black,0:00:36.011,(0:36)\n\n,0
+T,2445096,5,395,Black,0:00:50.940,(0:50.9)\n\n,0
+T,2980209,5,531,Red,0:01:02.088,(1:02.1)\n\n,0
+T,3695458,5,533,Black,0:01:16.989,(1:17)\n\n,0
+T,4413357,5,532,Black,0:01:31.945,(1:31.9)\n\n,0
+T,5129932,5,395,Black,0:01:46.874,(1:46.9)\n\n,0
+T,5665044,5,249,Red,0:01:58.022,(1:58)\n\n,0
+T,6006775,5,230,DarkRed,0:02:05.141,Verse (2:05.1)\n\n,0
+T,6323340,5,204,DarkRed,0:02:11.736,Guitar Solo (Friedman) (2:11.7)\n\n,0
+T,6605466,5,202,DarkRed,0:02:17.614,Verse (2:17.6) (cont.)\n\n,0
+T,6884943,5,203,DarkRed,0:02:23.436,Guitar Solo (Friedman) (2:23.4)\n\n,0
+T,7165744,5,198,DarkRed,0:02:29.286,Verse (2:29.3) (cont.)\n\n,0
+T,7439924,5,206,DarkRed,0:02:34.998,Guitar Solo (Friedman) (2:35)\n\n,0
+T,7724699,5,201,DarkRed,0:02:40.931,Verse (2:40.9) (cont.)\n\n,0
+T,8002853,5,89,DarkRed,0:02:46.726,Guitar Solo (Friedman) (2:46.7)\n\n,0
+T,8132657,5,307,Green,0:02:49.430,Interlude (2:49.4)\n\n,0
+T,8552535,5,308,Green,0:02:58.178,Guitar Solo (Friedman) (2:58.2)\n\n,0
+T,8972413,5,309,Green,0:03:06.925,(3:06.9)\n\n,0
+T,9393616,5,323,DarkGreen,0:03:15.700,Bridge (3:15.7)\n\n,0
+T,9833362,5,442,Blue,0:03:24.862,(3:24.9)\n\n,0
+T,10430728,5,487,DarkBlue,0:03:37.307,Chorus (3:37.3)\n\n,0
+T,11087699,5,489,DarkBlue,0:03:50.994,(3:51)\n\n,0
+T,11747318,5,395,Teal,0:04:04.736,Verse (4:04.7)\n\n,0
+T,12282431,5,389,Teal,0:04:15.884,(4:15.9)\n\n,0
+T,12809597,5,389,Olive,0:04:26.867,(4:26.9)\n\n,0
+T,13336762,5,290,Olive,0:04:37.849,(4:37.9)\n\n,0
+T,13732798,5,387,Purple,0:04:46.100,Interlude (4:45.1)\n\n,0
+T,14257315,5,489,Purple,0:04:57.027,Outro-Guitar Solo (Mustaine) (4:57)\n\n,0
+T,14916935,5,290,Purple,0:05:10.769,(5:10.8)\n\n,0
+T,15312971,5,290,Purple,0:05:19.020,(5:19)\n\n,0
+T,15709007,5,563,Purple,0:05:27.271,(5:27.3)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,
+L,2,0,0,0,,White,
+L,3,0,0,0,,White,
+L,4,0,0,0,,White,
+L,5,0,0,0,,White,
+L,6,0,0,0,,White,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

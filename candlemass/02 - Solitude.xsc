@@ -1,0 +1,156 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,40,7,S,0
+
+SectionStart,Main
+SoundFileName,02 - Solitude.mp3,Nix,/home/david/Dropbox/Candlemass/02 - Solitude.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,12356515,44100,14898816,337.841633
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,1
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,1,0,0,0,52,0,60,50,0
+FX_Transposition,0,0,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,0,0,70000,0
+FX_Misc,1,0,46
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,1
+ShowGuessNotes,1
+ShowGuessChords,1
+ShowDB,0
+ShowTimeLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,38
+PianoTopNote,89
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.521858
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.999900
+VertProfileZoom,1.000000
+HorizProfileZoom,0.290171
+HorizProfilePos,11447
+SelectionLeft,8793302
+SelectionRight,10975133
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,46
+S,0,1,A1,0,0:00:00.000
+S,573784,1,B2,0,0:00:13.011
+S,1143691,1,C3,0,0:00:25.934
+S,1787263,1,D4,0,0:00:40.528
+S,2376554,1,E5,0,0:00:53.890
+S,2946461,1,F6,0,0:01:06.813
+B,2979093,1,,0,0:01:07.553
+B,3016108,1,,0,0:01:08.392
+B,3051489,1,,0,0:01:09.195
+B,3086081,1,,0,0:01:09.979
+B,3121186,1,,0,0:01:10.775
+B,3156551,1,,0,0:01:11.577
+B,3193211,1,,0,0:01:12.408
+B,3229138,1,,0,0:01:13.223
+B,3265451,1,,0,0:01:14.047
+B,3300711,1,,0,0:01:14.846
+B,3335782,1,,0,0:01:15.641
+S,3516370,1,G7,0,0:01:19.736
+S,4082400,1,H8,0,0:01:32.571
+S,4650370,1,I9,0,0:01:45.451
+S,5212521,1,J10,0,0:01:58.198
+S,5772736,1,K11,0,0:02:10.901
+S,6331015,1,L12,0,0:02:23.560
+S,6755538,1,M13,0,0:02:33.187
+S,7176185,1,N14,0,0:02:42.725
+S,7780984,1,O15,0,0:02:56.440
+S,8314060,1,P16,0,0:03:08.527
+S,8851014,1,Q17,0,0:03:20.703
+S,9382154,1,R18,0,0:03:32.747
+S,9924923,1,S19,0,0:03:45.055
+S,10783661,1,T20,0,0:04:04.527
+B,10815503,1,,0,0:04:05.250
+B,10847943,1,,0,0:04:05.985
+B,10883880,1,,0,0:04:06.800
+B,10917341,1,,0,0:04:07.559
+B,10951298,1,,0,0:04:08.329
+B,10981656,1,,0,0:04:09.017
+B,11015803,1,,0,0:04:09.791
+B,11049604,1,,0,0:04:10.558
+S,11322555,1,U21,0,0:04:16.747
+S,11865318,1,V22,0,0:04:29.055
+S,12408092,1,W23,0,0:04:41.363
+S,12834553,1,X24,0,0:04:51.033
+S,13259077,1,Y25,0,0:05:00.659
+S,13683596,1,Z26,0,0:05:10.286
+S,14104246,1,A27,0,0:05:19.824
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,21
+T,0,5,100,Grey,0:00:00.000,Intro (0:00)\n\n,0
+T,573784,5,100,Grey,0:00:13.011,Verse (0:13)\n\n,0
+T,1787263,5,100,Black,0:00:40.528,Interlude (0:40.5)\n\n,0
+T,2376554,5,100,Black,0:00:53.890,(0:53.9)\n\n,0
+T,2946461,5,100,Black,0:01:06.813,(1:06.8)\n\n,0
+T,3516370,5,100,Black,0:01:19.736,Verse (1:19.7)\n\n,0
+T,4082400,5,100,Black,0:01:32.571,(1:32.6)\n\n,0
+T,4650370,5,100,Black,0:01:45.451,Interlude (1:45.5)\n\n,0
+T,5212521,5,100,Black,0:01:58.198,Verse (1:58.2)\n\n,0
+T,5772736,5,100,Black,0:02:10.901,(2:10.9)\n\n,0
+T,6331015,5,100,Red,0:02:23.560,Chorus (2:23.6)\n\n,0
+T,7176185,5,100,Grey,0:02:42.725,Interlude (2:42.7)\n\n,0
+T,7780984,5,100,DarkRed,0:02:56.440,(2:56.4)\n\n,0
+T,8851014,5,100,DarkRed,0:03:20.703,Guitar Solo (3:20.7)\n\n,0
+T,9924923,5,100,Red,0:03:45.055,(3:45.1)\n\n,0
+T,10783661,5,100,Black,0:04:04.527,Interlude (4:04.5)\n\n,0
+T,11322555,5,100,Black,0:04:16.747,Verse (4:16.8)\n\n,0
+T,11865318,5,100,Black,0:04:29.055,(4:29.1)\n\n,0
+T,12408092,5,100,Red,0:04:41.363,Chorus (4:41.4)\n\n,0
+T,13259077,5,100,Red,0:05:00.659,(5:00.7)\n\n,0
+T,14104246,5,100,Grey,0:05:19.824,Outro (5:19.8)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,
+L,2,0,0,0,,White,
+L,3,0,0,0,,White,
+L,4,0,0,0,,White,
+L,5,0,0,0,,White,
+L,6,0,0,0,,White,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

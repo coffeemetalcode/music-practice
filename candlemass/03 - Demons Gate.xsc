@@ -1,0 +1,159 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,40,7,S,0
+
+SectionStart,Main
+SoundFileName,03 - Demons Gate.mp3,Nix,/home/david/Dropbox/Candlemass/03 - Demons Gate.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,8835428,44100,24353280,552.228571
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,1
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,1,0,0,0,-16,0,60,50,0
+FX_Transposition,0,0,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,100000,0
+FX_Misc,1,0,76
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,1
+ShowGuessNotes,1
+ShowGuessChords,1
+ShowDB,0
+ShowTimeLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,38
+PianoTopNote,89
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.522270
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.999900
+VertProfileZoom,1.000000
+HorizProfileZoom,0.250000
+HorizProfilePos,16504
+SelectionLeft,14621842
+SelectionRight,17167015
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,41
+S,1083600,1,A1,0,0:00:24.571
+S,1765938,1,B2,0,0:00:40.044
+B,1809053,1,,0,0:00:41.022
+B,1851417,1,,0,0:00:41.982
+B,1894620,1,,0,0:00:42.962
+B,1933205,1,,0,0:00:43.837
+B,1977238,1,,0,0:00:44.835
+B,2018532,1,,0,0:00:45.772
+B,2058068,1,,0,0:00:46.668
+S,2430829,1,C3,0,0:00:55.121
+S,3095722,1,D4,0,0:01:10.198
+S,3776123,1,E5,0,0:01:25.626
+S,4446829,1,F6,0,0:01:40.835
+S,4780245,1,G7,0,0:01:48.396
+S,5604091,1,H8,0,0:02:07.077
+S,6445383,1,I9,0,0:02:26.154
+S,7121907,1,J10,0,0:02:41.494
+S,7457261,1,K11,0,0:02:49.099
+S,8302430,1,L12,0,0:03:08.264
+S,9147599,1,M13,0,0:03:27.429
+S,10473507,1,N14,0,0:03:57.494
+S,11146153,1,O15,0,0:04:12.747
+S,11487323,1,P16,0,0:04:20.484
+S,12177415,1,Q17,0,0:04:36.132
+S,12846184,1,R18,0,0:04:51.297
+S,13421908,1,S19,0,0:05:04.352
+S,14084859,1,T20,0,0:05:19.385
+S,14740060,1,U21,0,0:05:34.242
+S,15054096,1,V22,0,0:05:41.363
+S,15360368,1,W23,0,0:05:48.308
+S,15972921,1,X24,0,0:06:02.198
+S,16566093,1,Y25,0,0:06:15.648
+S,17161200,1,Z26,0,0:06:29.143
+S,18413446,1,A27,0,0:06:57.538
+S,19058953,1,B28,0,0:07:12.176
+S,19865352,1,C29,0,0:07:30.461
+S,20662061,1,D30,0,0:07:48.527
+S,21927876,1,E31,0,0:08:17.231
+S,22573384,1,F32,0,0:08:31.868
+S,23211138,1,G33,0,0:08:46.330
+S,23835323,1,H34,0,0:09:00.484
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,29
+T,1083600,5,100,Grey,0:00:24.571,Intro (0:24.6)\n\n,0
+T,1765938,5,100,Grey,0:00:40.044,(0:40)\n\n,0
+T,3095722,5,100,Black,0:01:10.198,(1:10.2)\n\n,0
+T,3776123,5,100,Black,0:01:25.626,(1:25.6)\n\n,0
+T,4446829,5,100,Black,0:01:40.835,(1:40.8)\n\n,0
+T,4780245,5,100,Red,0:01:48.396,Verse (1:48.4)\n\n,0
+T,5604091,5,100,Red,0:02:07.077,(2:07.1)\n\n,0
+T,6445383,5,100,Black,0:02:26.154,Interlude (2:26.2)\n\n,0
+T,7121907,5,100,Black,0:02:41.494,(2:41.5)\n\n,0
+T,7457261,5,100,Red,0:02:49.099,Verse (2:49.1)\n\n,0
+T,8302430,5,100,Red,0:03:08.264,(3:08.3)\n\n,0
+T,9147599,5,100,Grey,0:03:27.429,Pre-Chorus (3:27.4)\n\n,0
+T,10473507,5,100,Black,0:03:57.494,Chorus (3:57.5)\n\n,0
+T,11146153,5,100,Black,0:04:12.747,(4:12.8)\n\n,0
+T,11487323,5,100,DarkRed,0:04:20.484,Interlude (4:20.5)\n\n,0
+T,12177415,5,100,DarkRed,0:04:36.132,(4:36.1)\n\n,0
+T,12846184,5,100,Green,0:04:51.297,(4:51.3)\n\n,0
+T,13421908,5,100,DarkGreen,0:05:04.352,(5:04.4)\n\n,0
+T,14084859,5,100,DarkGreen,0:05:19.385,(5:19.4)\n\n,0
+T,14740060,5,100,Blue,0:05:34.242,Guitar Solo (5:34.2)\n\n,0
+T,15972921,5,100,DarkBlue,0:06:02.198,(6:02.2)\n\n,0
+T,17161200,5,100,Grey,0:06:29.143,Interlude (6:29.1)\n \n,0
+T,18413446,5,100,Black,0:06:57.538,Chorus (6:57.5)\n\n,0
+T,19058953,5,100,Red,0:07:12.176,Verse (7:12.2)\n\n,0
+T,20662061,5,100,Grey,0:07:48.527,Pre-Chorus (7:48.5)\n\n,0
+T,21927876,5,100,Black,0:08:17.231,Chorus (8:17.2)\n\n,0
+T,22573384,5,100,Black,0:08:31.868,(8:31.9)\n\n,0
+T,23211138,5,100,Black,0:08:46.330,(8:46.3)\n\n,0
+T,23835323,5,100,Black,0:09:00.484,(9:00.5)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,
+L,2,0,0,0,,White,
+L,3,0,0,0,,White,
+L,4,0,0,0,,White,
+L,5,0,0,0,,White,
+L,6,0,0,0,,White,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

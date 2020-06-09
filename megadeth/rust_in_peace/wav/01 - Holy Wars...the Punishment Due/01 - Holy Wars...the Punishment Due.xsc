@@ -1,0 +1,148 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,73,7,S,0
+
+SectionStart,Main
+SaveDate,2019-12-07 19:56
+SoundFileName,01 - Holy Wars...the Punishment Due.wav,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Megadeth/rust_in_peace/wav/01 - Holy Wars...the Punishment Due/01 - Holy Wars...the Punishment Due.wav
+SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,69907790,44100,17476928,396.302222
+Loops,9133241:270322,9330646:270322,9497681:270322,9676864:270322,9157538:780594,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,1,0,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,0,0,90000,0
+FX_Misc,1,0,53,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,12
+PianoTopNote,63
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.500030
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.999900
+VertProfileZoom,1.000000
+HorizProfileZoom,0.149684
+HorizProfilePos,0
+SelectionLeft,491513
+SelectionRight,1126870
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,29
+S,33055,1,A,0,0:00:00.750
+S,491513,1,B,0,0:00:11.145
+S,1126744,1,C,0,0:00:25.550
+S,2014918,1,D,0,0:00:45.690
+S,3020940,1,E,0,0:01:08.502
+S,3907877,1,F,0,0:01:28.614
+S,4412298,1,G,0,0:01:40.052
+S,4915135,1,H,0,0:01:51.454
+S,5413834,1,I,0,0:02:02.763
+S,5977207,1,J,0,0:02:15.538
+S,6475906,1,K,0,0:02:26.846
+S,7152815,1,L,0,0:02:42.195
+S,7835472,1,M,0,0:02:57.675
+S,8513819,1,N,0,0:03:13.057
+S,9191946,1,O,0,0:03:28.434
+S,9894943,1,P,0,0:03:44.375
+S,10234116,1,Q,0,0:03:52.066
+S,10913899,1,R,0,0:04:07.481
+S,11590678,1,S,0,0:04:22.827
+S,12267717,1,T,0,0:04:38.180
+S,12865582,1,U,0,0:04:51.737
+S,13101278,1,V,0,0:04:57.081
+S,13804774,1,W,0,0:05:13.033
+S,14503960,1,X,0,0:05:28.888
+S,15086015,1,Y,0,0:05:42.087
+S,15557408,1,Z,0,0:05:52.776
+S,16034550,1,A,0,0:06:03.595
+S,16635289,1,B,0,0:06:17.217
+S,16873860,1,C,0,0:06:22.627
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,28
+T,33055,5,310,Grey,0:00:00.750,Intro (0:00.8)\n\n,0
+T,491513,5,433,Black,0:00:11.145,(0:11.2)\n\n,0
+T,1126744,5,609,Black,0:00:25.550,(0:25.6)\n\n,0
+T,2014918,5,691,Red,0:00:45.690,(0:45.7)\n\n,0
+T,3020940,5,607,DarkRed,0:01:08.502,(1:08.5)\n\n,0
+T,3907877,5,340,Green,0:01:28.614,Verse (1:28.6)\n\n,0
+T,4412298,5,340,Green,0:01:40.052,(1:40.1)\n\n,0
+T,4915135,5,336,Green,0:01:51.454,(1:51.5)\n\n,0
+T,5413834,5,382,Green,0:02:02.763,(2:02.8)\n\n,0
+T,5977207,5,337,DarkGreen,0:02:15.538,Interlude (Friedman)\n\n,0
+T,6475906,5,462,Blue,0:02:26.846,Bridge (2:26.9)\n\n,0
+T,7152815,5,466,DarkBlue,0:02:42.195,Interlude (2:42.2)\n\n,0
+T,7835472,5,462,Teal,0:02:57.675,Verse (2:57.7)\n\n,0
+T,8513819,5,462,Teal,0:03:13.057,(3:13.1)\n\n,0
+T,9191946,5,479,Olive,0:03:28.434,Guitar Solo (Friedman) (3:28.4)\n\n,0
+T,9894943,5,227,DarkBlue,0:03:44.375,Interlude (3:44.4)\n\n,0
+T,10234116,5,464,Teal,0:03:52.066,Verse (3:52.1)\n\n,0
+T,10913899,5,462,Teal,0:04:07.481,(4:07.5)\n\n,0
+T,11590678,5,462,Olive,0:04:22.827,Guitar Solo (Friedman) (4:22.83)\n\n,0
+T,12267717,5,571,Purple,0:04:38.180,Interlude (4:38.2)\n\n,0
+T,13101278,5,480,Purple,0:04:57.081,Guitar Solo (Mustaine)\n\n,0
+T,13804774,5,478,Purple,0:05:13.033,(5:13)\n\n,0
+T,14503960,5,395,Purple,0:05:28.888,(5:28.9)\n\n,0
+T,15086015,5,317,Aqua,0:05:42.087,Outro-Verse (5:42.1)\n\n,0
+T,15557408,5,321,Yellow,0:05:52.776,(5:52.8)\n\n,0
+T,16034550,5,409,Yellow,0:06:03.595,(6:03.6)\n\n,0
+T,16635289,5,157,Black,0:06:17.217,(6:17.2)\n\n,0
+T,16873860,5,414,Red,0:06:22.627,Outro (6:22.6)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,1,9133241,270322,,White,
+L,2,1,9330646,270322,,White,
+L,3,1,9497681,270322,,White,
+L,4,1,9676864,270322,,White,
+L,5,1,9157538,780594,,White,
+L,6,0,0,0,,White,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

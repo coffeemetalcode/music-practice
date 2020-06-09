@@ -1,0 +1,135 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,71,7,S,0
+
+SectionStart,Main
+SoundFileName,08 Tossed Away.opus,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Forbidden/08 Tossed Away.opus
+SoundFileInfo,GStreamer soundfile,'.opus',2,4358601,48000,13222080,275.460000
+Loops,39671:485972,1269478:482667,2231505:466137,2694336:469442,5104361:459525,6863118:231415,7325949:575232,8354094:459525,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,0,0,70000,0
+FX_Misc,1,0,40
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,12
+PianoTopNote,63
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.366894
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.787541
+VertProfileZoom,1.000000
+HorizProfileZoom,0.149684
+HorizProfilePos,0
+SelectionLeft,0
+SelectionRight,0
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,28
+S,0,1,A,0,0:00:00.000
+S,525643,1,B,0,0:00:10.951
+S,1021533,1,C,0,0:00:21.282
+S,1269478,1,D,0,0:00:26.447
+S,1752145,1,E,0,0:00:36.503
+S,2231505,1,F,0,0:00:46.490
+S,2697642,1,G,0,0:00:56.201
+S,3163778,1,H,0,0:01:05.912
+S,3679504,1,I,0,0:01:16.656
+S,4162170,1,J,0,0:01:26.712
+S,4641531,1,K,0,0:01:36.699
+S,5104361,1,L,0,0:01:46.341
+S,5563886,1,M,0,0:01:55.914
+S,5911009,1,N,0,0:02:03.146
+S,6396981,1,O,0,0:02:13.270
+S,6863118,1,P,0,0:02:22.982
+S,7094534,1,Q,0,0:02:27.803
+S,7325949,1,R,0,0:02:32.624
+S,7897875,1,S,0,0:02:44.539
+S,8354094,1,T,0,0:02:54.044
+S,8810313,1,U,0,0:03:03.548
+S,9289673,1,V,0,0:03:13.535
+S,9752504,1,W,0,0:03:23.177
+S,10228558,1,X,0,0:03:33.095
+S,10707919,1,Y,0,0:03:43.082
+S,11164138,1,Z,0,0:03:52.586
+S,11626968,1,A,0,0:04:02.229
+S,12089799,1,B,0,0:04:11.871
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,17
+T,0,5,100,Grey,0:00:00.000,Intro (0:00)\n\n,0
+T,1021533,5,100,Black,0:00:21.282,(0:21.3)\n\n,0
+T,1269478,5,100,Black,0:00:26.447,Verse (0:26.5)\n\n,0
+T,2231505,5,100,Red,0:00:46.490,Pre-Chorus (0:46.5)\n\n,0
+T,2697642,5,100,DarkRed,0:00:56.201,Chorus (0:56.2)\n\n,0
+T,3679504,5,100,Black,0:01:16.656,Verse (1:16.7)\n\n,0
+T,4641531,5,100,Red,0:01:36.699,Pre-Chorus (1:36.7)\n\n,0
+T,5104361,5,100,Green,0:01:46.341,Chorus (1:46.3)\n\n,0
+T,5911009,5,100,Grey,0:02:03.146,Interlude (2:03.2)\n\n,0
+T,6396981,5,100,DarkGreen,0:02:13.270,(2:13.3)\n\n,0
+T,7325949,5,100,Blue,0:02:32.624,Guitar Solo (2:32.6)\n\n,0
+T,8354094,5,100,DarkBlue,0:02:54.044,(2:54)\n\n,0
+T,9289673,5,100,DarkGreen,0:03:13.535,Interlude (3:13.5)\n\n,0
+T,9752504,5,100,Black,0:03:23.177,Verse (3:23.2)\n\n,0
+T,10707919,5,100,Red,0:03:43.082,Pre-Chorus (3:43.1)\n\n,0
+T,11164138,5,100,DarkRed,0:03:52.586,Chorus (3:52.6)\n\n,0
+T,12089799,5,100,DarkRed,0:04:11.871,Outro-Chorus (4:11.9)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,1,39671,485972,Intro / Interlude,White,
+L,2,1,1269478,482667,Verse,White,
+L,3,1,2231505,466137,Pre-Chorus,White,
+L,4,1,2694336,469442,Chorus,White,
+L,5,1,5104361,459525,Chorus 2,White,
+L,6,1,6863118,231415,Interlude,White,
+L,7,1,7325949,575232,Guitar Solo 1,White,
+L,8,1,8354094,459525,Guitar Solo 2,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

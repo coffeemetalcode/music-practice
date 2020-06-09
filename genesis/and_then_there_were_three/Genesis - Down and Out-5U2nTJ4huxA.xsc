@@ -1,0 +1,111 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,70,7,S,0
+
+SectionStart,Main
+SoundFileName,Genesis - Down and Out-5U2nTJ4huxA.opus,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Genesis/and_then_there_were_three/Genesis - Down and Out-5U2nTJ4huxA.opus
+SoundFileInfo,GStreamer soundfile,'.opus',2,5491060,48000,15728640,327.680000
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,1,0,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,0,0,70000,0
+FX_Misc,1,0,50
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,12
+PianoTopNote,63
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.367857
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.788732
+VertProfileZoom,1.000000
+HorizProfileZoom,0.149684
+HorizProfilePos,2788
+SelectionLeft,10374019
+SelectionRight,10374019
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,12
+S,0,1,A,0,0:00:00.000
+S,1365351,1,B,0,0:00:28.445
+S,1986866,1,C,0,0:00:41.393
+S,2254646,1,D,0,0:00:46.972
+S,2565404,1,E,0,0:00:53.446
+S,3180308,1,F,0,0:01:06.256
+S,4410115,1,G,0,0:01:31.877
+S,5021713,1,H,0,0:01:44.619
+S,6277968,1,I,0,0:02:10.791
+S,7273054,1,J,0,0:02:31.522
+S,8268140,1,K,0,0:02:52.253
+S,10374019,1,L,0,0:03:36.125
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,10
+T,0,5,100,Grey,0:00:00.000,Intro (0:00)\n\nKybd,0
+T,1365351,5,100,Black,0:00:28.445,(0:28.4)\n\nGtr. 1 (dist.) in [R & L],0
+T,2254646,5,100,Red,0:00:46.972,(0:47.0)\n\nGtr. 1,0
+T,2565404,5,100,Red,0:00:53.446,Verse (0:53.5)\n\nGtr. 1,0
+T,3180308,5,100,DarkRed,0:01:06.256,(1:06.3)\n\n,0
+T,4410115,5,100,Red,0:01:31.877,Verse (1:31.9)\n\nGtr. 1,0
+T,5021713,5,100,DarkRed,0:01:44.619,(1:44.6)\n\nGtr. 1,0
+T,6277968,5,100,Green,0:02:10.791,Chorus (2:10.8)\n\nGtr. 1,0
+T,8268140,5,100,Red,0:02:52.253,Interlude (2:52.3)\n\nGtr. 1,0
+T,10374019,5,100,Red,0:03:36.125,Solo (3:36.1)\n\nShred,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,
+L,2,0,0,0,,White,
+L,3,0,0,0,,White,
+L,4,0,0,0,,White,
+L,5,0,0,0,,White,
+L,6,0,0,0,,White,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

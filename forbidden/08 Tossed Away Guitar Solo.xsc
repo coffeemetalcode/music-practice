@@ -1,0 +1,99 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,71,7,S,0
+
+SectionStart,Main
+SoundFileName,08 Tossed Away Guitar Solo.mp3,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Forbidden/08 Tossed Away Guitar Solo.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Bitrate 256K),2,1387776,48000,2081664,43.368000
+Loops,0:0,16530:330593,244638:330600,499195:168606,608291:297540,836401:297540,1064510:297540,1289313:297540,1524035:297540,19836:1801739
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,1,0,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,35000,0
+FX_Misc,1,0,50
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,12
+PianoTopNote,63
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.366894
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.787541
+VertProfileZoom,1.000000
+HorizProfileZoom,0.149684
+HorizProfilePos,0
+SelectionLeft,271086
+SelectionRight,568626
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,9
+S,69425,1,A,0,0:00:01.446
+S,300840,1,B,0,0:00:06.268
+S,528949,1,C,0,0:00:11.020
+S,641351,1,D,0,0:00:13.361
+S,872767,1,E,0,0:00:18.183
+S,1100876,1,F,0,0:00:22.935
+S,1328985,1,G,0,0:00:27.687
+S,1553789,1,H,0,0:00:32.371
+S,1785204,1,I,0,0:00:37.192
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,
+L,2,1,16530,330593,Meas. 1-2,White,
+L,3,1,244638,330600,Meas. 3-4,White,
+L,4,1,499195,168606,Meas. 5,White,
+L,5,1,608291,297540,Meas. 6-7,White,
+L,6,1,836401,297540,Meas. 8-9,White,
+L,7,1,1064510,297540,Meas. 10-11,White,
+L,8,1,1289313,297540,Meas. 12-13,White,
+L,9,1,1524035,297540,Meas. 14-15,White,
+L,10,1,19836,1801739,Full,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

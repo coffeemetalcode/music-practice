@@ -1,0 +1,95 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,73,7,S,0
+
+SectionStart,Main
+SaveDate,2019-09-24 20:29
+SoundFileName,solo 4.22.mp3,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Megadeth/rust_in_peace/wav/01 - Holy Wars...the Punishment Due/solo 4.22.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Bitrate 256K),2,626938,44100,864000,19.591837
+Loops,97768:344463,44336:252380,231916:237600,402436:234197,587743:223962,44336:792380,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,1,0,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,70000,0
+FX_Misc,1,0,60,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,1
+FitWholeFileHorizZoom,0.149684
+FitWholeFileStartwavpix,0
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,12
+PianoTopNote,63
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.367862
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.788738
+VertProfileZoom,1.000000
+HorizProfileZoom,0.713466
+HorizProfilePos,0
+SelectionLeft,44336
+SelectionRight,836716
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,3
+S,97768,1,A,0,0:00:02.217
+S,443368,1,B,0,0:00:10.054
+S,777599,1,C,0,0:00:17.633
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,1
+T,97768,5,589,Olive,0:00:02.217,Guitar Solo (Friedman) (4:22)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,1,97768,344463,Rhythm,Grey,
+L,2,1,44336,252380,Meas. 1-2,Red,
+L,3,1,231916,237600,Meas. 3-4,Red,
+L,4,1,402436,234197,Meas. 5-6,Red,
+L,5,1,587743,223962,Meas. 7-8,Red,
+L,6,1,44336,792380,Meas. 1-8,Green,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

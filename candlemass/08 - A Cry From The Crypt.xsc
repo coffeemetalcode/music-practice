@@ -1,0 +1,193 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,73,7,S,0
+
+SectionStart,Main
+SaveDate,2020-01-13 20:18
+SoundFileName,08 - A Cry From The Crypt.mp3,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Candlemass/08 - A Cry From The Crypt.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,15551911,44100,19602432,444.499592
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,1
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,0
+FX_Tuning,0,0,0,1,0,0,60,50,0
+FX_Transposition,0,0,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,70000,0
+FX_Misc,1,0,41,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,1
+ShowGuessNotes,1
+ShowGuessChords,1
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,38
+PianoTopNote,89
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.518758
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.999900
+VertProfileZoom,1.000000
+HorizProfileZoom,0.250000
+HorizProfilePos,5487
+SelectionLeft,7874031
+SelectionRight,9971446
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,70
+S,0,1,A1,0,0:00:00.000
+S,469108,1,B2,0,0:00:10.637
+B,504869,1,,0,0:00:11.448
+B,540932,1,,0,0:00:12.266
+B,580048,1,,0,0:00:13.153
+B,617440,1,,0,0:00:14.001
+B,658462,1,,0,0:00:14.931
+B,695762,1,,0,0:00:15.777
+B,734724,1,,0,0:00:16.660
+B,773448,1,,0,0:00:17.539
+B,808779,1,,0,0:00:18.340
+B,848328,1,,0,0:00:19.236
+B,886212,1,,0,0:00:20.096
+S,928522,1,C3,0,0:00:21.055
+S,1389876,1,D4,0,0:00:31.516
+B,1428157,1,,0,0:00:32.385
+B,1464280,1,,0,0:00:33.204
+B,1503354,1,,0,0:00:34.090
+B,1542900,1,,0,0:00:34.986
+B,1580044,1,,0,0:00:35.829
+B,1617845,1,,0,0:00:36.686
+S,2004365,1,E5,0,0:00:45.450
+B,2040794,1,,0,0:00:46.277
+B,2077451,1,,0,0:00:47.108
+B,2115457,1,,0,0:00:47.970
+B,2152883,1,,0,0:00:48.818
+B,2193425,1,,0,0:00:49.738
+B,2230607,1,,0,0:00:50.581
+B,2270259,1,,0,0:00:51.480
+S,2616922,1,F6,0,0:00:59.341
+S,3229476,1,G7,0,0:01:13.231
+S,3537691,1,H8,0,0:01:20.220
+S,4152184,1,I9,0,0:01:34.154
+S,4766675,1,J10,0,0:01:48.088
+S,5072953,1,K11,0,0:01:55.033
+S,5687445,1,L12,0,0:02:08.967
+S,6377538,1,M13,0,0:02:24.615
+S,6993968,1,N14,0,0:02:38.593
+S,7302184,1,O15,0,0:02:45.582
+B,7345848,1,,0,0:02:46.573
+B,7388897,1,,0,0:02:47.549
+B,7433559,1,,0,0:02:48.561
+B,7478344,1,,0,0:02:49.577
+B,7522889,1,,0,0:02:50.587
+B,7567854,1,,0,0:02:51.607
+B,7611606,1,,0,0:02:52.599
+B,7655200,1,,0,0:02:53.587
+S,8052369,1,P16,0,0:03:02.593
+S,8356707,1,Q17,0,0:03:09.494
+S,8664924,1,R18,0,0:03:16.484
+S,8973138,1,S19,0,0:03:23.473
+S,9277476,1,T20,0,0:03:30.374
+S,9585692,1,U21,0,0:03:37.363
+S,9891969,1,V22,0,0:03:44.308
+S,10355260,1,W23,0,0:03:54.813
+S,10816614,1,X24,0,0:04:05.275
+S,11431106,1,Y25,0,0:04:19.209
+S,12043661,1,Z26,0,0:04:33.099
+S,12658153,1,A27,0,0:04:47.033
+S,13270708,1,B28,0,0:05:00.923
+S,13885200,1,C29,0,0:05:14.857
+S,14191475,1,D30,0,0:05:21.802
+S,14805969,1,E31,0,0:05:35.736
+S,15497999,1,F32,0,0:05:51.429
+S,16110554,1,G33,0,0:06:05.319
+S,16575785,1,H34,0,0:06:15.868
+S,17267815,1,I35,0,0:06:31.560
+S,17975352,1,J36,0,0:06:47.604
+S,18684829,1,K37,0,0:07:03.692
+S,19396247,1,L38,0,0:07:19.824
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,32
+T,0,5,100,Grey,0:00:00.000,Intro (0:00)\n\nGtr. 1 (dist.) in [R & L],0
+T,928522,5,100,Grey,0:00:21.055,(0:21.1)\n\nGtr. 1\nGtr. 2 (dist.) in @0:21.9 [R & L],0
+T,2004365,5,100,Black,0:00:45.450,(0:45.5)\n\nGtr. 2 out\nGtr. 1,0
+T,2616922,5,100,Red,0:00:59.341,(0:59.3)\n\nGtr. 1,0
+T,3229476,5,100,Black,0:01:13.231,(1:13.2)\n\nGtr. 1,0
+T,3537691,5,100,Black,0:01:20.220,Verse (1:20.2)\n\nGtr. 1,0
+T,4152184,5,100,Red,0:01:34.154,Interlude (1:34.2)\n\nGtr. 1,0
+T,4766675,5,100,Black,0:01:48.088,(1:48.1)\n\nGtr. 1,0
+T,5072953,5,100,Black,0:01:55.033,Verse (1:55)\n\nGtr. 1,0
+T,5687445,5,100,DarkRed,0:02:08.967,(2:09)\n\nGtr. 1,0
+T,6377538,5,100,Black,0:02:24.615,Chorus (2:24.6)\n\nGtr. 1,0
+T,6993968,5,100,Green,0:02:38.593,Interlude (2:38.6)\n\nGtr. 1,0
+T,7302184,5,100,DarkGreen,0:02:45.582,(2:45.6)\n\nGtr. 1\nGtr. 3 (dist.) in [R & L],0
+T,8052369,5,100,Blue,0:03:02.593,Guitar Solo (3:02.6)\n\nGtrs. 1 & 3,0
+T,8664924,5,100,DarkBlue,0:03:16.484,(3:16.5)\n\nGtrs. 1 & 3,0
+T,9277476,5,100,Blue,0:03:30.374,(3:30.4)\n\nGtrs. 1 & 3,0
+T,9891969,5,100,Grey,0:03:44.308,Interlude (3:44.3)\n\nGtr. 3 out\nGtr. 1\nGtr. 2 in @3:45.2,0
+T,10816614,5,100,Teal,0:04:05.275,(4:05.3)\n\nGtr. 2 out\nGtr. 1,0
+T,11431106,5,100,Teal,0:04:19.209,Bridge (4:19.2)\n\nGtr. 1,0
+T,12043661,5,100,Teal,0:04:33.099,(4:33.1)\n\nGtr. 1,0
+T,12658153,5,100,Black,0:04:47.033,Chorus (4:47)\n\nGtr. 1,0
+T,13270708,5,100,Red,0:05:00.923,Interlude (5:00.9)\n\nGtr. 1,0
+T,13885200,5,100,Black,0:05:14.857,(4:14.9)\n\nGtr. 1,0
+T,14191475,5,100,Black,0:05:21.802,Verse (5:21.8)\n\nGtr. 1,0
+T,14805969,5,100,DarkRed,0:05:35.736,(5:35.7)\n\nGtr. 1,0
+T,15497999,5,100,Black,0:05:51.429,Chorus (5:51.4)\n\nGtr. 1,0
+T,16110554,5,100,Green,0:06:05.319,Interlude (6:05.3)\n\nGtr. 1,0
+T,16575785,5,100,Olive,0:06:15.868,Outro (6:15.9)\n\nGtr. 1,0
+T,17267815,5,100,Olive,0:06:31.560,(6:31.6)\n\nGtr. 1\nGtr. 3 in,0
+T,17975352,5,100,Olive,0:06:47.604,(6:47.6)\n\nGtrs. 1 & 3\nGtr. 2 in,0
+T,18684829,5,100,Olive,0:07:03.692,(7:03.7)\n\nGtrs. 1 - 3,0
+T,19396247,5,98,Olive,0:07:19.824,(7:19.8)\n\nGtrs. 1 - 3,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,
+L,2,0,0,0,,White,
+L,3,0,0,0,,White,
+L,4,0,0,0,,White,
+L,5,0,0,0,,White,
+L,6,0,0,0,,White,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops
