@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,8,74,7,S,1
 
 SectionStart,Main
-SaveDate,2020-05-15 20:55
-SoundFileName,06 - Hallowed Point.mp3,Nix,/media/david/5F54-FCD3/slayer/Seasons In The Abyss/06 - Hallowed Point.mp3
+SaveDate,2020-07-10 20:53
+SoundFileName,06 - Hallowed Point.mp3,Nix,/home/david/Music/music-practice/slayer/Seasons In The Abyss/06 - Hallowed Point.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,6559438,44100,8980992,203.650612
 Loops,101840:185492,1223889:378352,1603967:189176,3131555:201909,3544366:389172,4328165:390991,6397682:425537,7252404:210895,0:0,0:0
 MarkerNumberContinuously,0
@@ -13,11 +13,11 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,180,1
+FX_Mix,0,0,100,1
 FX_Tuning,0,0,0,1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80
-FX_Speed,1,0,50000,0
+FX_Speed,1,0,75000,0
 FX_Misc,1,0,36,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -46,12 +46,12 @@ PianoBtmNote,39
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.355883
+TextZoneSplitterPos,0.355772
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.778920
+ViewSplitterPos,0.778784
 VertProfileZoom,1.000000
 HorizProfileZoom,0.250000
-HorizProfilePos,3784
+HorizProfilePos,0
 SelectionLeft,0
 SelectionRight,0
 SectionEnd,View0

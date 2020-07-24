@@ -1,9 +1,9 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,73,7,S,0
+Transcribe!,GTK,8,74,7,S,1
 
 SectionStart,Main
-SaveDate,2019-12-07 19:56
-SoundFileName,01 - Holy Wars...the Punishment Due.wav,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Megadeth/rust_in_peace/wav/01 - Holy Wars...the Punishment Due/01 - Holy Wars...the Punishment Due.wav
+SaveDate,2020-06-25 21:57
+SoundFileName,01 - Holy Wars...the Punishment Due.wav,Nix,/home/david/Music/music-practice/megadeth/rust_in_peace/wav/01 - Holy Wars...the Punishment Due/01 - Holy Wars...the Punishment Due.wav
 SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,69907790,44100,17476928,396.302222
 Loops,9133241:270322,9330646:270322,9497681:270322,9676864:270322,9157538:780594,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -14,10 +14,10 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,0,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,0,0,90000,0
+FX_Speed,1,0,70000,0
 FX_Misc,1,0,53,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -42,12 +42,11 @@ FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 LoopMode,1
 ScrollMode,1
-PlayZone,4
 PianoBtmNote,12
 PianoTopNote,63
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.500030
+TextZoneSplitterPos,0.500035
 PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.999900
 VertProfileZoom,1.000000

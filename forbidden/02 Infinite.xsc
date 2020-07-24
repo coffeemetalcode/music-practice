@@ -1,8 +1,9 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,70,7,S,0
+Transcribe!,GTK,8,74,7,S,1
 
 SectionStart,Main
-SoundFileName,02 Infinite.opus,Nix,/home/david/Dropbox/david_self_study/guitar/shred/Forbidden/02 Infinite.opus
+SaveDate,2020-07-24 01:55
+SoundFileName,02 Infinite.opus,Nix,/home/david/Music/music-practice/forbidden/02 Infinite.opus
 SoundFileInfo,GStreamer soundfile,'.opus',2,5612690,48000,17073600,355.700000
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -13,11 +14,11 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,0,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,70000,0
-FX_Misc,1,0,50
+FX_Speed,0,0,85000,0
+FX_Misc,1,0,40,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,39 +36,86 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
+ShowLoopLine,0
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 LoopMode,1
 ScrollMode,1
-PlayZone,4
 PianoBtmNote,12
 PianoTopNote,63
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.367857
+TextZoneSplitterPos,0.367676
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.788732
+ViewSplitterPos,0.788508
 VertProfileZoom,1.000000
 HorizProfileZoom,0.149684
-HorizProfilePos,105
-SelectionLeft,995086
-SelectionRight,1590154
+HorizProfilePos,5378
+SelectionLeft,16492555
+SelectionRight,16492555
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,3
+Howmany,33
 S,0,1,A,0,0:00:00.000
 S,995086,1,B,0,0:00:20.731
 S,1586848,1,C,0,0:00:33.059
+S,2488162,1,D,0,0:00:51.837
+S,2970344,1,E,0,0:01:01.882
+S,3578926,1,F,0,0:01:14.561
+S,4077495,1,G,0,0:01:24.948
+S,4576064,1,H,0,0:01:35.335
+S,4952916,1,I,0,0:01:43.186
+S,5264229,1,J,0,0:01:49.671
+S,6359674,1,K,0,0:02:12.493
+S,6853562,1,L,0,0:02:22.783
+S,7349790,1,M,0,0:02:33.121
+S,7724302,1,N,0,0:02:40.923
+S,8033274,1,O,0,0:02:47.360
+S,8513117,1,P,0,0:02:57.357
+S,9102973,1,Q,0,0:03:09.645
+S,9578134,1,R,0,0:03:19.544
+S,10046274,1,S,0,0:03:29.297
+S,10507391,1,T,0,0:03:38.904
+S,10968509,1,U,0,0:03:48.511
+S,11431967,1,V,0,0:03:58.166
+S,11895424,1,W,0,0:04:07.821
+S,12356542,1,X,0,0:04:17.428
+S,12815319,1,Y,0,0:04:26.986
+S,13278776,1,Z,0,0:04:36.641
+S,13744576,1,A,0,0:04:46.345
+S,14203352,1,B,0,0:04:55.903
+S,14662129,1,C,0,0:05:05.461
+S,15116224,1,D,0,0:05:14.921
+S,15570319,1,E,0,0:05:24.382
+S,16033778,1,F,0,0:05:34.037
+S,16492555,1,G,0,0:05:43.595
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,3
-T,0,5,100,Grey,0:00:00.000,,0
-T,995086,5,100,Grey,0:00:20.731,,0
-T,1586848,5,100,Grey,0:00:33.059,,0
+Howmany,20
+T,0,5,413,Grey,0:00:00.000,Intro (0:00)\n\nGtr. 1 (dist.) in [R & L]\nGtr. 2 (dist.) in [R]\nGtr. 3 (dist.) in [L],0
+T,995086,5,628,Black,0:00:20.731,(0:20.7)\n\nGtr. 1 out\nGtrs. 2 & 3,0
+T,2488162,5,456,Red,0:00:51.837,(0:51.8)\n\nGtrs. 2 & 3,0
+T,3578926,5,415,DarkRed,0:01:14.561,Verse (1:14.6)\n\nGtrs. 2 & 3,0
+T,4576064,5,285,Green,0:01:35.335,Pre-Chorus (1:35.3)\n\nGtrs. 2 & 3,0
+T,5264229,5,458,DarkGreen,0:01:49.671,Chorus (1:49.7)\n\nGtrs. 2 & 3,0
+T,6359674,5,413,DarkRed,0:02:12.493,Verse (2:12.5)\n\nGtrs. 2 & 3,0
+T,7349790,5,283,Green,0:02:33.121,Pre-Chorus (2:33.1)\n\nGtrs. 2 & 3,0
+T,8033274,5,448,DarkGreen,0:02:47.360,Chorus (2:47.4)\n\nGtrs. 2 & 3,0
+T,9102973,5,193,Blue,0:03:09.645,Interlude (3:09.7)\n\nGtrs. 2 & 3,0
+T,9578134,5,190,DarkBlue,0:03:19.544,(3:19.5)\n\nGtrs. 2 & 3,0
+T,10046274,5,582,Teal,0:03:29.297,Guitar Solo (3:29.3)\n\nGtrs. 2 & 3\nGtr. 4 (dist) in,0
+T,11431967,5,189,Olive,0:03:58.166,(3:58.2)\n\nGtrs. 2\C 3 & 4,0
+T,11895424,5,188,Teal,0:04:07.821,(4:07.8)\n\nGtrs. 2\C 3 & 4,0
+T,12356542,5,187,Olive,0:04:17.428,(4:17.4)\n\nGtrs. 2\C 3 & 4,0
+T,12815319,5,388,Teal,0:04:26.986,Bridge (4:27)\n\nGtrs. 2\C 3 & 4\nGtr. 4 out @ 4:28.3,0
+T,13744576,5,382,Purple,0:04:46.345,Outro (4:46.4)\n\nGtrs. 2 & 3,0
+T,14662129,5,377,Aqua,0:05:05.461,(5:05.5)\n\nGtrs. 2 & 3\nGtr. 5 (dist.) in [R]\nGtr. 6 (dist.) in [L],0
+T,15570319,5,382,Aqua,0:05:24.382,(5:24.4)\n\nGtrs. 2\C 3\C 5 & 6,0
+T,16492555,5,239,Yellow,0:05:43.595,Segue to "Out of Body Out of Mind (5:43.6)\n\nGtrs. 5 & 6 out\nGtrs. 2 & 3,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
