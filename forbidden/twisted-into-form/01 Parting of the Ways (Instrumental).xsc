@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,8,74,7,S,1
 
 SectionStart,Main
-SaveDate,2020-07-24 01:25
-SoundFileName,01 Parting of the Ways (Instrumental).opus,Nix,/home/david/Music/music-practice/forbidden/01 Parting of the Ways (Instrumental).opus
+SaveDate,2020-09-13 19:40
+SoundFileName,01 Parting of the Ways (Instrumental).opus,Nix,/home/david/Music/music-practice/forbidden/twisted-into-form/01 Parting of the Ways (Instrumental).opus
 SoundFileInfo,GStreamer soundfile,'.opus',2,1230946,48000,3145920,65.540000
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -13,11 +13,11 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,1,0,100,1
+FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,0,0,85000,0
+FX_Speed,1,0,88000,0
 FX_Misc,1,0,38,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -46,14 +46,14 @@ PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.365067
+TextZoneSplitterPos,0.364954
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.770122
+ViewSplitterPos,0.769994
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
 HorizProfilePos,0
-SelectionLeft,1042686
-SelectionRight,1042686
+SelectionLeft,2155445
+SelectionRight,2155445
 SectionEnd,View0
 
 SectionStart,Markers

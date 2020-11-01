@@ -1,0 +1,125 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,74,7,S,1
+
+SectionStart,Main
+SaveDate,2020-10-26 22:10
+SoundFileName,children-of-the-damned.m4a,Nix,/home/david/Music/music-practice/iron-maiden/children-of-the-damned.m4a
+SoundFileInfo,GStreamer soundfile,'.m4a',2,3352427,44100,12141568,275.319002
+Loops,648946:638645,1287591:630920,2539130:610320,6674873:455807,8029419:440357,9780543:437782,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,0,0,90000,0
+FX_Misc,1,0,38,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PianoBtmNote,36
+PianoTopNote,91
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.365077
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.770134
+VertProfileZoom,1.000000
+HorizProfileZoom,0.125000
+HorizProfilePos,3009
+SelectionLeft,9780543
+SelectionRight,10218325
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,23
+S,0,1,A,0,0:00:00.000
+S,646371,1,B,0,0:00:14.657
+S,1285016,1,C,0,0:00:29.139
+S,1913361,1,D,0,0:00:43.387
+S,2533980,1,E,0,0:00:57.460
+S,3141723,1,F,0,0:01:11.241
+S,3752041,1,G,0,0:01:25.080
+S,4380385,1,H,0,0:01:39.328
+S,4998429,1,I,0,0:01:53.343
+S,5611323,1,J,0,0:02:07.241
+S,6211341,1,K,0,0:02:20.847
+S,6674873,1,L,0,0:02:31.358
+S,7125530,1,M,0,0:02:41.577
+S,7576187,1,N,0,0:02:51.796
+S,8029419,1,O,0,0:03:02.073
+S,8462050,1,P,0,0:03:11.883
+S,8902406,1,Q,0,0:03:21.869
+S,9342762,1,R,0,0:03:31.854
+S,9777968,1,S,0,0:03:41.723
+S,10218324,1,T,0,0:03:51.708
+S,10648380,1,U,0,0:04:01.460
+S,11083586,1,V,0,0:04:11.328
+S,11559994,1,W,0,0:04:22.131
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,70,11,Fira Code,
+Howmany,12
+T,0,5,490,Grey,0:00:00.000,Intro (0:00)\n\n,0
+T,1285016,5,476,Black,0:00:29.139,Verse (0:29.1)\n\n,0
+T,2533980,5,464,Red,0:00:57.460,Chorus (0:57.5)\n\n,0
+T,3752041,5,475,Black,0:01:25.080,Verse (1:25.1)\n\n,0
+T,4998429,5,462,Red,0:01:53.343,Chorus (1:53.3)\n\n,0
+T,6211341,5,346,DarkRed,0:02:20.847,Bridge (2:20.9)\n\n,0
+T,7125530,5,341,DarkRed,0:02:41.577,(2:41.6)\n\n,0
+T,8029419,5,329,Green,0:03:02.073,Interlude (3:02.1)\n\n,0
+T,8902406,5,331,Green,0:03:21.869,Guitar Solo (3:21.9)\n\n,0
+T,9777968,5,329,DarkGreen,0:03:41.723,Outro (3:41.7)\n\n,0
+T,10648380,5,345,DarkGreen,0:04:01.460,(4:01.5)\n\n,0
+T,11559994,5,218,DarkGreen,0:04:22.131,(4:22.1)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,1,648946,638645,,White,
+L,2,1,1287591,630920,,White,
+L,3,1,2539130,610320,,White,
+L,4,1,6674873,455807,,White,
+L,5,1,8029419,440357,,White,
+L,6,1,9780543,437782,,White,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

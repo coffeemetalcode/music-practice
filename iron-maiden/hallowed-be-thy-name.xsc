@@ -1,0 +1,159 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,74,7,S,1
+
+SectionStart,Main
+SaveDate,2020-10-30 20:50
+SoundFileName,hallowed-be-thy-name.m4a,Nix,/home/david/Music/music-practice/iron-maiden/hallowed-be-thy-name.m4a
+SoundFileInfo,GStreamer soundfile,'.m4a',2,5248272,44100,19008512,431.032018
+Loops,2652437:824059,3473921:816333,5129763:816333,6765003:803459,7571036:417180,11681028:381127,12062155:394003,14688841:288420,15458820:391430,16241676:394003
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,1
+FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,80000,0
+FX_Misc,1,0,50,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PianoBtmNote,36
+PianoTopNote,91
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.364283
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.769230
+VertProfileZoom,1.000000
+HorizProfileZoom,0.125000
+HorizProfilePos,1297
+SelectionLeft,4287679
+SelectionRight,5946096
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,43
+S,25752,1,A,0,0:00:00.584
+S,556240,1,B,0,0:00:12.613
+S,1084152,1,C,0,0:00:24.584
+S,1612064,1,D,0,0:00:36.555
+S,2134827,1,E,0,0:00:48.409
+S,2649862,1,F,0,0:01:00.088
+S,3061892,1,G,0,0:01:09.431
+S,3473921,1,H,0,0:01:18.774
+S,3880800,1,I,0,0:01:28.000
+S,4287679,1,J,0,0:01:37.226
+S,5129763,1,K,0,0:01:56.321
+S,5539218,1,L,0,0:02:05.606
+S,5946096,1,M,0,0:02:14.832
+S,6765003,1,N,0,0:02:33.401
+S,7571036,1,O,0,0:02:51.679
+S,7988216,1,P,0,0:03:01.139
+S,8400245,1,Q,0,0:03:10.482
+S,8809699,1,R,0,0:03:19.766
+S,9216578,1,S,0,0:03:28.993
+S,9628607,1,T,0,0:03:38.336
+S,10038061,1,U,0,0:03:47.620
+S,10447516,1,V,0,0:03:56.905
+S,10859545,1,W,0,0:04:06.248
+S,11271574,1,X,0,0:04:15.591
+S,11681028,1,Y,0,0:04:24.876
+S,12062155,1,Z,0,0:04:33.518
+S,12456158,1,A,0,0:04:42.453
+S,12842435,1,B,0,0:04:51.212
+S,13241588,1,C,0,0:05:00.263
+S,13627866,1,D,0,0:05:09.022
+S,14016718,1,E,0,0:05:17.839
+S,14405571,1,F,0,0:05:26.657
+S,14688841,1,G,0,0:05:33.080
+S,14977262,1,H,0,0:05:39.620
+S,15263107,1,I,0,0:05:46.102
+S,15458820,1,J,0,0:05:50.540
+S,15847673,1,K,0,0:05:59.358
+S,16241676,1,L,0,0:06:08.292
+S,16635678,1,M,0,0:06:17.226
+S,17029682,1,N,0,0:06:26.161
+S,17421109,1,O,0,0:06:35.036
+S,17714680,1,P,0,0:06:41.693
+S,18528438,1,Q,0,0:07:00.146
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,70,10,Fira Code,
+Howmany,26
+T,25752,5,196,Grey,0:00:00.584,Intro (0:00.6)\n\n,0
+T,556240,5,196,Grey,0:00:12.613,Verse (0:12.6)\n\n,0
+T,1084152,5,196,Grey,0:00:24.584,(0:24.6)\n\n,0
+T,1612064,5,194,Black,0:00:36.555,(0:36.6)\n\n,0
+T,2134827,5,191,Black,0:00:48.409,(0:48.4)\n\n,0
+T,2649862,5,311,Red,0:01:00.088,Interlude (1:00.1)\n\n,0
+T,3473921,5,306,DarkRed,0:01:18.774,(1:18.8)\n\n,0
+T,4287679,5,316,Green,0:01:37.226,Verse (1:37.2)\n\n,0
+T,5129763,5,308,Green,0:01:56.321,(1:56.3)\n\n,0
+T,5946096,5,309,DarkRed,0:02:14.832,Interlude (2:14.8)\n\n,0
+T,6765003,5,304,DarkGreen,0:02:33.401,(2:33.4)\n\n,0
+T,7571036,5,313,Blue,0:02:51.679,(2:51.7)\n\n,0
+T,8400245,5,306,Green,0:03:10.482,Verse (3:10.5)\n\n,0
+T,9216578,5,310,Green,0:03:28.993,(3:29.0)\n\n,0
+T,10038061,5,310,Blue,0:03:47.620,Interlude (3:47.6)\n\n,0
+T,10859545,5,310,DarkBlue,0:04:06.248,(4:06.3)\n\n,0
+T,11681028,5,139,Teal,0:04:24.876,(4:24.9)\n\n,0
+T,12062155,5,294,Olive,0:04:33.518,(4:33.5)\n\n,0
+T,12842435,5,296,Olive,0:04:51.212,Guitar Solo (4:51.2)\n\n,0
+T,13627866,5,294,Olive,0:05:09.022,Guitar Solo (5:09)\n\n,0
+T,14405571,5,400,Purple,0:05:26.657,Interlude (5:26.7)\n\n,0
+T,15458820,5,294,Aqua,0:05:50.540,(5:50.5)\n\n,0
+T,16241676,5,295,Aqua,0:06:08.292,(6:08.3)\n\n,0
+T,17029682,5,257,Yellow,0:06:26.161,Outro (6:26.2)\n\n,0
+T,17714680,5,306,DarkBlue,0:06:41.693,(6:41.7)\n\n,0
+T,18528438,5,179,Fuchsia,0:07:00.146,(7:00.2)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,1,2652437,824059,,Red,
+L,2,1,3473921,816333,,White,
+L,3,1,5129763,816333,,Green,
+L,4,1,6765003,803459,,White,
+L,5,1,7571036,417180,,Blue,
+L,6,1,11681028,381127,,White,
+L,7,1,12062155,394003,,White,
+L,8,1,14688841,288420,,White,
+L,9,1,15458820,391430,,White,
+L,10,1,16241676,394003,,White,
+L,11,1,17029682,391427,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops

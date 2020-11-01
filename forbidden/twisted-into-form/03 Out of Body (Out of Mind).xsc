@@ -2,9 +2,9 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,8,74,7,S,1
 
 SectionStart,Main
-SaveDate,2020-08-11 21:10
-SoundFileName,03 - Spirit In Black.mp3,Nix,/home/david/Music/music-practice/slayer/seasons-in-the-abyss/03 - Spirit In Black.mp3
-SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,7875958,44100,10908288,247.353469
+SaveDate,2020-10-02 21:30
+SoundFileName,03 Out of Body (Out of Mind).ogg,Nix,/home/david/Music/music-practice/forbidden/twisted-into-form/03 Out of Body (Out of Mind).ogg
+SoundFileInfo,Ogg Vorbis,126K bps.,2,4283480,44100,11893946,269.703991
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -14,10 +14,10 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,80000,0
+FX_Speed,1,0,70000,0
 FX_Misc,1,0,38,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -40,15 +40,15 @@ ShowLoopLine,0
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
-LoopMode,0
+LoopMode,1
 ScrollMode,1
 PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.364952
+TextZoneSplitterPos,0.365067
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.769991
+ViewSplitterPos,0.770122
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
 HorizProfilePos,0
@@ -57,8 +57,7 @@ SelectionRight,0
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,1
-S,6108332,1,A,0,0:02:18.511
+Howmany,0
 SectionEnd,Markers
 
 SectionStart,TextBlocks

@@ -1,8 +1,9 @@
-XSC Transcribe.Document Version 6089.00
-Transcribe!,Windows,8,64,7,S,0
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,74,7,S,1
 
 SectionStart,Main
-SoundFileName,06 - Lucretia.wav,Win,C:\\Users\\Stand Out\\Dropbox (Personal)\\david_self_study\\guitar\\shred\\Megadeth\\rust_in_peace\\wav\\06 - Lucretia.wav
+SaveDate,2020-08-08 21:35
+SoundFileName,06 - Lucretia.wav,Nix,/home/david/Music/music-practice/megadeth/rust-in-peace/wav/06 - Lucretia.wav
 SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,45760614,48000,11440134,238.336125
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -13,11 +14,11 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,0
-FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,95000,0
-FX_Misc,1,0,53
+FX_Speed,1,0,85000,0
+FX_Misc,1,0,53,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,24 +36,24 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
+ShowLoopLine,0
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 LoopMode,1
 ScrollMode,1
-PlayZone,4
 PianoBtmNote,39
 PianoTopNote,90
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.422467
+TextZoneSplitterPos,0.422472
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.819852
+ViewSplitterPos,0.819859
 VertProfileZoom,1.000000
 HorizProfileZoom,0.078563
-HorizProfilePos,0
-SelectionLeft,0
-SelectionRight,0
+HorizProfilePos,531
+SelectionLeft,6169354
+SelectionRight,6635988
 SectionEnd,View0
 
 SectionStart,Markers

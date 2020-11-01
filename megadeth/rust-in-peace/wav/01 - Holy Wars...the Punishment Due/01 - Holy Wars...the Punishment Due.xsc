@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,8,74,7,S,1
 
 SectionStart,Main
-SaveDate,2020-06-25 21:57
-SoundFileName,01 - Holy Wars...the Punishment Due.wav,Nix,/home/david/Music/music-practice/megadeth/rust_in_peace/wav/01 - Holy Wars...the Punishment Due/01 - Holy Wars...the Punishment Due.wav
+SaveDate,2020-09-26 20:38
+SoundFileName,01 - Holy Wars...the Punishment Due.wav,Nix,/home/david/Music/music-practice/megadeth/rust-in-peace/wav/01 - Holy Wars...the Punishment Due/01 - Holy Wars...the Punishment Due.wav
 SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,69907790,44100,17476928,396.302222
 Loops,9133241:270322,9330646:270322,9497681:270322,9676864:270322,9157538:780594,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -46,14 +46,14 @@ PianoBtmNote,12
 PianoTopNote,63
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.500035
+TextZoneSplitterPos,0.500018
 PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.999900
 VertProfileZoom,1.000000
 HorizProfileZoom,0.149684
-HorizProfilePos,0
-SelectionLeft,491513
-SelectionRight,1126870
+HorizProfilePos,3258
+SelectionLeft,8771954
+SelectionRight,10154736
 SectionEnd,View0
 
 SectionStart,Markers
