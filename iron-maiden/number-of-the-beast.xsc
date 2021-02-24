@@ -2,10 +2,10 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,8,80,7,S,0
 
 SectionStart,Main
-SaveDate,2021-02-20 19:52
-SoundFileName,03 - Spirit In Black.mp3,Nix,/home/david/Music/music-practice/slayer/seasons-in-the-abyss/03 - Spirit In Black.mp3
-SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,7875958,44100,10908288,247.353469
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+SaveDate,2021-02-23 16:26
+SoundFileName,number-of-the-beast.mp3,Nix,/home/david/Music/music-practice/iron-maiden/number-of-the-beast.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Bitrate 192K),2,6977338,44100,12820608,290.716735
+Loops,2356292:538213,0:0,4004409:427480,0:0,4856795:208589,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -14,11 +14,11 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
-FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,75000,0
-FX_Misc,1,0,38,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,65000,0
+FX_Misc,1,0,50,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -40,39 +40,49 @@ ShowLoopLine,0
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
-LoopMode,0
+LoopMode,1
 ScrollMode,1
 PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.364972
+TextZoneSplitterPos,0.363343
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.770015
+ViewSplitterPos,0.768160
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
-HorizProfilePos,2320
-SelectionLeft,0
-SelectionRight,0
+HorizProfilePos,1055
+SelectionLeft,3829296
+SelectionRight,3829296
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,1
-S,6108332,1,A,0,0:02:18.511
+Howmany,10
+S,1148531,1,A,0,0:00:26.044
+S,2356292,1,B,0,0:00:53.431
+S,2897080,1,C,0,0:01:05.693
+S,3296233,1,D,0,0:01:14.745
+S,3386366,1,E,0,0:01:16.788
+S,4001834,1,F,0,0:01:30.745
+S,4431889,1,G,0,0:01:40.496
+S,4856795,1,H,0,0:01:50.131
+S,5067959,1,I,0,0:01:54.920
+S,7375322,1,J,0,0:02:47.241
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,1
+T,7375322,5,100,Grey,0:02:47.241,,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
+L,1,1,2356292,538213,,White,
 L,2,0,0,0,,White,
-L,3,0,0,0,,White,
+L,3,1,4004409,427480,,White,
 L,4,0,0,0,,White,
-L,5,0,0,0,,White,
+L,5,1,4856795,208589,,White,
 L,6,0,0,0,,White,
 L,7,0,0,0,,White,
 L,8,0,0,0,,White,

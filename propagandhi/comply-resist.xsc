@@ -1,9 +1,9 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,74,7,S,1
+Transcribe!,GTK,8,80,7,S,0
 
 SectionStart,Main
-SaveDate,2020-05-28 21:45
-SoundFileName,comply-resist.mp3,Nix,/media/david/5F54-FCD3/propagandhi/comply-resist.mp3
+SaveDate,2021-01-10 20:11
+SoundFileName,comply-resist.mp3,Nix,/home/david/Music/music-practice/propagandhi/comply-resist.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,3376437,48000,9739008,202.896000
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -13,18 +13,18 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,180,1
-FX_Tuning,1,0,0,1,0,0,60,50,0
+FX_Mix,0,0,100,1
+FX_Tuning,0,0,0,1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,90000,0
+FX_Speed,1,0,70000,0
 FX_Misc,1,0,47,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -46,18 +46,18 @@ PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.364707
+TextZoneSplitterPos,0.364712
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.769711
+ViewSplitterPos,0.769717
 VertProfileZoom,1.000000
-HorizProfileZoom,0.125000
-HorizProfilePos,1560
-SelectionLeft,0
-SelectionRight,0
+HorizProfileZoom,0.250000
+HorizProfilePos,943
+SelectionLeft,2657168
+SelectionRight,2657168
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,15
+Howmany,16
 S,0,1,A,0,0:00:00.000
 S,490511,1,B,0,0:00:10.219
 S,1575241,1,C,0,0:00:32.818
@@ -67,12 +67,13 @@ S,3949314,1,F,0,0:01:22.277
 S,4055825,1,G,0,0:01:24.496
 S,4652846,1,H,0,0:01:36.934
 S,5095708,1,I,0,0:01:46.161
-S,5802044,1,J,0,0:02:00.876
-S,6244905,1,K,0,0:02:10.102
-S,6687766,1,L,0,0:02:19.328
-S,7523036,1,M,0,0:02:36.730
-S,8212555,1,N,0,0:02:51.095
-S,8630190,1,O,0,0:02:59.796
+S,5539972,1,J,0,0:01:55.416
+S,5802044,1,K,0,0:02:00.876
+S,6244905,1,L,0,0:02:10.102
+S,6687766,1,M,0,0:02:19.328
+S,7523036,1,N,0,0:02:36.730
+S,8212555,1,O,0,0:02:51.095
+S,8630190,1,P,0,0:02:59.796
 SectionEnd,Markers
 
 SectionStart,TextBlocks

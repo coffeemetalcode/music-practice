@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,74,7,S,1
+Transcribe!,GTK,8,80,7,S,0
 
 SectionStart,Main
-SaveDate,2020-10-01 21:27
+SaveDate,2021-01-03 20:28
 SoundFileName,02 - Hangar 18.wav,Nix,/home/david/Music/music-practice/megadeth/rust-in-peace/wav/02 - Hangar 18.wav
 SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,60432654,48000,15108144,314.753000
 Loops,10634431:759180,1615753:578328,2336352:578844,4071459:574116,8181708:821587,9002266:406808,10634431:759180,0:0,0:0,0:0
@@ -17,14 +17,14 @@ FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,80000,0
+FX_Speed,1,0,70000,0
 FX_Misc,1,0,50,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -38,22 +38,22 @@ ShowDB,0
 ShowTimeLine,0
 ShowLoopLine,0
 FitWholeFile,0
-FitWholeFileHorizZoom,0.209298
-FitWholeFileStartwavpix,0
+FitWholeFileHorizZoom,0.709535
+FitWholeFileStartwavpix,18850
 LoopMode,1
 ScrollMode,1
 PianoBtmNote,39
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.420317
+TextZoneSplitterPos,0.419796
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.817189
+ViewSplitterPos,0.816547
 VertProfileZoom,1.000000
-HorizProfileZoom,0.209298
-HorizProfilePos,4281
-SelectionLeft,9309117
-SelectionRight,10253253
+HorizProfileZoom,0.298752
+HorizProfilePos,4651
+SelectionLeft,3979181
+SelectionRight,3979181
 SectionEnd,View0
 
 SectionStart,Markers
