@@ -1,10 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,74,7,S,1
+Transcribe!,GTK,9,00,7,S,0
 
 SectionStart,Main
-SaveDate,2020-10-26 22:10
-SoundFileName,children-of-the-damned.m4a,Nix,/home/david/Music/music-practice/iron-maiden/children-of-the-damned.m4a
-SoundFileInfo,GStreamer soundfile,'.m4a',2,3352427,44100,12141568,275.319002
+SaveDate,2023-01-07 11:10
+WindowSize,25|52|1439|788,0
+ViewList,1,0,0.00000000
+SoundFileName,children-of-the-damned.mp3,Nix,/home/david/Music/music-practice/iron-maiden/children-of-the-damned.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Bitrate 128K),2,4406264,44100,12144384,275.38285714
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,648946:638645,1287591:630920,2539130:610320,6674873:455807,8029419:440357,9780543:437782,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -14,9 +20,9 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Tuning,0,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
-FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_EQ,1,0,0,-18:-17:-15:-13.5:-12.5:-12.5:-11.5:-12:-11.5:-9.5:-9.5:-8:-6.5:-6:-5:-2:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,0,0,90000,0
 FX_Misc,1,0,38,0
 ShowTextZone,1
@@ -24,7 +30,10 @@ ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -36,7 +45,7 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -46,80 +55,80 @@ PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.365077
+TextZoneSplitterPos,0.363750
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.770134
+ViewSplitterPos,0.768625
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
-HorizProfilePos,3009
-SelectionLeft,9780543
-SelectionRight,10218325
+HorizProfilePos,2799
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,23
-S,0,1,A,0,0:00:00.000
-S,646371,1,B,0,0:00:14.657
-S,1285016,1,C,0,0:00:29.139
-S,1913361,1,D,0,0:00:43.387
-S,2533980,1,E,0,0:00:57.460
-S,3141723,1,F,0,0:01:11.241
-S,3752041,1,G,0,0:01:25.080
-S,4380385,1,H,0,0:01:39.328
-S,4998429,1,I,0,0:01:53.343
-S,5611323,1,J,0,0:02:07.241
-S,6211341,1,K,0,0:02:20.847
-S,6674873,1,L,0,0:02:31.358
-S,7125530,1,M,0,0:02:41.577
-S,7576187,1,N,0,0:02:51.796
-S,8029419,1,O,0,0:03:02.073
-S,8462050,1,P,0,0:03:11.883
-S,8902406,1,Q,0,0:03:21.869
-S,9342762,1,R,0,0:03:31.854
-S,9777968,1,S,0,0:03:41.723
-S,10218324,1,T,0,0:03:51.708
-S,10648380,1,U,0,0:04:01.460
-S,11083586,1,V,0,0:04:11.328
-S,11559994,1,W,0,0:04:22.131
+S,-1,1,A,0,0:00:00.000000
+S,-1,1,B,0,0:00:14.656939
+S,-1,1,C,0,0:00:29.138685
+S,-1,1,D,0,0:00:43.386871
+S,-1,1,E,0,0:00:57.459864
+S,-1,1,F,0,0:01:11.240884
+S,-1,1,G,0,0:01:25.080295
+S,-1,1,H,0,0:01:39.328458
+S,-1,1,I,0,0:01:53.343061
+S,-1,1,J,0,0:02:07.240884
+S,-1,1,K,0,0:02:20.846735
+S,-1,1,L,0,0:02:31.357664
+S,-1,1,M,0,0:02:41.576644
+S,-1,1,N,0,0:02:51.795624
+S,-1,1,O,0,0:03:02.072993
+S,-1,1,P,0,0:03:11.883220
+S,-1,1,Q,0,0:03:21.868617
+S,-1,1,R,0,0:03:31.854014
+S,-1,1,S,0,0:03:41.722630
+S,-1,1,T,0,0:03:51.708027
+S,-1,1,U,0,0:04:01.459864
+S,-1,1,V,0,0:04:11.328481
+S,-1,1,W,0,0:04:22.131383
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,70,11,Fira Code,
 Howmany,12
-T,0,5,490,Grey,0:00:00.000,Intro (0:00)\n\n,0
-T,1285016,5,476,Black,0:00:29.139,Verse (0:29.1)\n\n,0
-T,2533980,5,464,Red,0:00:57.460,Chorus (0:57.5)\n\n,0
-T,3752041,5,475,Black,0:01:25.080,Verse (1:25.1)\n\n,0
-T,4998429,5,462,Red,0:01:53.343,Chorus (1:53.3)\n\n,0
-T,6211341,5,346,DarkRed,0:02:20.847,Bridge (2:20.9)\n\n,0
-T,7125530,5,341,DarkRed,0:02:41.577,(2:41.6)\n\n,0
-T,8029419,5,329,Green,0:03:02.073,Interlude (3:02.1)\n\n,0
-T,8902406,5,331,Green,0:03:21.869,Guitar Solo (3:21.9)\n\n,0
-T,9777968,5,329,DarkGreen,0:03:41.723,Outro (3:41.7)\n\n,0
-T,10648380,5,345,DarkGreen,0:04:01.460,(4:01.5)\n\n,0
-T,11559994,5,218,DarkGreen,0:04:22.131,(4:22.1)\n\n,0
+T,-1,5,490,Grey,0:00:00.000000,Intro (0:00)\n\n,0
+T,-1,5,476,Black,0:00:29.138685,Verse (0:29.1)\n\n,0
+T,-1,5,464,Red,0:00:57.459864,Chorus (0:57.5)\n\n,0
+T,-1,5,475,Black,0:01:25.080295,Verse (1:25.1)\n\n,0
+T,-1,5,462,Red,0:01:53.343061,Chorus (1:53.3)\n\n,0
+T,-1,5,346,DarkRed,0:02:20.846735,Bridge (2:20.9)\n\n,0
+T,-1,5,341,DarkRed,0:02:41.576644,(2:41.6)\n\n,0
+T,-1,5,329,Green,0:03:02.072993,Interlude (3:02.1)\n\n,0
+T,-1,5,331,Green,0:03:21.868617,Guitar Solo (3:21.9)\n\n,0
+T,-1,5,329,DarkGreen,0:03:41.722630,Outro (3:41.7)\n\n,0
+T,-1,5,345,DarkGreen,0:04:01.459864,(4:01.5)\n\n,0
+T,-1,5,218,DarkGreen,0:04:22.131383,(4:22.1)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,1,648946,638645,,White,
-L,2,1,1287591,630920,,White,
-L,3,1,2539130,610320,,White,
-L,4,1,6674873,455807,,White,
-L,5,1,8029419,440357,,White,
-L,6,1,9780543,437782,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,1,648946,638645,,White,,0:00:14.715329,0:00:14.481746
+L,2,1,1287591,630920,,White,,0:00:29.197075,0:00:14.306576
+L,3,1,2539130,610320,,White,,0:00:57.576644,0:00:13.839456
+L,4,1,6674873,455807,,White,,0:02:31.357664,0:00:10.335760
+L,5,1,8029419,440357,,White,,0:03:02.072993,0:00:09.985420
+L,6,1,9780543,437782,,White,,0:03:41.781020,0:00:09.927029
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

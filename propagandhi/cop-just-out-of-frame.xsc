@@ -1,10 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,74,7,S,1
+Transcribe!,GTK,9,21,7,S,0
 
 SectionStart,Main
-SaveDate,2020-05-25 20:19
-SoundFileName,cop-just-out-of-frame.mp3,Nix,/media/david/5F54-FCD3/propagandhi/cop-just-out-of-frame.mp3
-SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,2869341,48000,8002944,166.728000
+SaveDate,2024-02-24 20:01
+WindowSize,0|32|2560|1408,1
+ViewList,1,0,0.00000000
+SoundFileName,cop-just-out-of-frame.mp3,Nix,/home/david/Music/music-practice/propagandhi/cop-just-out-of-frame.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,2869341,48000,8002944,166.72800000
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -13,18 +19,21 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,1,0,0,60,50,0
+FX_Mix,1,0,100,1
+FX_Tuning,1,0,0,0,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,70000,0
-FX_Misc,1,0,38,0
+FX_Misc,1,0,75,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -51,9 +60,9 @@ PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.770122
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
-HorizProfilePos,940
-SelectionLeft,0
-SelectionRight,0
+HorizProfilePos,299
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
@@ -67,24 +76,24 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

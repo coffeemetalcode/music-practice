@@ -1,11 +1,17 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,80,7,S,0
+Transcribe!,GTK,9,21,7,S,0
 
 SectionStart,Main
-SaveDate,2021-02-20 19:52
+SaveDate,2024-02-01 20:35
+WindowSize,37|60|1440|789,1
+ViewList,1,0,0.00000000
 SoundFileName,03 - Spirit In Black.mp3,Nix,/home/david/Music/music-practice/slayer/seasons-in-the-abyss/03 - Spirit In Black.mp3
-SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,7875958,44100,10908288,247.353469
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,7875958,44100,10908288,247.35346939
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,383702:381127,764829:394003,1557985:388853,6504911:381127,8140152:381127,8907556:190564,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -14,16 +20,19 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Tuning,0,0,0,1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
-FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,75000,0
-FX_Misc,1,0,38,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,60000,0
+FX_Misc,1,0,75,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
 TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
@@ -36,56 +45,99 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
-LoopMode,0
+LoopMode,1
 ScrollMode,1
 PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.364972
+TextZoneSplitterPos,0.362577
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.770015
+ViewSplitterPos,0.767296
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
-HorizProfilePos,2320
-SelectionLeft,0
-SelectionRight,0
+HorizProfilePos,0
+SelectionLeft,442931,0:00:10.043796
+SelectionRight,442931,0:00:10.043796
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,1
-S,6108332,1,A,0,0:02:18.511
+Howmany,29
+S,-1,1,A,0,0:00:00.000000
+S,-1,1,B,0,0:00:08.700730
+S,-1,1,C,0,0:00:17.343066
+S,-1,1,D,0,0:00:26.277372
+S,-1,1,E,0,0:00:35.270073
+S,-1,1,F,0,0:00:44.087591
+S,-1,1,G,0,0:00:52.846715
+S,-1,1,H,0,0:01:01.722628
+S,-1,1,I,0,0:01:10.656934
+S,-1,1,J,0,0:01:19.766423
+S,-1,1,K,0,0:01:28.583942
+S,-1,1,L,0,0:01:37.401460
+S,-1,1,M,0,0:01:43.667846
+S,-1,1,N,0,0:01:46.569343
+S,-1,1,O,0,0:01:55.620438
+S,-1,1,P,0,0:02:04.613139
+S,-1,1,Q,0,0:02:14.014599
+S,-1,1,R,0,0:02:18.510930
+S,-1,1,S,0,0:02:27.503650
+S,-1,1,T,0,0:02:36.145985
+S,-1,1,U,0,0:02:47.182482
+S,-1,1,V,0,0:02:55.883212
+S,-1,1,W,0,0:03:04.583942
+S,-1,1,X,0,0:03:13.226277
+S,-1,1,Y,0,0:03:21.985401
+S,-1,1,Z,0,0:03:26.306569
+S,-1,1,A,0,0:03:35.591241
+S,-1,1,B,0,0:03:44.233577
+S,-1,1,C,0,0:03:52.817518
 SectionEnd,Markers
 
 SectionStart,TextBlocks
-TextBlockFont,80,12,,
-Howmany,0
+TextBlockFont,70,13,Fira Mono,
+Howmany,15
+T,-1,5,100,Grey,0:00:00.000000,Intro (0:00)\n\n,0
+T,-1,5,100,Black,0:00:17.343066,Verse (0:17.3)\n\n,0
+T,-1,5,100,Red,0:00:35.270073,Chorus (0:35.3)\n\n,0
+T,-1,5,100,Grey,0:00:52.846715,Interlude (0:52.9)\n\n,0
+T,-1,5,100,Black,0:01:01.722628,Verse (1:01.7)\n\n,0
+T,-1,5,100,Red,0:01:19.766423,Chorus (1:19.8)\n\n,0
+T,-1,5,100,Black,0:01:37.401460,Guitar Solo (Hanneman) (1:37.4)\n\n ,0
+T,-1,5,100,Red,0:01:55.620438,Chorus (1:55.6)\n\n,0
+T,-1,5,100,DarkRed,0:02:14.014599,Interlude (2:14.0)\n\n,0
+T,-1,5,100,DarkRed,0:02:27.503650,Verse (2:27.5)\n\n,0
+T,-1,5,100,DarkRed,0:02:47.182482,Verse (2:47.2)\n\n,0
+T,-1,5,100,Green,0:03:04.583942,Guitar Solo (King) (3:04.6)\n\n,0
+T,-1,5,100,DarkGreen,0:03:21.985401,(3:22.0)\n\n,0
+T,-1,5,100,DarkRed,0:03:35.591241,Verse (3:35.6)\n\n,0
+T,-1,5,100,Blue,0:03:52.817518,Outro (3:52.8)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,1,383702,381127,Intro,White,,0:00:08.700730,0:00:08.642336
+L,2,1,764829,394003,Verse,White,,0:00:17.343066,0:00:08.934307
+L,3,1,1557985,388853,Chorus,White,,0:00:35.328467,0:00:08.817518
+L,4,1,6504911,381127,Double-time Verse,White,,0:02:27.503650,0:00:08.642336
+L,5,1,8140152,381127,King Solo Support 1,White,,0:03:04.583942,0:00:08.642336
+L,6,1,8907556,190564,King Solo Support 2,White,,0:03:21.985401,0:00:04.321168
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

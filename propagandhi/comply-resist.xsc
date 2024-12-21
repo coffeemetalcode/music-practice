@@ -1,11 +1,17 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,80,7,S,0
+Transcribe!,GTK,9,21,7,S,0
 
 SectionStart,Main
-SaveDate,2021-01-10 20:11
+SaveDate,2024-02-24 19:34
+WindowSize,0|32|2560|1408,1
+ViewList,1,0,0.00000000
 SoundFileName,comply-resist.mp3,Nix,/home/david/Music/music-practice/propagandhi/comply-resist.mp3
-SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,3376437,48000,9739008,202.896000
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,3376437,48000,9739008,202.89600000
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,0:0,0:0,4652846:1147796,4652846:442862,5802044:442862,6687766:832468,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -17,13 +23,16 @@ FX_Mix,0,0,100,1
 FX_Tuning,0,0,0,1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,70000,0
-FX_Misc,1,0,47,0
+FX_Speed,1,0,80000,0
+FX_Misc,1,0,61,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
 TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
@@ -36,86 +45,86 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
-LoopMode,1
+LoopMode,0
 ScrollMode,1
 PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.364712
+TextZoneSplitterPos,0.366191
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.769717
+ViewSplitterPos,0.771405
 VertProfileZoom,1.000000
 HorizProfileZoom,0.250000
-HorizProfilePos,943
-SelectionLeft,2657168
-SelectionRight,2657168
+HorizProfilePos,11
+SelectionLeft,1575241,0:00:32.817521
+SelectionRight,1575241,0:00:32.817521
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,16
-S,0,1,A,0,0:00:00.000
-S,490511,1,B,0,0:00:10.219
-S,1575241,1,C,0,0:00:32.818
-S,2657168,1,D,0,0:00:55.358
-S,3478423,1,E,0,0:01:12.467
-S,3949314,1,F,0,0:01:22.277
-S,4055825,1,G,0,0:01:24.496
-S,4652846,1,H,0,0:01:36.934
-S,5095708,1,I,0,0:01:46.161
-S,5539972,1,J,0,0:01:55.416
-S,5802044,1,K,0,0:02:00.876
-S,6244905,1,L,0,0:02:10.102
-S,6687766,1,M,0,0:02:19.328
-S,7523036,1,N,0,0:02:36.730
-S,8212555,1,O,0,0:02:51.095
-S,8630190,1,P,0,0:02:59.796
+S,-1,1,A,0,0:00:00.000000
+S,-1,1,B,0,0:00:10.218979
+S,-1,1,C,0,0:00:32.817521
+S,-1,1,D,0,0:00:55.357667
+S,-1,1,E,0,0:01:12.467146
+S,-1,1,F,0,0:01:22.277375
+S,-1,1,G,0,0:01:24.496354
+S,-1,1,H,0,0:01:36.934292
+S,-1,1,I,0,0:01:46.160583
+S,-1,1,J,0,0:01:55.416083
+S,-1,1,K,0,0:02:00.875917
+S,-1,1,L,0,0:02:10.102188
+S,-1,1,M,0,0:02:19.328458
+S,-1,1,N,0,0:02:36.729917
+S,-1,1,O,0,0:02:51.094896
+S,-1,1,P,0,0:02:59.795625
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,70,12,Fira Code,90 Stars BRK
 Howmany,15
-T,0,5,165,Grey,0:00:00.000,Intro (0:00)\n\n,0
-T,3823,74,100,White,0:00:00.080,q=208,0
-T,490511,5,378,Grey,0:00:10.219,Verse (0:10)\n\n,0
-T,1575241,5,376,Black,0:00:32.818,Verse (0:33)\n\n,0
-T,2657168,5,284,Black,0:00:55.358,Verse (0:55)\n\n,0
-T,3478423,5,159,Red,0:01:12.467,(1:13)\n\n,0
-T,3949314,5,240,DarkRed,0:01:22.277,Verse (1:22)\n\n,0
-T,4652846,5,149,Green,0:01:36.934,(1:37)\n\n,0
-T,5095708,5,242,DarkRed,0:01:46.161,Verse (1:46)\n\n,0
-T,5802044,5,149,Green,0:02:00.876,(2:01)\n\n,0
-T,6244905,5,149,DarkGreen,0:02:10.102,Pre-Chorus (2:10)\n\n,0
-T,6687766,5,289,Blue,0:02:19.328,Chorus (2:19)\n\n,0
-T,7523036,5,237,DarkRed,0:02:36.730,Verse (2:37)\n\n,0
-T,8212555,5,140,DarkGreen,0:02:51.095,Pre-Chorus (2:51)\n\n,0
-T,8630190,5,304,Blue,0:02:59.796,Outro-Chorus (3:00)\n\n,0
+T,-1,5,165,Grey,0:00:00.000000,Intro (0:00)\n\n,0
+T,-1,74,100,White,0:00:00.079646,q=208,0
+T,-1,5,378,Grey,0:00:10.218979,Verse (0:10)\n\n,0
+T,-1,5,376,Black,0:00:32.817521,Verse (0:33)\n\n,0
+T,-1,5,284,Black,0:00:55.357667,Verse (0:55)\n\n,0
+T,-1,5,159,Red,0:01:12.467146,(1:13)\n\n,0
+T,-1,5,240,DarkRed,0:01:22.277375,Verse (1:22)\n\n,0
+T,-1,5,149,Green,0:01:36.934292,(1:37)\n\n,0
+T,-1,5,242,DarkRed,0:01:46.160583,Verse (1:46)\n\n,0
+T,-1,5,149,Green,0:02:00.875917,(2:01)\n\n,0
+T,-1,5,149,DarkGreen,0:02:10.102188,Pre-Chorus (2:10)\n\n,0
+T,-1,5,289,Blue,0:02:19.328458,Chorus (2:19)\n\n,0
+T,-1,5,237,DarkRed,0:02:36.729917,Verse (2:37)\n\n,0
+T,-1,5,140,DarkGreen,0:02:51.094896,Pre-Chorus (2:51)\n\n,0
+T,-1,5,304,Blue,0:02:59.795625,Outro-Chorus (3:00)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,1,4652846,1147796,,White,,0:01:36.934292,0:00:23.912423
+L,4,1,4652846,442862,,White,,0:01:36.934292,0:00:09.226292
+L,5,1,5802044,442862,,White,,0:02:00.875917,0:00:09.226292
+L,6,1,6687766,832468,,White,,0:02:19.328458,0:00:17.343075
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

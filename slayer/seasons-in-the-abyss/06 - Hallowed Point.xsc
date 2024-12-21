@@ -1,10 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,80,7,S,0
+Transcribe!,GTK,9,21,7,S,0
 
 SectionStart,Main
-SaveDate,2021-01-21 21:18
+SaveDate,2024-07-02 20:38
+WindowSize,50|51|1440|789,1
+ViewList,1,0,0.00000000
 SoundFileName,06 - Hallowed Point.mp3,Nix,/home/david/Music/music-practice/slayer/seasons-in-the-abyss/06 - Hallowed Point.mp3
-SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,6559438,44100,8980992,203.650612
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,6559438,44100,8980992,203.65061224
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,101840:185492,1223889:378352,1603967:189176,3131555:201909,3544366:389172,4328165:390991,6397682:425537,7252404:210895,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -17,13 +23,16 @@ FX_Mix,0,0,100,1
 FX_Tuning,0,0,0,1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80
-FX_Speed,1,0,85000,0
+FX_Speed,1,0,75000,0
 FX_Misc,1,0,45,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
 TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
@@ -36,7 +45,7 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -46,86 +55,87 @@ PianoBtmNote,39
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.355828
+TextZoneSplitterPos,0.364762
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.778850
+ViewSplitterPos,0.789912
 VertProfileZoom,1.000000
 HorizProfileZoom,0.250000
 HorizProfilePos,0
-SelectionLeft,0
-SelectionRight,0
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,26
-S,0,1,A,0,0:00:00.000
-S,101840,1,B,0,0:00:02.309
-S,287332,1,C,0,0:00:06.515
-S,474643,1,D,0,0:00:10.763
-S,851085,1,E,0,0:00:19.299
-S,1223889,1,F,0,0:00:27.753
-S,1413020,1,G,0,0:00:32.041
-S,1603967,1,H,0,0:00:36.371
-S,1985864,1,I,0,0:00:45.031
-S,2360487,1,J,0,0:00:53.526
-S,2742384,1,K,0,0:01:02.186
-S,3131555,1,L,0,0:01:11.010
-S,3331595,1,M,0,0:01:15.546
-S,3544366,1,N,0,0:01:20.371
-S,3933538,1,O,0,0:01:29.196
-S,4328165,1,P,0,0:01:38.144
-S,4717337,1,Q,0,0:01:46.969
-S,5210165,1,R,0,0:01:58.144
-S,5595699,1,S,0,0:02:06.887
-S,5986688,1,T,0,0:02:15.753
-S,6397682,1,U,0,0:02:25.072
-S,6823225,1,V,0,0:02:34.722
-S,7252404,1,W,0,0:02:44.454
-S,7672492,1,X,0,0:02:53.979
-S,8094395,1,Y,0,0:03:03.546
-S,8521757,1,Z,0,0:03:13.237
+Howmany,27
+S,-1,1,A,0,0:00:00.000000
+B,-1,1,,0,0:00:00.136848
+S,-1,1,B,0,0:00:02.309297
+S,-1,1,C,0,0:00:06.515465
+S,-1,1,D,0,0:00:10.762880
+S,-1,1,E,0,0:00:19.298980
+S,-1,1,F,0,0:00:27.752585
+S,-1,1,G,0,0:00:32.041270
+S,-1,1,H,0,0:00:36.371134
+S,-1,1,I,0,0:00:45.030930
+S,-1,1,J,0,0:00:53.525782
+S,-1,1,K,0,0:01:02.185578
+S,-1,1,L,0,0:01:11.010317
+S,-1,1,M,0,0:01:15.546372
+S,-1,1,N,0,0:01:20.371111
+S,-1,1,O,0,0:01:29.195873
+S,-1,1,P,0,0:01:38.144331
+S,-1,1,Q,0,0:01:46.969093
+S,-1,1,R,0,0:01:58.144331
+S,-1,1,S,0,0:02:06.886599
+S,-1,1,T,0,0:02:15.752562
+S,-1,1,U,0,0:02:25.072154
+S,-1,1,V,0,0:02:34.721655
+S,-1,1,W,0,0:02:44.453605
+S,-1,1,X,0,0:02:53.979410
+S,-1,1,Y,0,0:03:03.546372
+S,-1,1,Z,0,0:03:13.237120
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,15
-T,0,5,100,Grey,0:00:00.000,Intro (0:00)\n\n,0
-T,474643,5,100,Grey,0:00:10.763,,0
-T,474643,5,100,Grey,0:00:10.763,Vers (0:10.8)\n\n,0
-T,1223889,5,100,Black,0:00:27.753,(0:27.8)\n\n,0
-T,1603967,5,100,Red,0:00:36.371,Guitar Solo (Hanneman) (0:36.4)\n\n,0
-T,1985864,5,100,Grey,0:00:45.031,Verse (0:45.0)\n\n,0
-T,2742384,5,100,Black,0:01:02.186,(1:02.2)\n\n,0
-T,3131555,5,100,DarkRed,0:01:11.010,Interlude (1:11.0)\n\n,0
-T,3544366,5,100,Green,0:01:20.371,Chorus (1:20.4)\n\n,0
-T,4328165,5,100,DarkGreen,0:01:38.144,Guitar Solo (King) (1:38.1)\n\n,0
-T,5210165,5,100,Green,0:01:58.144,Chorus (1:58.1)\n\n,0
-T,5986688,5,100,Blue,0:02:15.753,Guitar Solo (Hanneman) (2:15.8)\n\n,0
-T,7252404,5,100,DarkBlue,0:02:44.454,Interlude (2:44.5)\n\n,0
-T,7672492,5,100,Blue,0:02:53.979,Guitar Solo (King) (2:54.0)\n\n,0
-T,8521757,5,100,DarkBlue,0:03:13.237,Outro (3:13.2)\n\n,0
+T,-1,5,100,Grey,0:00:00.000000,Intro (0:00)\n\n,0
+T,-1,5,100,Grey,0:00:10.762880,,0
+T,-1,5,100,Grey,0:00:10.762880,Vers (0:10.8)\n\n,0
+T,-1,5,100,Black,0:00:27.752585,(0:27.8)\n\n,0
+T,-1,5,100,Red,0:00:36.371134,Guitar Solo (Hanneman) (0:36.4)\n\n,0
+T,-1,5,100,Grey,0:00:45.030930,Verse (0:45.0)\n\n,0
+T,-1,5,100,Black,0:01:02.185578,(1:02.2)\n\n,0
+T,-1,5,100,DarkRed,0:01:11.010317,Interlude (1:11.0)\n\n,0
+T,-1,5,100,Green,0:01:20.371111,Chorus (1:20.4)\n\n,0
+T,-1,5,100,DarkGreen,0:01:38.144331,Guitar Solo (King) (1:38.1)\n\n,0
+T,-1,5,100,Green,0:01:58.144331,Chorus (1:58.1)\n\n,0
+T,-1,5,100,Blue,0:02:15.752562,Guitar Solo (Hanneman) (2:15.8)\n\n,0
+T,-1,5,100,DarkBlue,0:02:44.453605,Interlude (2:44.5)\n\n,0
+T,-1,5,100,Blue,0:02:53.979410,Guitar Solo (King) (2:54.0)\n\n,0
+T,-1,5,100,DarkBlue,0:03:13.237120,Outro (3:13.2)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,1,101840,185492,Verse a,Grey,
-L,2,1,1223889,378352,Verse b,Grey,
-L,3,1,1603967,189176,Solo 1,Red,
-L,4,1,3131555,201909,Interlude,Red,
-L,5,1,3544366,389172,Chorus,Green,
-L,6,1,4328165,390991,Solo 2,Blue,
-L,7,1,6397682,425537,Solo 3/4,White,
-L,8,1,7252404,210895,Interlude b,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,1,101840,185492,Verse a,Grey,,0:00:02.309297,0:00:04.206168
+L,2,1,1223889,378352,Verse b,Grey,,0:00:27.752585,0:00:08.579410
+L,3,1,1603967,189176,Solo 1,Red,,0:00:36.371134,0:00:04.289705
+L,4,1,3131555,201909,Interlude,Red,,0:01:11.010317,0:00:04.578435
+L,5,1,3544366,389172,Chorus,Green,,0:01:20.371111,0:00:08.824762
+L,6,1,4328165,390991,Solo 2,Blue,,0:01:38.144331,0:00:08.866009
+L,7,1,6397682,425537,Solo 3/4,White,,0:02:25.072154,0:00:09.649365
+L,8,1,7252404,210895,Interlude b,White,,0:02:44.453605,0:00:04.782200
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

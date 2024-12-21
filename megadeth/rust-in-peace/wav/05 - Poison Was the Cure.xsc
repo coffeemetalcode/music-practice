@@ -1,9 +1,16 @@
-XSC Transcribe.Document Version 6089.00
-Transcribe!,Windows,8,64,7,S,0
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,9,00,7,S,0
 
 SectionStart,Main
-SoundFileName,05 - Poison Was the Cure.wav,Win,C:\\Users\\David\\Dropbox (Personal)\\david_self_study\\guitar\\shred\\Megadeth\\rust_in_peace\\wav\\05 - Poison Was the Cure.wav
-SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,34300730,48000,8575163,178.649229
+SaveDate,2021-10-26 06:55
+WindowSize,116|145|1439|788,0
+ViewList,1,0,0.00000000
+SoundFileName,05 - Poison Was the Cure.wav,Nix,/home/david/Music/music-practice/megadeth/rust-in-peace/wav/05 - Poison Was the Cure.wav
+SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,34300730,48000,8575163,178.64922917
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -12,18 +19,21 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,100,1
-FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Mix,1,0,180,1
+FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,70000,0
-FX_Misc,1,0,50
+FX_Misc,1,0,50,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -35,92 +45,92 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 LoopMode,1
 ScrollMode,1
-PlayZone,4
 PianoBtmNote,39
 PianoTopNote,90
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.418877
+TextZoneSplitterPos,0.418865
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.815419
+ViewSplitterPos,0.815405
 VertProfileZoom,1.000000
 HorizProfileZoom,0.176776
 HorizProfilePos,600
-SelectionLeft,2939089
-SelectionRight,3508045
+SelectionLeft,2939089,0:01:01.231021
+SelectionRight,3508045,0:01:13.084271
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,22
-S,30465,1,A,0,0:00:00.635
-S,704653,1,B,0,0:00:14.680
-S,1378844,1,C,0,0:00:28.726
-S,2051707,1,D,0,0:00:42.744
-S,2939089,1,E,0,0:01:01.231
-S,3222555,1,F,0,0:01:07.137
-S,3508699,1,G,0,0:01:13.098
-S,3793474,1,H,0,0:01:19.031
-S,4076925,1,I,0,0:01:24.936
-S,4363025,1,J,0,0:01:30.896
-S,4648834,1,K,0,0:01:36.851
-S,4935224,1,L,0,0:01:42.817
-S,5225297,1,M,0,0:01:48.860
-S,5798822,1,N,0,0:02:00.809
-S,6091536,1,O,0,0:02:06.907
-S,6384269,1,P,0,0:02:13.006
-S,6671692,1,Q,0,0:02:18.994
-S,6957791,1,R,0,0:02:24.954
-S,7241244,1,S,0,0:02:30.859
-S,7529996,1,T,0,0:02:36.875
-S,7814768,1,U,0,0:02:42.808
-S,8104840,1,V,0,0:02:48.851
+S,-1,1,A,0,0:00:00.634688
+S,-1,1,B,0,0:00:14.680271
+S,-1,1,C,0,0:00:28.725917
+S,-1,1,D,0,0:00:42.743896
+S,-1,1,E,0,0:01:01.231021
+S,-1,1,F,0,0:01:07.136563
+S,-1,1,G,0,0:01:13.097896
+S,-1,1,H,0,0:01:19.030708
+S,-1,1,I,0,0:01:24.935938
+S,-1,1,J,0,0:01:30.896354
+S,-1,1,K,0,0:01:36.850708
+S,-1,1,L,0,0:01:42.817167
+S,-1,1,M,0,0:01:48.860354
+S,-1,1,N,0,0:02:00.808792
+S,-1,1,O,0,0:02:06.907000
+S,-1,1,P,0,0:02:13.005604
+S,-1,1,Q,0,0:02:18.993583
+S,-1,1,R,0,0:02:24.953979
+S,-1,1,S,0,0:02:30.859250
+S,-1,1,T,0,0:02:36.874917
+S,-1,1,U,0,0:02:42.807667
+S,-1,1,V,0,0:02:48.850833
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,15
-T,30465,5,1009,Grey,0:00:00.635,Intro (0:00.6)\n\n,0
-T,1378844,5,1169,Grey,0:00:28.726,(0:28.7)\n\n,0
-T,2939089,5,205,Black,0:01:01.231,Interlude (1:01.2)\n\n,0
-T,3222555,5,207,Black,0:01:07.137,Verse (1:07.1)\n\n,0
-T,3508699,5,206,Black,0:01:13.098,Interlude (1:13.1)\n\n,0
-T,3793474,5,205,Black,0:01:19.031,Verse (1:19)\n\n,0
-T,4076925,5,207,Black,0:01:24.936,Interlude (1:24.9)\n\n,0
-T,4363025,5,207,Black,0:01:30.896,Verse (1:30.9)\n\n,0
-T,4648834,5,426,Red,0:01:36.851,Chorus (1:36.9)\n\n,0
-T,5225297,5,424,DarkRed,0:01:48.860,Bridge (1:48.9)\n\n,0
-T,5798822,5,211,Red,0:02:00.809,Chorus (2:00.8)\n\n,0
-T,6091536,5,428,Green,0:02:06.907,Interlude (2:06.9)\n\n,0
-T,6671692,5,421,Green,0:02:18.994,(2:19)\n\n,0
-T,7241244,5,424,DarkGreen,0:02:30.859,Outro-Guitar Solo (Friedman) (2:30.9)\n\n,0
-T,7814768,5,567,Blue,0:02:42.808,(2:42.8)\n\n,0
+T,-1,5,1009,Grey,0:00:00.634688,Intro (0:00.6)\n\n,0
+T,-1,5,1169,Grey,0:00:28.725917,(0:28.7)\n\n,0
+T,-1,5,205,Black,0:01:01.231021,Interlude (1:01.2)\n\n,0
+T,-1,5,207,Black,0:01:07.136563,Verse (1:07.1)\n\n,0
+T,-1,5,206,Black,0:01:13.097896,Interlude (1:13.1)\n\n,0
+T,-1,5,205,Black,0:01:19.030708,Verse (1:19)\n\n,0
+T,-1,5,207,Black,0:01:24.935938,Interlude (1:24.9)\n\n,0
+T,-1,5,207,Black,0:01:30.896354,Verse (1:30.9)\n\n,0
+T,-1,5,426,Red,0:01:36.850708,Chorus (1:36.9)\n\n,0
+T,-1,5,424,DarkRed,0:01:48.860354,Bridge (1:48.9)\n\n,0
+T,-1,5,211,Red,0:02:00.808792,Chorus (2:00.8)\n\n,0
+T,-1,5,428,Green,0:02:06.907000,Interlude (2:06.9)\n\n,0
+T,-1,5,421,Green,0:02:18.993583,(2:19)\n\n,0
+T,-1,5,424,DarkGreen,0:02:30.859250,Outro-Guitar Solo (Friedman) (2:30.9)\n\n,0
+T,-1,5,567,Blue,0:02:42.807667,(2:42.8)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

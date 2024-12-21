@@ -1,9 +1,16 @@
-XSC Transcribe.Document Version 6089.00
-Transcribe!,Windows,8,64,7,S,0
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,9,21,7,S,0
 
 SectionStart,Main
-SoundFileName,07 - Tornado of Souls.wav,Win,C:\\Users\\Stand Out\\Dropbox (Personal)\\david_self_study\\guitar\\shred\\Megadeth\\rust_in_peace\\wav\\07 - Tornado of Souls.wav
-SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,62037618,48000,15509385,323.112188
+SaveDate,2023-06-16 21:51
+WindowSize,62|85|1440|789,0
+ViewList,1,0,0.00000000
+SoundFileName,07 - Tornado of Souls.wav,Nix,/home/david/Music/music-practice/megadeth/rust-in-peace/wav/07 - Tornado of Souls.wav
+SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,62037618,48000,15509385,323.11218750
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -13,17 +20,20 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
-FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,50000,0
-FX_Misc,1,0,53
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,80000,0
+FX_Misc,1,0,75,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -35,59 +45,59 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
-LoopMode,1
+LoopMode,0
 ScrollMode,1
-PlayZone,4
 PianoBtmNote,39
 PianoTopNote,90
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.424881
+TextZoneSplitterPos,0.417652
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.822860
+ViewSplitterPos,0.813918
 VertProfileZoom,1.000000
 HorizProfileZoom,0.078563
-HorizProfilePos,1917
-SelectionLeft,9131049
-SelectionRight,9131049
+HorizProfilePos,2042
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,3
-S,9131049,1,A,0,0:03:10.230
-S,11024368,1,B,0,0:03:49.674
-S,11972123,1,C,0,0:04:09.419
+S,-1,1,A,0,0:03:10.230188
+S,-1,1,B,0,0:03:49.674333
+S,-1,1,C,0,0:04:09.419229
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,1
-T,9131049,5,100,Grey,0:03:10.230,Guitar Solo (Friedman) (3:10.2)\n\n,0
+T,-1,5,100,Grey,0:03:10.230188,Guitar Solo (Friedman) (3:10.2)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

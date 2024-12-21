@@ -1,10 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,74,7,S,1
+Transcribe!,GTK,9,21,7,S,0
 
 SectionStart,Main
-SaveDate,2020-09-13 19:40
+SaveDate,2023-04-22 17:16
+WindowSize,75|76|1440|789,0
+ViewList,1,0,0.00000000
 SoundFileName,01 Parting of the Ways (Instrumental).opus,Nix,/home/david/Music/music-practice/forbidden/twisted-into-form/01 Parting of the Ways (Instrumental).opus
-SoundFileInfo,GStreamer soundfile,'.opus',2,1230946,48000,3145920,65.540000
+SoundFileInfo,GStreamer soundfile,'.opus',2,1230946,48000,3145920,65.54000000
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -13,18 +19,21 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,100,1
+FX_Mix,1,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,88000,0
-FX_Misc,1,0,38,0
+FX_Speed,1,0,70000,0
+FX_Misc,1,0,75,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -46,51 +55,51 @@ PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.364954
+TextZoneSplitterPos,0.364379
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.769994
+ViewSplitterPos,0.769340
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
 HorizProfilePos,0
-SelectionLeft,2155445
-SelectionRight,2155445
+SelectionLeft,591416,0:00:12.321168
+SelectionRight,591416,0:00:12.321168
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,3
-S,50453,1,A,0,0:00:01.051
-S,1042686,1,B,0,0:00:21.723
-S,2155445,1,C,0,0:00:44.905
+S,-1,1,A,0,0:00:01.051104
+S,-1,1,B,0,0:00:21.722625
+S,-1,1,C,0,0:00:44.905104
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,3
-T,50453,5,344,Grey,0:00:01.051,A (0:01.1)\n\nGtr. 1 (acous.) in\nGtr. 2 (clean) in,0
-T,1042686,5,388,Grey,0:00:21.723,B (0:21.7)\n\nGtrs. 1 & 2\nGtr. 3 (acous.) in,0
-T,2155445,5,344,Black,0:00:44.905,C (0:45)\n\nGtr. 1 out\nGtrs. 2 & 3,0
+T,-1,5,344,Grey,0:00:01.051104,A (0:01.1)\n\nGtr. 1 (acous.) in\nGtr. 2 (clean) in,0
+T,-1,5,388,Grey,0:00:21.722625,B (0:21.7)\n\nGtrs. 1 & 2\nGtr. 3 (acous.) in,0
+T,-1,5,344,Black,0:00:44.905104,C (0:45)\n\nGtr. 1 out\nGtrs. 2 & 3,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

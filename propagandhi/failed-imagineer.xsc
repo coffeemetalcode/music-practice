@@ -1,0 +1,121 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,9,21,7,S,0
+
+SectionStart,Main
+SaveDate,2024-07-02 20:57
+WindowSize,82|162|1916|1046,1
+ViewList,1,0,0.00000000
+SoundFileName,failed-imagineer.mp3,Nix,/home/david/Music/music-practice/propagandhi/failed-imagineer.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,2251773,48000,6302592,131.30400000
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,0:0,0:0,1507971:720350,2816934:294307,3514861:521343,4666861:433051,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,0
+FX_Tuning,0,0,0,1,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,100000,0
+FX_Misc,1,0,75,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
+TVVVideoSizeLinear,-1
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,1
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,0
+ScrollMode,1
+PianoBtmNote,38
+PianoTopNote,89
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.392176
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.680170
+VertProfileZoom,1.000000
+HorizProfileZoom,0.250000
+HorizProfilePos,1941
+SelectionLeft,647474,0:00:13.489051
+SelectionRight,647474,0:00:13.489051
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,14
+S,-1,1,A,0,0:00:00.437956
+S,-1,1,B,0,0:00:14.248175
+S,-1,1,C,0,0:00:31.416058
+S,-1,1,D,0,0:00:38.919708
+S,-1,1,E,0,0:00:46.394161
+S,-1,1,F,0,0:00:53.956204
+S,-1,1,G,0,0:00:58.686131
+S,-1,1,H,0,0:01:04.817518
+S,-1,1,I,0,0:01:13.226277
+S,-1,1,J,0,0:01:24.058394
+S,-1,1,K,0,0:01:32.729927
+S,-1,1,L,0,0:01:37.226277
+S,-1,1,M,0,0:01:46.248175
+S,-1,1,N,0,0:01:52.934307
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,70,14,Fira Code,AR PL UKai CN
+Howmany,8
+T,-1,5,100,Grey,0:00:00.437956,Intro (0:00.4)\n\n,0
+T,-1,5,100,Black,0:00:14.248175,(0:14.3)\n\n,0
+T,-1,5,100,Red,0:00:31.416058,Verse (0:31.4)\n\n,0
+T,-1,5,100,Red,0:00:46.394161,Verse (0:46.4)\n\n,0
+T,-1,5,100,Black,0:00:58.686131,Chorus (0:58.7)\n\n,0
+T,-1,5,100,DarkRed,0:01:13.226277,Bridge (1:13.2)\n\n,0
+T,-1,5,100,Green,0:01:37.226277,(1:37.2)\n\n,0
+T,-1,5,100,Black,0:01:52.934307,Outro-Chorus (1:52.9)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,1,1507971,720350,Verse,Red,,0:00:31.416058,0:00:15.007300
+L,4,1,2816934,294307,Chorus,Grey,,0:00:58.686131,0:00:06.131387
+L,5,1,3514861,521343,Bridge 1,Red,,0:01:13.226277,0:00:10.861314
+L,6,1,4666861,433051,Bridge 2,Green,,0:01:37.226277,0:00:09.021898
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+SectionEnd,Loops

@@ -1,11 +1,17 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,74,7,S,1
+Transcribe!,GTK,9,21,7,S,0
 
 SectionStart,Main
-SaveDate,2020-10-02 21:30
+SaveDate,2024-11-20 19:31
+WindowSize,19|43|1557|832,1
+ViewList,1,0,0.00000000
 SoundFileName,03 Out of Body (Out of Mind).ogg,Nix,/home/david/Music/music-practice/forbidden/twisted-into-form/03 Out of Body (Out of Mind).ogg
-SoundFileInfo,Ogg Vorbis,126K bps.,2,4283480,44100,11893946,269.703991
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+SoundFileInfo,Ogg Vorbis,126K bps.,2,4283480,44100,11893946,269.70399093
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,18027:994020,18027:888438,1012047:857535,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -15,16 +21,19 @@ SectionEnd,Main
 SectionStart,View0
 FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0
-FX_Transposition,1,1,0,0,0
-FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,70000,0
-FX_Misc,1,0,38,0
+FX_Transposition,1,0,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,80000,0
+FX_Misc,1,0,75,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -36,28 +45,32 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
-LoopMode,1
+LoopMode,0
 ScrollMode,1
 PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.365067
+TextZoneSplitterPos,0.383856
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.770122
+ViewSplitterPos,0.792146
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
-HorizProfilePos,0
-SelectionLeft,0
-SelectionRight,0
+HorizProfilePos,2063
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,4
+S,-1,1,A,0,0:00:00.408776
+S,-1,1,B,0,0:00:20.554762
+S,-1,1,C,0,0:00:22.948912
+S,-1,1,D,0,0:00:42.452555
 SectionEnd,Markers
 
 SectionStart,TextBlocks
@@ -67,24 +80,24 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,1,18027,994020,,White,,0:00:00.408776,0:00:22.540129
+L,2,1,18027,888438,,White,,0:00:00.408776,0:00:20.145986
+L,3,1,1012047,857535,,White,,0:00:22.948912,0:00:19.445249
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

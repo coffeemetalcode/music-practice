@@ -1,11 +1,17 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,80,7,S,0
+Transcribe!,GTK,9,21,7,S,0
 
 SectionStart,Main
-SaveDate,2021-02-22 21:36
+SaveDate,2024-11-20 19:25
+WindowSize,2800|1533|1440|786,1
+ViewList,1,0,0.00000000
 SoundFileName,02 Infinite.opus,Nix,/home/david/Music/music-practice/forbidden/twisted-into-form/02 Infinite.opus
-SoundFileInfo,GStreamer soundfile,'.opus',2,5612690,48000,17073600,355.700000
-Loops,995086:594249,0:0,2488162:482183,3578926:498568,0:0,0:0,0:0,0:0,0:0,0:0
+SoundFileInfo,GStreamer soundfile,'.opus',2,5612690,48000,17073600,355.70000000
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,995086:594249,0:0,2488162:482183,3578926:498568,4576064:376852,5264229:482183,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -17,13 +23,16 @@ FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,70000,0
+FX_Speed,1,0,80000,0
 FX_Misc,1,0,50,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
 TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
@@ -36,7 +45,7 @@ ShowGuessNotes,0
 ShowGuessChords,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -46,101 +55,101 @@ PianoBtmNote,12
 PianoTopNote,63
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.367823
+TextZoneSplitterPos,0.385248
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.788685
+ViewSplitterPos,0.875049
 VertProfileZoom,1.000000
 HorizProfileZoom,0.149684
-HorizProfilePos,208
-SelectionLeft,1973208
-SelectionRight,2455392
+HorizProfilePos,0
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,35
-S,0,1,A,0,0:00:00.000
-S,995086,1,B,0,0:00:20.731
-S,1586848,1,C,0,0:00:33.059
-S,2066836,1,D,0,0:00:43.059
-S,2488162,1,E,0,0:00:51.837
-S,2970344,1,F,0,0:01:01.882
-S,3578926,1,G,0,0:01:14.561
-S,4077495,1,H,0,0:01:24.948
-S,4576064,1,I,0,0:01:35.335
-S,4952916,1,J,0,0:01:43.186
-S,5264229,1,K,0,0:01:49.671
-S,5746412,1,L,0,0:01:59.717
-S,6359674,1,M,0,0:02:12.493
-S,6853562,1,N,0,0:02:22.783
-S,7349790,1,O,0,0:02:33.121
-S,7724302,1,P,0,0:02:40.923
-S,8033274,1,Q,0,0:02:47.360
-S,8513117,1,R,0,0:02:57.357
-S,9102973,1,S,0,0:03:09.645
-S,9578134,1,T,0,0:03:19.544
-S,10046274,1,U,0,0:03:29.297
-S,10507391,1,V,0,0:03:38.904
-S,10968509,1,W,0,0:03:48.511
-S,11431967,1,X,0,0:03:58.166
-S,11895424,1,Y,0,0:04:07.821
-S,12356542,1,Z,0,0:04:17.428
-S,12815319,1,A,0,0:04:26.986
-S,13278776,1,B,0,0:04:36.641
-S,13744576,1,C,0,0:04:46.345
-S,14203352,1,D,0,0:04:55.903
-S,14662129,1,E,0,0:05:05.461
-S,15116224,1,F,0,0:05:14.921
-S,15570319,1,G,0,0:05:24.382
-S,16033778,1,H,0,0:05:34.037
-S,16492555,1,I,0,0:05:43.595
+S,-1,1,A,0,0:00:00.000000
+S,-1,1,B,0,0:00:20.730958
+S,-1,1,C,0,0:00:33.059333
+S,-1,1,D,0,0:00:43.059083
+S,-1,1,E,0,0:00:51.836708
+S,-1,1,F,0,0:01:01.882167
+S,-1,1,G,0,0:01:14.560958
+S,-1,1,H,0,0:01:24.947813
+S,-1,1,I,0,0:01:35.334667
+S,-1,1,J,0,0:01:43.185750
+S,-1,1,K,0,0:01:49.671438
+S,-1,1,L,0,0:01:59.716917
+S,-1,1,M,0,0:02:12.493208
+S,-1,1,N,0,0:02:22.782542
+S,-1,1,O,0,0:02:33.120625
+S,-1,1,P,0,0:02:40.922958
+S,-1,1,Q,0,0:02:47.359875
+S,-1,1,R,0,0:02:57.356604
+S,-1,1,S,0,0:03:09.645271
+S,-1,1,T,0,0:03:19.544458
+S,-1,1,U,0,0:03:29.297375
+S,-1,1,V,0,0:03:38.903979
+S,-1,1,W,0,0:03:48.510604
+S,-1,1,X,0,0:03:58.165979
+S,-1,1,Y,0,0:04:07.821333
+S,-1,1,Z,0,0:04:17.427958
+S,-1,1,A,0,0:04:26.985813
+S,-1,1,B,0,0:04:36.641167
+S,-1,1,C,0,0:04:46.345333
+S,-1,1,D,0,0:04:55.903167
+S,-1,1,E,0,0:05:05.461021
+S,-1,1,F,0,0:05:14.921333
+S,-1,1,G,0,0:05:24.381646
+S,-1,1,H,0,0:05:34.037042
+S,-1,1,I,0,0:05:43.594896
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,21
-T,0,5,413,Grey,0:00:00.000,Intro (0:00)\n\nGtr. 1 (dist.) in [R & L]\nGtr. 2 (dist.) in [R]\nGtr. 3 (dist.) in [L],0
-T,995086,5,628,Black,0:00:20.731,(0:20.7)\n\nGtr. 1 out\nGtrs. 2 & 3,0
-T,995086,87,100,Grey,0:00:20.731,q=200\C double time feel,0
-T,2488162,5,456,Red,0:00:51.837,(0:51.8)\n\nGtrs. 2 & 3,0
-T,3578926,5,415,DarkRed,0:01:14.561,Verse (1:14.6)\n\nGtrs. 2 & 3,0
-T,4576064,5,285,Green,0:01:35.335,Pre-Chorus (1:35.3)\n\nGtrs. 2 & 3,0
-T,5264229,5,458,DarkGreen,0:01:49.671,Chorus (1:49.7)\n\nGtrs. 2 & 3,0
-T,6359674,5,413,DarkRed,0:02:12.493,Verse (2:12.5)\n\nGtrs. 2 & 3,0
-T,7349790,5,283,Green,0:02:33.121,Pre-Chorus (2:33.1)\n\nGtrs. 2 & 3,0
-T,8033274,5,448,DarkGreen,0:02:47.360,Chorus (2:47.4)\n\nGtrs. 2 & 3,0
-T,9102973,5,193,Blue,0:03:09.645,Interlude (3:09.7)\n\nGtrs. 2 & 3,0
-T,9578134,5,190,DarkBlue,0:03:19.544,(3:19.5)\n\nGtrs. 2 & 3,0
-T,10046274,5,582,Teal,0:03:29.297,Guitar Solo (3:29.3)\n\nGtrs. 2 & 3\nGtr. 4 (dist) in,0
-T,11431967,5,189,Olive,0:03:58.166,(3:58.2)\n\nGtrs. 2\C 3 & 4,0
-T,11895424,5,188,Teal,0:04:07.821,(4:07.8)\n\nGtrs. 2\C 3 & 4,0
-T,12356542,5,187,Olive,0:04:17.428,(4:17.4)\n\nGtrs. 2\C 3 & 4,0
-T,12815319,5,388,Teal,0:04:26.986,Bridge (4:27)\n\nGtrs. 2\C 3 & 4\nGtr. 4 out @ 4:28.3,0
-T,13744576,5,382,Purple,0:04:46.345,Outro (4:46.4)\n\nGtrs. 2 & 3,0
-T,14662129,5,377,Aqua,0:05:05.461,(5:05.5)\n\nGtrs. 2 & 3\nGtr. 5 (dist.) in [R]\nGtr. 6 (dist.) in [L],0
-T,15570319,5,382,Aqua,0:05:24.382,(5:24.4)\n\nGtrs. 2\C 3\C 5 & 6,0
-T,16492555,5,239,Yellow,0:05:43.595,Segue to "Out of Body Out of Mind (5:43.6)\n\nGtrs. 5 & 6 out\nGtrs. 2 & 3,0
+T,-1,5,413,Grey,0:00:00.000000,Intro (0:00)\n\nGtr. 1 (dist.) in [R & L]\nGtr. 2 (dist.) in [R]\nGtr. 3 (dist.) in [L],0
+T,-1,5,628,Black,0:00:20.730958,(0:20.7)\n\nGtr. 1 out\nGtrs. 2 & 3,0
+T,-1,87,100,Grey,0:00:20.730958,q=200\C double time feel,0
+T,-1,5,456,Red,0:00:51.836708,(0:51.8)\n\nGtrs. 2 & 3,0
+T,-1,5,415,DarkRed,0:01:14.560958,Verse (1:14.6)\n\nGtrs. 2 & 3,0
+T,-1,5,285,Green,0:01:35.334667,Pre-Chorus (1:35.3)\n\nGtrs. 2 & 3,0
+T,-1,5,458,DarkGreen,0:01:49.671438,Chorus (1:49.7)\n\nGtrs. 2 & 3,0
+T,-1,5,413,DarkRed,0:02:12.493208,Verse (2:12.5)\n\nGtrs. 2 & 3,0
+T,-1,5,283,Green,0:02:33.120625,Pre-Chorus (2:33.1)\n\nGtrs. 2 & 3,0
+T,-1,5,448,DarkGreen,0:02:47.359875,Chorus (2:47.4)\n\nGtrs. 2 & 3,0
+T,-1,5,193,Blue,0:03:09.645271,Interlude (3:09.7)\n\nGtrs. 2 & 3,0
+T,-1,5,190,DarkBlue,0:03:19.544458,(3:19.5)\n\nGtrs. 2 & 3,0
+T,-1,5,582,Teal,0:03:29.297375,Guitar Solo (3:29.3)\n\nGtrs. 2 & 3\nGtr. 4 (dist) in,0
+T,-1,5,189,Olive,0:03:58.165979,(3:58.2)\n\nGtrs. 2\C 3 & 4,0
+T,-1,5,188,Teal,0:04:07.821333,(4:07.8)\n\nGtrs. 2\C 3 & 4,0
+T,-1,5,187,Olive,0:04:17.427958,(4:17.4)\n\nGtrs. 2\C 3 & 4,0
+T,-1,5,388,Teal,0:04:26.985813,Bridge (4:27)\n\nGtrs. 2\C 3 & 4\nGtr. 4 out @ 4:28.3,0
+T,-1,5,382,Purple,0:04:46.345333,Outro (4:46.4)\n\nGtrs. 2 & 3,0
+T,-1,5,377,Aqua,0:05:05.461021,(5:05.5)\n\nGtrs. 2 & 3\nGtr. 5 (dist.) in [R]\nGtr. 6 (dist.) in [L],0
+T,-1,5,382,Aqua,0:05:24.381646,(5:24.4)\n\nGtrs. 2\C 3\C 5 & 6,0
+T,-1,5,239,Yellow,0:05:43.594896,Segue to "Out of Body Out of Mind (5:43.6)\n\nGtrs. 5 & 6 out\nGtrs. 2 & 3,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,1,995086,594249,,White,
-L,2,0,0,0,,White,
-L,3,1,2488162,482183,,White,
-L,4,1,3578926,498568,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,1,995086,594249,,White,,0:00:20.730958,0:00:12.380188
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,1,2488162,482183,,White,,0:00:51.836708,0:00:10.045479
+L,4,1,3578926,498568,,White,,0:01:14.560958,0:00:10.386833
+L,5,1,4576064,376852,,White,,0:01:35.334667,0:00:07.851081
+L,6,1,5264229,482183,,White,,0:01:49.671438,0:00:10.045486
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops

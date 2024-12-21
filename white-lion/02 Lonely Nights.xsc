@@ -1,9 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,72,7,S,0
+Transcribe!,GTK,9,00,7,S,0
 
 SectionStart,Main
-SoundFileName,02 Lonely Nights.opus,Nix,/home/david/Dropbox/david_self_study/guitar/shred/White Lion/02 Lonely Nights.opus
-SoundFileInfo,GStreamer soundfile,'.opus',2,4898442,48000,12082560,251.720000
+SaveDate,2022-06-14 21:35
+WindowSize,36|66|1440|789,0
+ViewList,1,0,0.00000000
+SoundFileName,02 Lonely Nights.opus,Nix,/home/david/Music/music-practice/white-lion/02 Lonely Nights.opus
+SoundFileInfo,GStreamer soundfile,'.opus',2,4898442,48000,12082560,251.72000000
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -13,17 +20,20 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,0,0,1,0,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80
-FX_Speed,0,0,85000,0
-FX_Misc,1,0,29
+FX_Speed,1,0,50000,0
+FX_Misc,1,0,29,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,1
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -41,7 +51,6 @@ FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 LoopMode,1
 ScrollMode,1
-PlayZone,4
 PianoBtmNote,38
 PianoTopNote,89
 PianoRollBtmNote,24
@@ -51,74 +60,74 @@ PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.773723
 VertProfileZoom,1.000000
 HorizProfileZoom,0.250000
-HorizProfilePos,1085
-SelectionLeft,0
-SelectionRight,0
+HorizProfilePos,6668
+SelectionLeft,9187971,0:03:11.416058
+SelectionRight,9187971,0:03:11.416058
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,17
-S,0,1,A,0,0:00:00.000
-S,807588,1,B,0,0:00:16.825
-S,1551835,1,C,0,0:00:32.330
-S,2294103,1,D,0,0:00:47.794
-S,3038350,1,E,0,0:01:03.299
-S,3780619,1,F,0,0:01:18.763
-S,4524866,1,G,0,0:01:34.268
-S,5269113,1,H,0,0:01:49.773
-S,6009402,1,I,0,0:02:05.196
-S,6753649,1,J,0,0:02:20.701
-S,7499876,1,K,0,0:02:36.247
-S,8240165,1,L,0,0:02:51.670
-S,8982433,1,M,0,0:03:07.134
-S,9724701,1,N,0,0:03:22.598
-S,10468948,1,O,0,0:03:38.103
-S,11213195,1,P,0,0:03:53.608
-S,11771382,1,Q,0,0:04:05.237
+S,-1,1,A,0,0:00:00.000000
+S,-1,1,B,0,0:00:16.824750
+S,-1,1,C,0,0:00:32.329896
+S,-1,1,D,0,0:00:47.793813
+S,-1,1,E,0,0:01:03.298958
+S,-1,1,F,0,0:01:18.762896
+S,-1,1,G,0,0:01:34.268042
+S,-1,1,H,0,0:01:49.773188
+S,-1,1,I,0,0:02:05.195875
+S,-1,1,J,0,0:02:20.701021
+S,-1,1,K,0,0:02:36.247417
+S,-1,1,L,0,0:02:51.670104
+S,-1,1,M,0,0:03:07.134021
+S,-1,1,N,0,0:03:22.597938
+S,-1,1,O,0,0:03:38.103083
+S,-1,1,P,0,0:03:53.608229
+S,-1,1,Q,0,0:04:05.237125
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,17
-T,0,5,100,Grey,0:00:00.000,Intro (0:00)\n\n,0
-T,807588,5,100,Black,0:00:16.825,(0:16.8)\n\n,0
-T,1551835,5,100,Red,0:00:32.330,Verse (0:32.3)\n\n,0
-T,2294103,5,100,Red,0:00:47.794,(0:47.8)\n\n,0
-T,3038350,5,100,DarkRed,0:01:03.299,Pre-Chorus (1:03.3)\n\n,0
-T,3780619,5,100,Black,0:01:18.763,Chorus (1:18.8)\n\n,0
-T,4524866,5,100,Red,0:01:34.268,Verse (1:34.3)\n\n,0
-T,5269113,5,100,Red,0:01:49.773,(1:49.8)\n\n,0
-T,6009402,5,100,DarkRed,0:02:05.196,Pre-Chorus (2:05.2)\n\n,0
-T,6753649,5,100,Black,0:02:20.701,Chorus (2:20.7)\n\n,0
-T,7499876,5,100,Green,0:02:36.247,Bridge (2:36.3)\n\n,0
-T,8240165,5,100,Green,0:02:51.670,(2:51.7)\n\n,0
-T,8982433,5,100,DarkRed,0:03:07.134,Guitar Solo (3:07.3)\n\n,0
-T,9724701,5,100,DarkRed,0:03:22.598,(3:22.6)\n\n,0
-T,10468948,5,100,Black,0:03:38.103,Chorus (3:38.1)\n\n,0
-T,11213195,5,100,Black,0:03:53.608,(3:53.6)\n\n,0
-T,11771382,5,100,DarkGreen,0:04:05.237,Outro (4:05.2)\n\n,0
+T,-1,5,100,Grey,0:00:00.000000,Intro (0:00)\n\n,0
+T,-1,5,100,Black,0:00:16.824750,(0:16.8)\n\n,0
+T,-1,5,100,Red,0:00:32.329896,Verse (0:32.3)\n\n,0
+T,-1,5,100,Red,0:00:47.793813,(0:47.8)\n\n,0
+T,-1,5,100,DarkRed,0:01:03.298958,Pre-Chorus (1:03.3)\n\n,0
+T,-1,5,100,Black,0:01:18.762896,Chorus (1:18.8)\n\n,0
+T,-1,5,100,Red,0:01:34.268042,Verse (1:34.3)\n\n,0
+T,-1,5,100,Red,0:01:49.773188,(1:49.8)\n\n,0
+T,-1,5,100,DarkRed,0:02:05.195875,Pre-Chorus (2:05.2)\n\n,0
+T,-1,5,100,Black,0:02:20.701021,Chorus (2:20.7)\n\n,0
+T,-1,5,100,Green,0:02:36.247417,Bridge (2:36.3)\n\n,0
+T,-1,5,100,Green,0:02:51.670104,(2:51.7)\n\n,0
+T,-1,5,100,DarkRed,0:03:07.134021,Guitar Solo (3:07.3)\n\n,0
+T,-1,5,100,DarkRed,0:03:22.597938,(3:22.6)\n\n,0
+T,-1,5,100,Black,0:03:38.103083,Chorus (3:38.1)\n\n,0
+T,-1,5,100,Black,0:03:53.608229,(3:53.6)\n\n,0
+T,-1,5,100,DarkGreen,0:04:05.237125,Outro (4:05.2)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
