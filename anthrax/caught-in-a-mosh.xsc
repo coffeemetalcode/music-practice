@@ -1,13 +1,12 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,21,7,S,0
+Transcribe!,GTK,9,41,7,S,2
 
 SectionStart,Main
-SaveDate,2024-11-21 21:56
+SaveDate,2025-04-09 19:58
 WindowSize,82|162|1440|789,1
 ViewList,1,0,0.00000000
-SoundFileName,caught-in-a-mosh.m4a,Nix,/home/david/Music/music-practice/anthrax/caught-in-a-mosh.m4a
+SoundFileName,caught-in-a-mosh.m4a,Nix,/home/coffeemetalcode/Music/music-practice/anthrax/caught-in-a-mosh.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,4854882,44100,13236224,300.14113379
-SubtitleFileName,,Nix,/home/david/
 SubtitleFontSize,15
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
@@ -23,8 +22,8 @@ FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,80000,0
-FX_Misc,1,0,75,0
+FX_Speed,1,0,90000,0
+FX_Misc,1,0,75,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -43,13 +42,16 @@ NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
 ShowGuessChords,0
+ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
 ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
 LoopMode,1
+LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,12
 PianoTopNote,63
@@ -60,9 +62,9 @@ PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.857702
 VertProfileZoom,1.000000
 HorizProfileZoom,0.149684
-HorizProfilePos,18
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfilePos,3599
+SelectionLeft,7787018,0:02:56.576367
+SelectionRight,7787018,0:02:56.576367
 SectionEnd,View0
 
 SectionStart,Markers
@@ -97,3 +99,8 @@ L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,caught-in-a-mosh.m4a,Stem 1,/home/coffeemetalcode/Music/music-practice/anthrax/caught-in-a-mosh.m4a
+SectionEnd,SeparateStemFiles
