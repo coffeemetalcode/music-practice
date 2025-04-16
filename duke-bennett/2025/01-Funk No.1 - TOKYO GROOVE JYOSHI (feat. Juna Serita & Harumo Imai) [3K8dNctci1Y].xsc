@@ -1,0 +1,157 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,9,41,7,S,2
+
+SectionStart,Main
+SaveDate,2025-04-14 20:08
+WindowSize,57|137|1440|789,1
+ViewList,1,0,0.00000000
+SoundFileName,01-Funk No.1 - TOKYO GROOVE JYOSHI (feat. Juna Serita & Harumo Imai) [3K8dNctci1Y].mp3,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/01-Funk No.1 - TOKYO GROOVE JYOSHI (feat. Juna Serita & Harumo Imai) [3K8dNctci1Y].mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,5112525,48000,14777856,307.87200000
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,1
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,0,0
+FX_Tuning,1,1,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,100000,0
+FX_Misc,1,0,50,0,80,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,0
+TVVVideoSizeLinear,500
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowAsMono,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
+LoopMode,1
+LoopDelayMode,1
+ScrollMode,1
+PianoBtmNote,38
+PianoTopNote,93
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.250000
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.700000
+VertProfileZoom,1.000000
+HorizProfileZoom,0.500000
+HorizProfilePos,19173
+SelectionLeft,13833109,0:04:48.189781
+SelectionRight,13833109,0:04:48.189781
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,26
+S,-1,1,A1,0,0:00:00.000000,
+S,-1,1,B2,0,0:00:11.248175,
+S,-1,1,C3,0,0:00:19.824818,
+S,-1,1,D4,0,0:00:28.408759,
+S,-1,1,E5,0,0:00:36.919708,
+S,-1,1,F6,0,0:00:54.043796,
+S,-1,1,G7,0,0:01:02.598540,
+S,-1,1,H8,0,0:01:19.766423,
+S,-1,1,I9,0,0:01:24.058394,
+B,-1,1,,0,0:01:26.575729,
+S,-1,1,J10,0,0:01:32.613139,
+S,-1,1,K11,0,0:02:06.905109,
+S,-1,1,L12,0,0:02:11.226277,
+S,-1,1,M13,0,0:02:19.737226,
+S,-1,1,N14,0,0:02:28.306569,
+S,-1,1,O15,0,0:02:45.445255,
+S,-1,1,P16,0,0:03:02.496350,
+S,-1,1,Q17,0,0:03:19.459854,
+S,-1,1,R18,0,0:03:27.941606,
+S,-1,1,S19,0,0:03:36.394161,
+S,-1,1,T20,0,0:03:44.861314,
+S,-1,1,U21,0,0:04:01.766423,
+S,-1,1,V22,0,0:04:05.985401,
+S,-1,1,W23,0,0:04:22.948905,
+S,-1,1,X24,0,0:04:31.372263,
+S,-1,1,Y25,0,0:04:48.189781,
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,25
+T,-1,5,100,Grey,0:00:00.000000,Intro\n\n,0
+T,-1,5,100,Grey,0:00:11.248175,Bass\n\n,0
+T,-1,5,100,Grey,0:00:19.824818,Guitar\n\n ,0
+T,-1,5,100,Grey,0:00:28.408759,Keys\n\n,0
+T,-1,5,100,Grey,0:00:36.919708,Horns\n\n,0
+T,-1,5,100,Grey,0:00:54.043796,A\n\n,0
+T,-1,5,100,Grey,0:01:02.598540,,0
+T,-1,5,100,Grey,0:01:19.766423,Hold\n\n ,0
+T,-1,5,100,Black,0:01:24.058394,B\n\n,0
+T,-1,5,100,Grey,0:01:32.613139,A\n\n,0
+T,-1,5,100,Grey,0:02:06.905109,Hold\n\n,0
+T,-1,5,100,Black,0:02:11.226277,B\n\n,0
+T,-1,5,100,Grey,0:02:19.737226,A\n\n,0
+T,-1,5,100,Grey,0:02:28.306569,B (Keys)\n\n,0
+T,-1,5,100,Grey,0:02:45.445255,A (Horn)\n\n,0
+T,-1,5,100,Grey,0:03:02.496350,A (Horn\C cont.)\n\n,0
+T,-1,5,100,Black,0:03:19.459854,B (Horn\C cont.)\n\n,0
+T,-1,5,100,Grey,0:03:27.941606,A (Horn\C cont.)\n\n,0
+T,-1,5,100,Grey,0:03:36.394161,A\n\n,0
+T,-1,5,100,Grey,0:03:44.861314,A (Head)\n\n ,0
+T,-1,5,100,Grey,0:04:01.766423,Hold\n\n,0
+T,-1,5,100,Black,0:04:05.985401,B\n\n,0
+T,-1,5,100,Grey,0:04:22.948905,A\n\n,0
+T,-1,5,100,Grey,0:04:31.372263,A (Head)\n\n,0
+T,-1,5,100,Grey,0:04:48.189781,A (Outro)\n\n,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,01-Funk No.1 - TOKYO GROOVE JYOSHI (feat. Juna Serita & Harumo Imai) [3K8dNctci1Y].mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/01-Funk No.1 - TOKYO GROOVE JYOSHI (feat. Juna Serita & Harumo Imai) [3K8dNctci1Y].mp3
+SectionEnd,SeparateStemFiles

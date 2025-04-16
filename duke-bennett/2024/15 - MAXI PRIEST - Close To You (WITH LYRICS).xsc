@@ -1,0 +1,119 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,9,21,7,S,0
+
+SectionStart,Main
+SaveDate,2023-10-15 12:00
+WindowSize,100|100|2560|1408,1
+ViewList,1,0,0.00000000
+SoundFileName,15 - MAXI PRIEST - Close To You (WITH LYRICS).m4a,Nix,/home/david/Music/music-practice/duke-bennett/15 - MAXI PRIEST - Close To You (WITH LYRICS).m4a
+SoundFileInfo,GStreamer soundfile,'.m4a',2,2633678,44100,9538560,216.29387755
+SubtitleFileName,,Nix,/home/david/
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,200,0
+FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,0,0,80000,0
+FX_Misc,1,0,85,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,0
+TVVVideoSizeLinear,-1
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,1
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PianoBtmNote,12
+PianoTopNote,63
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.371756
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.852651
+VertProfileZoom,1.000000
+HorizProfileZoom,0.149684
+HorizProfilePos,0
+SelectionLeft,120429,0:00:02.730814
+SelectionRight,120429,0:00:02.730814
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,10
+S,-1,1,A,0,0:00:02.730814
+S,-1,1,B,0,0:00:15.214534
+S,-1,1,C,0,0:00:35.207991
+S,-1,1,D,0,0:00:55.201449
+S,-1,1,E,0,0:01:27.727391
+S,-1,1,F,0,0:01:47.672085
+S,-1,1,G,0,0:02:20.149262
+S,-1,1,H,0,0:02:40.191485
+S,-1,1,I,0,0:02:50.188214
+S,-1,1,J,0,0:03:10.181671
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,10
+T,-1,5,100,Grey,0:00:02.730814,Intro,0
+T,-1,5,100,Grey,0:00:15.214534,Verse [A],0
+T,-1,5,100,Grey,0:00:35.207991,Chorus [B],0
+T,-1,5,100,Grey,0:00:55.201449,Verse [C]\n\n,0
+T,-1,5,100,Grey,0:01:27.727391,Chorus [B],0
+T,-1,5,100,Grey,0:01:47.672085,Verse [C],0
+T,-1,5,100,Grey,0:02:20.149262,Chorus [B],0
+T,-1,5,100,Grey,0:02:40.191485,Interlude [D],0
+T,-1,5,100,Grey,0:02:50.188214,Verse [A],0
+T,-1,5,100,Grey,0:03:10.181671,Chorus [B],0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+SectionEnd,Loops
