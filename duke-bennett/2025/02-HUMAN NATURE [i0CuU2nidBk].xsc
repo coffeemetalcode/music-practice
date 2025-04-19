@@ -2,15 +2,15 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,41,7,S,2
 
 SectionStart,Main
-SaveDate,2025-04-15 21:39
-WindowSize,57|137|1440|789,1
-ViewList,2,0,612.50000000,1238.00000000
+SaveDate,2025-04-16 20:15
+WindowSize,10|40|1067|1366,0
+ViewList,1,0,0.00000000
 SoundFileName,02-HUMAN NATURE [i0CuU2nidBk].mp3,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/02-HUMAN NATURE [i0CuU2nidBk].mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,5460381,48000,14719104,306.64800000
 SubtitleFontSize,15
 SubtitleBackgroundRectangle,0
 SynchronizeViews,0
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,6477547:497518,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -57,70 +57,35 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.254488
+TextZoneSplitterPos,0.259384
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.705063
+ViewSplitterPos,0.710669
 VertProfileZoom,1.000000
-HorizProfileZoom,0.500000
-HorizProfilePos,17791
-SelectionLeft,12446365,0:04:19.299270
-SelectionRight,12446365,0:04:19.299270
+HorizProfileZoom,0.505810
+HorizProfilePos,681
+SelectionLeft,503825,0:00:10.496350
+SelectionRight,980144,0:00:20.419658
 SectionEnd,View0
 
-SectionStart,View1
-FX_Mix,0,0,100,0
-FX_Tuning,1,1,0,0,0,0,60,50,0
-FX_Transposition,1,1,0,0,0
-FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,90000,0
-FX_Misc,1,0,50,0,80,0
-ShowTextZone,1
-ShowPianoRoll,0
-PianoRollPiano,1
-PianoRollSensitivity,3
-ShowVideo,1
-SelectSoundTrack,0
-SelectSubtitles,-2
-ShowSubtitles,0
-TVVVideoSizeLinear,500
-TVVVtimeOffset,0.000000
-TVVVideoMirror,0
-TVVVideoVFlip,0
-ShowNavbar,0
-NavBarMeasures,1
-NavBarMeasuresMenu,1
-ShowSpectrum,0
-ShowGuessNotes,0
-ShowGuessChords,0
-ShowAsMono,0
-ShowDB,0
-ShowTimeLine,0
-ShowLoopLine,0
-FitWholeFile,0
-FitWholeFileHorizZoom,1.000000
-FitWholeFileStartwavpix,-1
-TimelineOffset,0:00:00.000000
-LoopMode,1
-LoopDelayMode,1
-ScrollMode,1
-PianoBtmNote,38
-PianoTopNote,93
-PianoRollBtmNote,24
-PianoRollTopNote,96
-TextZoneSplitterPos,0.256945
-PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.707865
-VertProfileZoom,1.000000
-HorizProfileZoom,0.500000
-HorizProfilePos,9070
-SelectionLeft,8961635,0:03:06.700730
-SelectionRight,8961635,0:03:06.700730
-SectionEnd,View1
-
 SectionStart,Markers
-Howmany,28
+Howmany,45
 S,-1,1,A1,0,0:00:00.102190,
 S,-1,1,B2,0,0:00:10.496350,
+B,-1,1,,0,0:00:11.262125,
+B,-1,1,,0,0:00:11.867146,
+B,-1,1,,0,0:00:12.479146,
+B,-1,1,,0,0:00:13.098375,
+B,-1,1,,0,0:00:13.775583,
+B,-1,1,,0,0:00:14.438083,
+B,-1,1,,0,0:00:15.049292,
+B,-1,1,,0,0:00:15.726229,
+B,-1,1,,0,0:00:16.374000,
+B,-1,1,,0,0:00:17.030021,
+B,-1,1,,0,0:00:17.670854,
+B,-1,1,,0,0:00:18.332563,
+B,-1,1,,0,0:00:18.980354,
+B,-1,1,,0,0:00:19.643167,
+B,-1,1,,0,0:00:20.262813,
 S,-1,1,C3,0,0:00:20.875912,
 S,-1,1,D4,0,0:00:31.211679,
 S,-1,1,E5,0,0:00:41.591241,
@@ -145,6 +110,8 @@ S,-1,1,W23,0,0:03:48.233577,
 S,-1,1,X24,0,0:03:58.642336,
 S,-1,1,Y25,0,0:04:09.007299,
 S,-1,1,Z26,0,0:04:19.299270,
+B,-1,1,,0,0:04:25.167883,
+B,-1,1,,0,0:04:25.167883,
 S,-1,1,A27,0,0:04:29.737226,
 S,-1,1,B28,0,0:04:45.299270,
 SectionEnd,Markers
@@ -170,14 +137,14 @@ T,-1,5,410,DarkGreen,0:03:17.167883,Verse\n\n|:Gmaj7    A   F#m7  |Gmaj7    A   
 T,-1,5,400,Blue,0:03:37.897810,Chorus\n\n|:Gmaj7    A    |D  D/C#  D/B  D/A  |\n| Gmaj7    A    |Em7      Bm7  F#m7 | 2x,1
 T,-1,5,210,Blue,0:03:58.642336,Continue\n\n|:Em7    Bm7    :| 2x\n| Em             |\n| A7             |,1
 T,-1,5,100,Green,0:04:09.007299,Outro\n\n,0
-T,-1,5,360,DarkBlue,0:04:19.299270,|Cmaj7    Bm7    |F#maj7    Em7    |\n|Gmaj7    A      |Cmaj7     D      |,1
-T,-1,5,490,Teal,0:04:29.737226,| Bbmaj7    Am7    |Ebmaj7    Dm7    |\n|:Bbmaj7           |Bbmaj7          :| (till end),1
+T,-1,5,350,DarkBlue,0:04:19.299270,|Cmaj7    Bm7    |Fmaj7    Em7    |\n|Gmaj7    A      |Cmaj7     D     |,1
+T,-1,5,480,Teal,0:04:29.737226,| Bbmaj7    Am7    |Fmaj7    Em7    |\n|:Bbmaj7           |Bbmaj7         :| (till end),1
 T,-1,5,100,DarkBlue,0:04:45.299270,,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,1,1,6477547,497518,Horn Solo,White,,0:02:14.948905,0:00:10.364963
 L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000

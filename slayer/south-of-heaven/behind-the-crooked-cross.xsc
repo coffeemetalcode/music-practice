@@ -2,28 +2,28 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,41,7,S,2
 
 SectionStart,Main
-SaveDate,2025-04-18 22:03
-WindowSize,0|30|2560|1386,1
+SaveDate,2025-04-18 21:23
+WindowSize,10|40|1067|1390,1
 ViewList,1,0,0.00000000
-SoundFileName,07 - Tornado of Souls.wav,Nix,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/07 - Tornado of Souls.wav
-SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,62037618,48000,15509385,323.11218750
+SoundFileName,behind-the-crooked-cross.mp3,Nix,/home/coffeemetalcode/Music/music-practice/slayer/south-of-heaven/behind-the-crooked-cross.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,3484365,48000,9347328,194.73600000
 SubtitleFontSize,15
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
-MarkerNumberContinuously,0
+MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
 MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Mix,0,0,100,0
+FX_Tuning,1,1,0,0,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
-FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,80000,0
-FX_Misc,1,0,75,0,80,0
+FX_Misc,1,0,50,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -31,8 +31,8 @@ PianoRollSensitivity,3
 ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
-ShowSubtitles,1
-TVVVideoSizeLinear,-1
+ShowSubtitles,0
+TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -45,39 +45,58 @@ ShowGuessChords,0
 ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,1
+ShowLoopLine,0
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 TimelineOffset,0:00:00.000000
-LoopMode,0
+LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
-PianoBtmNote,39
-PianoTopNote,90
+PianoBtmNote,38
+PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.417652
+TextZoneSplitterPos,0.250000
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.813918
+ViewSplitterPos,0.700000
 VertProfileZoom,1.000000
-HorizProfileZoom,0.078563
-HorizProfilePos,922
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfileZoom,0.500000
+HorizProfilePos,10783
+SelectionLeft,7670190,0:02:39.795620
+SelectionRight,7670190,0:02:39.795620
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,3
-S,-1,1,A,0,0:03:10.230188,
-S,-1,1,B,0,0:03:49.674333,
-S,-1,1,C,0,0:04:09.419229,
+Howmany,13
+S,-1,1,A1,0,0:00:00.000000,
+S,-1,1,B2,0,0:00:09.021898,
+S,-1,1,C3,0,0:00:13.547445,
+S,-1,1,D4,0,0:00:22.963504,
+S,-1,1,E5,0,0:00:32.262774,
+S,-1,1,F6,0,0:00:34.583942,
+S,-1,1,G7,0,0:00:53.124088,
+S,-1,1,H8,0,0:01:54.759124,
+S,-1,1,I9,0,0:02:03.474453,
+S,-1,1,J10,0,0:02:12.058394,
+S,-1,1,K11,0,0:02:20.554745,
+S,-1,1,L12,0,0:02:37.605839,
+S,-1,1,M13,0,0:02:39.795620,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,1
-T,-1,5,100,Grey,0:03:10.230188,Guitar Solo (Friedman) (3:10.2)\n\n,0
+Howmany,10
+T,-1,5,100,Grey,0:00:00.000000,,0
+T,-1,5,100,Grey,0:00:22.963504,,0
+T,-1,5,100,Black,0:00:34.583942,Verse,0
+T,-1,5,100,Black,0:00:53.124088,,0
+T,-1,5,100,DarkRed,0:01:54.759124,Guitar Solo,0
+T,-1,5,100,DarkRed,0:02:03.474453,Guitar Solo,0
+T,-1,5,100,DarkRed,0:02:12.058394,,0
+T,-1,5,100,DarkRed,0:02:20.554745,,0
+T,-1,5,100,DarkRed,0:02:37.605839,,0
+T,-1,5,100,Black,0:02:39.795620,Verse,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
@@ -106,5 +125,5 @@ SectionEnd,Loops
 
 SectionStart,SeparateStemFiles
 ShowStemSelector,0
-StemFile,07 - Tornado of Souls.wav,Stem 1,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/07 - Tornado of Souls.wav
+StemFile,behind-the-crooked-cross.mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/slayer/south-of-heaven/behind-the-crooked-cross.mp3
 SectionEnd,SeparateStemFiles
