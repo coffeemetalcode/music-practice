@@ -2,15 +2,15 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,41,7,S,2
 
 SectionStart,Main
-SaveDate,2025-04-16 20:15
-WindowSize,10|40|1067|1366,0
+SaveDate,2025-05-24 23:16
+WindowSize,10|40|793|1006,1
 ViewList,1,0,0.00000000
 SoundFileName,02-HUMAN NATURE [i0CuU2nidBk].mp3,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/02-HUMAN NATURE [i0CuU2nidBk].mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,5460381,48000,14719104,306.64800000
 SubtitleFontSize,15
 SubtitleBackgroundRectangle,0
 SynchronizeViews,0
-Loops,6477547:497518,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,6477547:497518,12446365:498457,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -19,10 +19,10 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,0
-FX_Tuning,1,1,0,0,0,0,60,50,0
+FX_Tuning,0,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,90000,0
+FX_Speed,1,0,100000,0
 FX_Misc,1,0,50,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -57,14 +57,14 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.259384
+TextZoneSplitterPos,0.258432
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.710669
+ViewSplitterPos,0.709573
 VertProfileZoom,1.000000
 HorizProfileZoom,0.505810
-HorizProfilePos,681
-SelectionLeft,503825,0:00:10.496350
-SelectionRight,980144,0:00:20.419658
+HorizProfilePos,17379
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
@@ -127,7 +127,7 @@ T,-1,5,100,Black,0:01:12.686131,Verse\n\n,0
 T,-1,5,100,Red,0:01:33.445255,Chorus\n\n,0
 T,-1,5,200,Red,0:01:54.087591,Continue\n\n|:Dm7    Am7   :| 2x\n| Dm7           |\n| G7            |,1
 T,-1,5,100,Grey,0:02:04.540146,Interlude\n\n,0
-T,-1,5,370,DarkRed,0:02:14.963504,Horn Solo\n\n|Bbmaj7    Am7    |Ebmaj7    Dm7    |\n|Fmaj7     G      |Bbmaj7    Am7    |,1
+T,-1,5,360,DarkRed,0:02:14.963504,Horn Solo\n\n|Bbmaj7    Am7    |Fmaj7    Em7    |\n|Fmaj7     G      |Bbmaj7   Am7    |,1
 T,-1,5,100,Grey,0:02:25.270073,,0
 T,-1,5,100,Grey,0:02:35.635036,,0
 T,-1,5,100,Grey,0:02:46.000000,,0
@@ -145,7 +145,7 @@ SectionEnd,TextBlocks
 SectionStart,Loops
 Howmany,20
 L,1,1,6477547,497518,Horn Solo,White,,0:02:14.948905,0:00:10.364963
-L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,1,12446365,498457,,White,,0:04:19.299270,0:00:10.384523
 L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000

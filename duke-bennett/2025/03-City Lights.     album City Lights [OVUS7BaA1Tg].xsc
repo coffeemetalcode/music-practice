@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,41,7,S,2
 
 SectionStart,Main
-SaveDate,2025-04-19 07:49
-WindowSize,100|100|2560|1386,1
+SaveDate,2025-04-27 14:50
+WindowSize,10|40|1067|1366,1
 ViewList,1,0,0.00000000
 SoundFileName,03-City Lights.     album City Lights [OVUS7BaA1Tg].mp3,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/03-City Lights.     album City Lights [OVUS7BaA1Tg].mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,6300261,48000,20110464,418.96800000
@@ -22,7 +22,7 @@ FX_Mix,0,0,100,0
 FX_Tuning,0,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,100000,0
+FX_Speed,0,0,80000,0
 FX_Misc,1,0,50,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -53,24 +53,32 @@ TimelineOffset,0:00:00.000000
 LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
-PianoBtmNote,38
-PianoTopNote,93
+PianoBtmNote,43
+PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.250000
+TextZoneSplitterPos,0.205767
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700000
+ViewSplitterPos,0.855102
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,26783
-SelectionLeft,19369577,0:06:43.532847
-SelectionRight,19369577,0:06:43.532847
+HorizProfilePos,26143
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,17
+Howmany,25
 S,-1,1,A1,0,0:00:00.000000,
 S,-1,1,B2,0,0:00:08.875912,
+B,-1,1,,0,0:00:09.775396,
+B,-1,1,,0,0:00:10.495750,
+B,-1,1,,0,0:00:11.321292,
+B,-1,1,,0,0:00:12.160792,
+B,-1,1,,0,0:00:12.990500,
+B,-1,1,,0,0:00:13.807021,
+B,-1,1,,0,0:00:14.601229,
+B,-1,1,,0,0:00:15.459021,
 S,-1,1,C3,0,0:00:35.167883,
 S,-1,1,D4,0,0:01:01.416058,
 S,-1,1,E5,0,0:01:27.781022,

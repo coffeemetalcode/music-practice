@@ -1,0 +1,173 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,9,41,7,S,2
+
+SectionStart,Main
+SaveDate,2025-06-03 21:01
+WindowSize,10|40|873|1390,1
+ViewList,1,0,0.00000000
+SoundFileName,10-Michael Jackson - Off The Wall - Rock With You [7jF7vmR535E].mp3,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/10-Michael Jackson - Off The Wall - Rock With You [7jF7vmR535E].mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,3487437,48000,10598400,220.80000000
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,1
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,0
+FX_Tuning,0,0,0,-1,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,0,0,90000,0
+FX_Misc,1,0,80,0,80,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,0
+TVVVideoSizeLinear,500
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowAsMono,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
+LoopMode,1
+LoopDelayMode,1
+ScrollMode,1
+PianoBtmNote,38
+PianoTopNote,93
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.255510
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.706226
+VertProfileZoom,1.000000
+HorizProfileZoom,0.616759
+HorizProfilePos,0
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,41
+S,-1,1,A1,0,0:00:00.000000,
+S,-1,1,B2,0,0:00:02.540146,
+B,-1,1,,0,0:00:03.151458,
+B,-1,1,,0,0:00:03.675438,
+B,-1,1,,0,0:00:04.220208,
+B,-1,1,,0,0:00:04.744833,
+B,-1,1,,0,0:00:05.243438,
+B,-1,1,,0,0:00:05.768250,
+B,-1,1,,0,0:00:06.312979,
+B,-1,1,,0,0:00:06.785854,
+B,-1,1,,0,0:00:07.356125,
+B,-1,1,,0,0:00:07.893708,
+B,-1,1,,0,0:00:08.405042,
+B,-1,1,,0,0:00:08.904208,
+B,-1,1,,0,0:00:09.442458,
+B,-1,1,,0,0:00:10.012146,
+B,-1,1,,0,0:00:10.504250,
+S,-1,1,C3,0,0:00:10.934307,
+S,-1,1,D4,0,0:00:19.328467,
+S,-1,1,E5,0,0:00:27.795620,
+S,-1,1,F6,0,0:00:36.204380,
+S,-1,1,G7,0,0:00:44.613139,
+S,-1,1,H8,0,0:00:53.007299,
+S,-1,1,I9,0,0:01:01.459854,
+S,-1,1,J10,0,0:01:09.868613,
+S,-1,1,K11,0,0:01:18.291971,
+S,-1,1,L12,0,0:01:26.700730,
+S,-1,1,M13,0,0:01:35.124088,
+S,-1,1,N14,0,0:01:43.532847,
+S,-1,1,O15,0,0:01:51.970803,
+S,-1,1,P16,0,0:02:00.364964,
+S,-1,1,Q17,0,0:02:08.788321,
+S,-1,1,R18,0,0:02:17.211679,
+S,-1,1,S19,0,0:02:25.620438,
+S,-1,1,T20,0,0:02:34.051095,
+S,-1,1,U21,0,0:02:42.452555,
+S,-1,1,V22,0,0:02:50.861314,
+S,-1,1,W23,0,0:02:59.313869,
+S,-1,1,X24,0,0:03:07.678832,
+S,-1,1,Y25,0,0:03:16.116788,
+S,-1,1,Z26,0,0:03:24.540146,
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,26
+T,-1,5,81,Grey,0:00:00.000000,A (Intro)\n\n| N.C |,1
+T,-1,5,396,Grey,0:00:02.540146,A\n\n| Ebm7  /   /   /   | Ab/Bb   Bb   /   /   |\n| Ebm7  /   /   /   | Ab/Bb Dbsus4 /   /   |,1
+T,-1,5,387,Grey,0:00:10.934307,\n\n| Ebm7  /   /   /   | Ab/Bb Bb   /   /   |\n| Gb Ab /   /   /   |  Gb   Ab   /   /   ||,1
+T,-1,5,378,Black,0:00:19.328467,B (Verse)\n\n| Ebm7 /   /   /   | Ebm7/Ab /   /   /   |\n| Bbm9 /   /   /   | Bbm8    /   /   /   |,1
+T,-1,5,72,Black,0:00:27.795620,\n\n(repeat),1
+T,-1,5,369,Red,0:00:36.204380,\n\n| Fbmaj7 /   /   /   | Ebm7 /   /   /   |\n| Cbmaj7 /   /   /   | Ab7  /   /   /   |,1
+T,-1,5,414,DarkRed,0:00:44.613139,\n\n| Ebm7 Fm7 Gbmaj7   /    | rest /   /   /   |\n| Ebm7 Fm7 Gbmaj7    Ab7 |  /   /   /   /   ||,1
+T,-1,5,90,Grey,0:00:53.007299,A (Chorus)\n\n,1
+T,-1,5,81,Grey,0:01:01.459854,A (Cont.)\n\n,1
+T,-1,5,81,Black,0:01:09.868613,B (Verse)\n\n,1
+T,-1,5,81,Black,0:01:18.291971,B (Cont.)\n\n,1
+T,-1,5,81,Red,0:01:26.700730,B (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:01:35.124088,B (Cont.)\n\n,1
+T,-1,5,90,Grey,0:01:43.532847,A (Chorus)\n\n,1
+T,-1,5,81,Grey,0:01:51.970803,A (Cont.)\n\n,1
+T,-1,5,342,Green,0:02:00.364964,D (Bridge)\n\n| Bbm7 /   /   /   | /   /   /   /   |\n| Eb9  /   /   /   | /   /   /   /   |,1
+T,-1,5,81,Red,0:02:08.788321,D (Cont.)\n\n,1
+T,-1,5,117,Grey,0:02:17.211679,E (Interlude)\n\n,1
+T,-1,5,360,DarkGreen,0:02:25.620438,E (Cont.)\n\n| Ebm7 /   /   /   | Ab   Bb /  Dbsus4 |\n|  /   /   /   /   | /   /   /    /    |,1
+T,-1,5,81,Grey,0:02:34.051095,E (Cont.)\n\n,1
+T,-1,5,369,DarkGreen,0:02:42.452555,E (Cont.)\n\n| Ebm7 /   /   /   | Ab   Bb /  Dbsus4 |\n|  /   /   /   /   | /   / Dsus4  /    ||,1
+T,-1,5,333,Blue,0:02:50.861314,F (Chorus)\n\n| Em7 /   /   /   | A    B   /  /   |\n| Em7 /   /   /   | A   Dsus4   /   |,1
+T,-1,5,315,Blue,0:02:59.313869,F (Cont.)\n\n| Em7 /   /   /   | A   B /   /   |\n| G     A /   /   | G   A /   /   |,1
+T,-1,5,81,Blue,0:03:07.678832,F (Cont.)\n\n,1
+T,-1,5,81,Blue,0:03:16.116788,F (Cont.)\n\n,1
+T,-1,5,99,Blue,0:03:24.540146,(till fade)\n\n,1
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,10-Michael Jackson - Off The Wall - Rock With You [7jF7vmR535E].mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/10-Michael Jackson - Off The Wall - Rock With You [7jF7vmR535E].mp3
+SectionEnd,SeparateStemFiles

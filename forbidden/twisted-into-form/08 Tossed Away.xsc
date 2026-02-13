@@ -1,14 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,21,7,S,0
+Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2024-12-05 21:09
-WindowSize,0|32|2560|1408,1
-ViewList,1,0,0.00000000
-SoundFileName,08 Tossed Away.opus,Nix,/home/david/Music/music-practice/forbidden/twisted-into-form/08 Tossed Away.opus
-SoundFileInfo,GStreamer soundfile,'.opus',2,4358601,48000,13222080,275.46000000
-SubtitleFileName,,Nix,/home/david/
+SaveDate,2025-07-07 06:22
+WindowSize,100|100|2560|1410,1
+ViewList,1,0,0
+SoundFileName,08 Tossed Away.opus,Nix,/media/coffeemetalcode/3a94eb9b-66c8-4249-baf3-f492a8c602c5/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/08 Tossed Away.opus
+SoundFileInfo,GStreamer soundfile,'.opus',2,4358601,48000,13222080,275.46
 SubtitleFontSize,15
+SubtitleTopAlign,0
+SubtitleDeltaX,0
+SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
 Loops,39671:485972,1269478:482667,2231505:466137,2694336:469442,5104361:459525,6863118:231415,7325949:575232,8354094:459525,0:0,0:0
@@ -20,11 +22,11 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,80000,0
-FX_Misc,1,0,75,0
+FX_Speed,1,0,85000,0
+FX_Misc,1,0,75,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -43,58 +45,61 @@ NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
 ShowGuessChords,0
+ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
 ShowLoopLine,0
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
 LoopMode,1
+LoopDelayMode,1
 ScrollMode,1
-PianoBtmNote,12
-PianoTopNote,63
+PianoBtmNote,37
+PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
 TextZoneSplitterPos,0.384502
 PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.809893
 VertProfileZoom,1.000000
-HorizProfileZoom,0.149684
-HorizProfilePos,3093
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfileZoom,0.181460
+HorizProfilePos,0
+SelectionLeft,1385693,0:00:28.868602
+SelectionRight,1385693,0:00:28.868602
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,28
-S,-1,1,A,0,0:00:00.000000
-S,-1,1,B,0,0:00:10.950896
-S,-1,1,C,0,0:00:21.281938
-S,-1,1,D,0,0:00:26.447458
-S,-1,1,E,0,0:00:36.503021
-S,-1,1,F,0,0:00:46.489688
-S,-1,1,G,0,0:00:56.200875
-S,-1,1,H,0,0:01:05.912042
-S,-1,1,I,0,0:01:16.656333
-S,-1,1,J,0,0:01:26.711875
-S,-1,1,K,0,0:01:36.698563
-S,-1,1,L,0,0:01:46.340854
-S,-1,1,M,0,0:01:55.914292
-S,-1,1,N,0,0:02:03.146021
-S,-1,1,O,0,0:02:13.270438
-S,-1,1,P,0,0:02:22.981625
-S,-1,1,Q,0,0:02:27.802792
-S,-1,1,R,0,0:02:32.623938
-S,-1,1,S,0,0:02:44.539063
-S,-1,1,T,0,0:02:54.043625
-S,-1,1,U,0,0:03:03.548188
-S,-1,1,V,0,0:03:13.534854
-S,-1,1,W,0,0:03:23.177167
-S,-1,1,X,0,0:03:33.094958
-S,-1,1,Y,0,0:03:43.081646
-S,-1,1,Z,0,0:03:52.586208
-S,-1,1,A,0,0:04:02.228500
-S,-1,1,B,0,0:04:11.870813
+S,-1,1,A,0,0:00:00.000000,
+S,-1,1,B,0,0:00:10.950896,
+S,-1,1,C,0,0:00:21.281938,
+S,-1,1,D,0,0:00:26.447458,
+S,-1,1,E,0,0:00:36.503021,
+S,-1,1,F,0,0:00:46.489688,
+S,-1,1,G,0,0:00:56.200875,
+S,-1,1,H,0,0:01:05.912042,
+S,-1,1,I,0,0:01:16.656333,
+S,-1,1,J,0,0:01:26.711875,
+S,-1,1,K,0,0:01:36.698563,
+S,-1,1,L,0,0:01:46.340854,
+S,-1,1,M,0,0:01:55.914292,
+S,-1,1,N,0,0:02:03.146021,
+S,-1,1,O,0,0:02:13.270438,
+S,-1,1,P,0,0:02:22.981625,
+S,-1,1,Q,0,0:02:27.802792,
+S,-1,1,R,0,0:02:32.623938,
+S,-1,1,S,0,0:02:44.539063,
+S,-1,1,T,0,0:02:54.043625,
+S,-1,1,U,0,0:03:03.548188,
+S,-1,1,V,0,0:03:13.534854,
+S,-1,1,W,0,0:03:23.177167,
+S,-1,1,X,0,0:03:33.094958,
+S,-1,1,Y,0,0:03:43.081646,
+S,-1,1,Z,0,0:03:52.586208,
+S,-1,1,A,0,0:04:02.228500,
+S,-1,1,B,0,0:04:11.870813,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
@@ -121,6 +126,7 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
+MostRecent,-1
 L,1,1,39671,485972,Intro / Interlude,White,,0:00:00.826479,0:00:10.124417
 L,2,1,1269478,482667,Verse,White,,0:00:26.447458,0:00:10.055563
 L,3,1,2231505,466137,Pre-Chorus,White,,0:00:46.489688,0:00:09.711188
@@ -142,3 +148,8 @@ L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,08 Tossed Away.opus,Stem 1,/media/coffeemetalcode/3a94eb9b-66c8-4249-baf3-f492a8c602c5/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/08 Tossed Away.opus
+SectionEnd,SeparateStemFiles

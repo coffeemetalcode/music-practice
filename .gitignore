@@ -6,3 +6,6 @@
 *.ogg
 *.opus
 *.m4a
+
+# LibreOffice lock files
+.~lock*

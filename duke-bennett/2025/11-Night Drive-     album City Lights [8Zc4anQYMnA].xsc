@@ -1,0 +1,184 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,9,41,7,S,2
+
+SectionStart,Main
+SaveDate,2025-05-12 22:56
+WindowSize,10|40|1067|1366,1
+ViewList,1,0,0.00000000
+SoundFileName,11-Night Drive-     album City Lights [8Zc4anQYMnA].mp3,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/11-Night Drive-     album City Lights [8Zc4anQYMnA].mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,5651037,48000,18102528,377.13600000
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,1
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,1,0,100,0
+FX_Tuning,0,0,0,-1,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,100000,0
+FX_Misc,1,0,85,0,80,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,0
+TVVVideoSizeLinear,500
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowAsMono,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
+LoopMode,1
+LoopDelayMode,1
+ScrollMode,1
+PianoBtmNote,38
+PianoTopNote,93
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.250000
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.700000
+VertProfileZoom,1.000000
+HorizProfileZoom,0.500000
+HorizProfilePos,0
+SelectionLeft,246657,0:00:05.138686
+SelectionRight,246657,0:00:05.138686
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,44
+S,-1,1,A1,0,0:00:05.138686,
+S,-1,1,B2,0,0:00:18.788321,
+S,-1,1,C3,0,0:00:31.270073,
+S,-1,1,D4,0,0:00:43.459854,
+S,-1,1,E5,0,0:00:54.729927,
+B,-1,1,,0,0:00:55.445229,
+B,-1,1,,0,0:00:56.149250,
+B,-1,1,,0,0:00:56.814250,
+B,-1,1,,0,0:00:57.470250,
+B,-1,1,,0,0:00:58.158708,
+B,-1,1,,0,0:00:58.797229,
+B,-1,1,,0,0:00:59.477250,
+B,-1,1,,0,0:01:00.182250,
+B,-1,1,,0,0:01:00.902250,
+B,-1,1,,0,0:01:01.565271,
+S,-1,1,F6,0,0:01:05.503650,
+S,-1,1,G7,0,0:01:16.277372,
+S,-1,1,H8,0,0:01:27.065693,
+S,-1,1,I9,0,0:01:37.854015,
+S,-1,1,J10,0,0:01:48.671533,
+S,-1,1,K11,0,0:01:59.459854,
+S,-1,1,L12,0,0:02:10.248175,
+S,-1,1,M13,0,0:02:21.080292,
+S,-1,1,N14,0,0:02:31.839416,
+S,-1,1,O15,0,0:02:42.613139,
+S,-1,1,P16,0,0:02:53.401460,
+S,-1,1,Q17,0,0:03:04.145985,
+S,-1,1,R18,0,0:03:14.963504,
+S,-1,1,S19,0,0:03:25.722628,
+S,-1,1,T20,0,0:03:36.510949,
+S,-1,1,U21,0,0:03:47.284672,
+S,-1,1,V22,0,0:03:58.043796,
+S,-1,1,W23,0,0:04:08.934307,
+S,-1,1,X24,0,0:04:19.708029,
+S,-1,1,Y25,0,0:04:30.496350,
+S,-1,1,Z26,0,0:04:41.255474,
+S,-1,1,A27,0,0:04:52.087591,
+S,-1,1,B28,0,0:05:02.905109,
+S,-1,1,C29,0,0:05:13.605839,
+S,-1,1,D30,0,0:05:24.364964,
+S,-1,1,E31,0,0:05:35.153285,
+S,-1,1,F32,0,0:05:45.941606,
+S,-1,1,G33,0,0:05:56.744526,
+S,-1,1,H34,0,0:06:07.445255,
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,34
+T,-1,5,333,Grey,0:00:05.138686,A\n\n(Keys)\n\n| Cm9 /   /   /   | Dm7 /   /   /   |\n| G7  /   /   /   | /   /   /   /   |,1
+T,-1,5,81,Grey,0:00:18.788321,A (Cont.)\n\n,1
+T,-1,5,81,Grey,0:00:31.270073,A (Cont.)\n\n,1
+T,-1,5,81,Grey,0:00:43.459854,A (Cont.)\n\n,1
+T,-1,5,171,Black,0:00:54.729927,B (Hold)\n\nq = 88\n\n| G7 .)          ||,1
+T,-1,5,396,Red,0:01:05.503650,C\n\n| Cm9 /   Dm7     G7 | /   /   /   /   :| ×2,1
+T,-1,5,81,Red,0:01:16.277372,C (Cont.)\n\n,1
+T,-1,5,72,Red,0:01:27.065693,D (Horn)\n\n,1
+T,-1,5,81,Red,0:01:37.854015,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:01:48.671533,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:01:59.459854,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:02:10.248175,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:02:21.080292,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:02:31.839416,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:02:42.613139,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:02:53.401460,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:03:04.145985,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:03:14.963504,D (Cont.)\n\n,1
+T,-1,5,81,Red,0:03:25.722628,D (Cont.)\n\n,1
+T,-1,5,387,DarkRed,0:03:36.510949,E\n\n| Cm9 /   /   /   | Dm7 /   /   / Cm9 :| ×2,1
+T,-1,5,81,DarkRed,0:03:47.284672,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:03:58.043796,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:04:08.934307,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:04:19.708029,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:04:30.496350,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:04:41.255474,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:04:52.087591,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:05:02.905109,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:05:13.605839,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:05:24.364964,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:05:35.153285,E (Cont.)\n\n,1
+T,-1,5,81,DarkRed,0:05:45.941606,E (Cont.)\n\n,1
+T,-1,5,126,DarkRed,0:05:56.744526,E (Cont.)\n\nDrums drop out,1
+T,-1,5,81,DarkRed,0:06:07.445255,E (Cont.)\n\n,1
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,11-Night Drive-     album City Lights [8Zc4anQYMnA].mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/11-Night Drive-     album City Lights [8Zc4anQYMnA].mp3
+SectionEnd,SeparateStemFiles

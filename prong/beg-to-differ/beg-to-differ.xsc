@@ -2,7 +2,7 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,41,7,S,2
 
 SectionStart,Main
-SaveDate,2025-04-18 22:24
+SaveDate,2025-05-01 18:51
 WindowSize,0|30|2560|1386,1
 ViewList,1,0,0.00000000
 SoundFileName,beg-to-differ.mp3,Nix,/home/coffeemetalcode/Music/music-practice/prong/beg-to-differ/beg-to-differ.mp3
@@ -22,7 +22,7 @@ FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,0,0,80000,0
+FX_Speed,1,0,90000,0
 FX_Misc,1,0,50,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -57,12 +57,12 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.250000
+TextZoneSplitterPos,0.249806
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700000
+ViewSplitterPos,0.699783
 VertProfileZoom,1.000000
 HorizProfileZoom,1.000000
-HorizProfilePos,662
+HorizProfilePos,24694
 SelectionLeft,189197,0:00:03.941606
 SelectionRight,189197,0:00:03.941606
 SectionEnd,View0

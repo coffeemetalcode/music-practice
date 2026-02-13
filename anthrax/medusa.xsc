@@ -1,13 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,41,7,S,2
+Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2025-04-09 20:06
-WindowSize,57|137|1440|789,1
-ViewList,1,0,0.00000000
+SaveDate,2025-12-05 13:53
+WindowSize,0|30|1920|1026,1
+ViewList,1,0,0
 SoundFileName,medusa.m4a,Nix,/home/coffeemetalcode/Music/music-practice/anthrax/medusa.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,4595759,44100,12528640,284.09614512
 SubtitleFontSize,15
+SubtitleTopAlign,0
+SubtitleDeltaX,0
+SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
@@ -19,11 +22,11 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80
-FX_Speed,1,0,100000,0
-FX_Misc,1,0,75,0,80,0
+FX_Speed,0,0,80000,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -50,34 +53,74 @@ FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 TimelineOffset,0:00:00.000000
-LoopMode,1
+LoopMode,0
 LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,12
 PianoTopNote,63
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.371322
+TextZoneSplitterPos,0.471711
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.851952
+ViewSplitterPos,0.720333
 VertProfileZoom,1.000000
-HorizProfileZoom,0.149684
-HorizProfilePos,1074
+HorizProfileZoom,0.160909
+HorizProfilePos,4347
 SelectionLeft,0,0:00:00.000000
 SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,23
+S,-1,1,A,0,0:00:00.000000,
+S,-1,1,B,0,0:00:26.328494,
+S,-1,1,C,0,0:00:51.804323,
+S,-1,1,D,0,0:01:04.188369,
+S,-1,1,E,0,0:01:29.909079,
+S,-1,1,F,0,0:01:42.247762,
+S,-1,1,G,0,0:01:53.134836,
+S,-1,1,H,0,0:02:05.972509,
+S,-1,1,I,0,0:02:31.557131,
+S,-1,1,J,0,0:02:43.941177,
+S,-1,1,K,0,0:02:54.873613,
+S,-1,1,L,0,0:03:07.665924,
+S,-1,1,M,0,0:03:20.548961,
+B,-1,1,,0,0:03:21.022698,
+B,-1,1,,0,0:03:21.431429,
+B,-1,1,,0,0:03:21.806644,
+B,-1,1,,0,0:03:22.215896,
+B,-1,1,,0,0:03:22.585193,
+B,-1,1,,0,0:03:22.976803,
+B,-1,1,,0,0:03:23.313197,
+S,-1,1,N,0,0:03:45.543866,
+S,-1,1,O,0,0:04:10.947037,
+S,-1,1,P,0,0:04:23.467171,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,16
+T,-1,5,100,Grey,0:00:00.000000,Intro\n\nq = 152,0
+T,-1,5,100,Grey,0:00:26.328494,Verse,0
+T,-1,5,100,Black,0:00:51.804323,,0
+T,-1,5,100,Grey,0:01:04.188369,Verse,0
+T,-1,5,100,Black,0:01:29.909079,,0
+T,-1,5,100,Red,0:01:42.247762,Pre-Chorus,0
+T,-1,5,100,DarkRed,0:01:53.134836,Chorus,0
+T,-1,5,100,Grey,0:02:05.972509,Verse,0
+T,-1,5,100,Black,0:02:31.557131,,0
+T,-1,5,100,Red,0:02:43.941177,Pre-Chorus,0
+T,-1,5,100,DarkRed,0:02:54.873613,Chorus,0
+T,-1,5,100,DarkRed,0:03:08.194195,Guitar Solo,0
+T,-1,5,100,Black,0:03:20.548961,,0
+T,-1,5,100,Grey,0:03:45.543866,Verse,0
+T,-1,5,100,Black,0:04:10.947037,,0
+T,-1,5,125,Red,0:04:23.467171,Outro-Chorus,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
+MostRecent,-1
 L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000

@@ -1,14 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,21,7,S,0
+Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2023-06-08 21:50
-WindowSize,37|60|1440|789,0
-ViewList,1,0,0.00000000
-SoundFileName,number-of-the-beast.mp3,Nix,/home/david/Music/music-practice/iron-maiden/number-of-the-beast.mp3
+SaveDate,2025-12-18 16:54
+WindowSize,37|60|1440|789,1
+ViewList,1,0,0
+SoundFileName,number-of-the-beast.mp3,Nix,/home/coffeemetalcode/Music/music-practice/iron-maiden/number-of-the-beast.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Bitrate 192K),2,6977338,44100,12820608,290.71673469
-SubtitleFileName,,Nix,/home/david/
 SubtitleFontSize,15
+SubtitleTopAlign,0
+SubtitleDeltaX,0
+SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
 Loops,2356292:538213,0:0,4004409:430055,0:0,4856795:208589,0:0,0:0,0:0,0:0,0:0
@@ -20,11 +22,11 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,-18:-17:-15:-13.5:-12.5:-12.5:-11.5:-12:-11.5:-9.5:-9.5:-8:-6.5:-6:-5:-2:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,90000,0
-FX_Misc,1,0,75,0
+FX_Speed,0,0,85000,0
+FX_Misc,1,0,75,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -43,57 +45,60 @@ NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
 ShowGuessChords,0
+ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
 ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
 LoopMode,0
+LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.366678
+TextZoneSplitterPos,0.369762
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.771962
+ViewSplitterPos,0.775510
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
-HorizProfilePos,3543
-SelectionLeft,1035223,0:00:23.474453
-SelectionRight,1035223,0:00:23.474453
+HorizProfilePos,3063
+SelectionLeft,1030073,0:00:23.357664
+SelectionRight,12757454,0:04:49.284672
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,27
-S,-1,1,A,0,0:00:13.021905
-S,-1,1,B,0,0:00:19.211701
-S,-1,1,C,0,0:00:24.934308
-S,-1,1,D,0,0:00:26.043787
-S,-1,1,E,0,0:00:53.430658
-S,-1,1,F,0,0:01:05.693424
-S,-1,1,G,0,0:01:14.744512
-S,-1,1,H,0,0:01:16.788345
-S,-1,1,I,0,0:01:30.744535
-S,-1,1,J,0,0:01:40.496349
-S,-1,1,K,0,0:01:50.131406
-S,-1,1,L,0,0:01:54.919705
-S,-1,1,M,0,0:02:00.875918
-S,-1,1,N,0,0:02:20.087596
-S,-1,1,O,0,0:02:28.204399
-S,-1,1,P,0,0:02:47.240862
-S,-1,1,Q,0,0:02:56.583946
-S,-1,1,R,0,0:03:06.102177
-S,-1,1,S,0,0:03:15.386871
-S,-1,1,T,0,0:03:24.496372
-S,-1,1,U,0,0:03:33.547460
-S,-1,1,V,0,0:03:42.656939
-S,-1,1,W,0,0:03:52.175193
-S,-1,1,X,0,0:04:01.751837
-S,-1,1,Y,0,0:04:13.489070
-S,-1,1,Z,0,0:04:25.401474
-S,-1,1,A,0,0:04:36.321179
+S,-1,1,A,0,0:00:13.021905,
+S,-1,1,B,0,0:00:19.211701,
+S,-1,1,C,0,0:00:24.934308,
+S,-1,1,D,0,0:00:26.043787,
+S,-1,1,E,0,0:00:53.430658,
+S,-1,1,F,0,0:01:05.693424,
+S,-1,1,G,0,0:01:14.744512,
+S,-1,1,H,0,0:01:16.788345,
+S,-1,1,I,0,0:01:30.744535,
+S,-1,1,J,0,0:01:40.496349,
+S,-1,1,K,0,0:01:50.131406,
+S,-1,1,L,0,0:01:54.919705,
+S,-1,1,M,0,0:02:00.875918,
+S,-1,1,N,0,0:02:20.087596,
+S,-1,1,O,0,0:02:28.204399,
+S,-1,1,P,0,0:02:47.240862,
+S,-1,1,Q,0,0:02:56.583946,
+S,-1,1,R,0,0:03:06.102177,
+S,-1,1,S,0,0:03:15.386871,
+S,-1,1,T,0,0:03:24.496372,
+S,-1,1,U,0,0:03:33.547460,
+S,-1,1,V,0,0:03:42.656939,
+S,-1,1,W,0,0:03:52.175193,
+S,-1,1,X,0,0:04:01.751837,
+S,-1,1,Y,0,0:04:13.489070,
+S,-1,1,Z,0,0:04:25.401474,
+S,-1,1,A,0,0:04:36.321179,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
@@ -119,6 +124,7 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
+MostRecent,-1
 L,1,1,2356292,538213,,White,,0:00:53.430658,0:00:12.204376
 L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,3,1,4004409,430055,,White,,0:01:30.802925,0:00:09.751818
@@ -140,3 +146,8 @@ L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,number-of-the-beast.mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/iron-maiden/number-of-the-beast.mp3
+SectionEnd,SeparateStemFiles

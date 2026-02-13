@@ -1,17 +1,19 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,21,7,S,0
+Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2024-11-20 19:31
-WindowSize,19|43|1557|832,1
-ViewList,1,0,0.00000000
-SoundFileName,03 Out of Body (Out of Mind).ogg,Nix,/home/david/Music/music-practice/forbidden/twisted-into-form/03 Out of Body (Out of Mind).ogg
+SaveDate,2026-01-08 05:30
+WindowSize,0|30|2560|1386,1
+ViewList,1,0,0
+SoundFileName,03 Out of Body (Out of Mind).ogg,Nix,/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/03 Out of Body (Out of Mind).ogg
 SoundFileInfo,Ogg Vorbis,126K bps.,2,4283480,44100,11893946,269.70399093
-SubtitleFileName,,Nix,/home/david/
 SubtitleFontSize,15
+SubtitleTopAlign,0
+SubtitleDeltaX,0
+SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
-Loops,18027:994020,18027:888438,1012047:857535,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,18027:994020,1012047:857535,1980315:216315,2300282:205371,4511076:328980,4841343:324473,5490289:323185,5814118:323185,6960074:338637,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -19,12 +21,12 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Mix,0,0,0,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,0,0,0,0
-FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,80000,0
-FX_Misc,1,0,75,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -43,52 +45,122 @@ NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
 ShowGuessChords,0
+ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
 ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
-LoopMode,0
+TimelineOffset,0:00:00.000000
+LoopMode,1
+LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,36
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.383856
+TextZoneSplitterPos,0.403915
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.792146
+ViewSplitterPos,0.817095
 VertProfileZoom,1.000000
-HorizProfileZoom,0.125000
-HorizProfilePos,2063
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfileZoom,0.500000
+HorizProfilePos,16559
+SelectionLeft,11252260,0:04:15.153285
+SelectionRight,11252260,0:04:15.153285
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,4
-S,-1,1,A,0,0:00:00.408776
-S,-1,1,B,0,0:00:20.554762
-S,-1,1,C,0,0:00:22.948912
-S,-1,1,D,0,0:00:42.452555
+Howmany,39
+S,-1,1,A,0,0:00:00.408776,
+S,-1,1,B,0,0:00:20.554762,
+S,-1,1,C,0,0:00:22.948912,
+S,-1,1,D,0,0:00:32.642336,
+S,-1,1,E,0,0:00:42.452555,
+S,-1,1,F,0,0:00:44.846715,
+S,-1,1,G,0,0:00:52.145985,
+S,-1,1,H,0,0:01:01.430657,
+S,-1,1,I,0,0:01:11.138686,
+S,-1,1,J,0,0:01:20.905109,
+S,-1,1,K,0,0:01:23.313869,
+S,-1,1,L,0,0:01:30.700730,
+S,-1,1,M,0,0:01:35.328467,
+S,-1,1,N,0,0:01:39.883212,
+S,-1,1,O,0,0:01:42.248175,
+S,-1,1,P,0,0:01:49.781022,
+S,-1,1,Q,0,0:01:57.124088,
+S,-1,1,R,0,0:02:04.496350,
+S,-1,1,S,0,0:02:11.839416,
+S,-1,1,T,0,0:02:19.153285,
+S,-1,1,U,0,0:02:26.583942,
+S,-1,1,V,0,0:02:33.985401,
+S,-1,1,W,0,0:02:37.824818,
+S,-1,1,X,0,0:02:41.664234,
+S,-1,1,Y,0,0:02:45.503650,
+S,-1,1,Z,0,0:02:49.343066,
+S,-1,1,A,0,0:02:54.642336,
+S,-1,1,B,0,0:02:58.919708,
+S,-1,1,C,0,0:03:08.554745,
+S,-1,1,D,0,0:03:18.102190,
+S,-1,1,E,0,0:03:20.583942,
+S,-1,1,F,0,0:03:27.883212,
+S,-1,1,G,0,0:03:32.481752,
+S,-1,1,H,0,0:03:36.116788,
+S,-1,1,I,0,0:03:44.525547,
+S,-1,1,J,0,0:03:52.072993,
+S,-1,1,K,0,0:03:59.649635,
+S,-1,1,L,0,0:04:07.343066,
+S,-1,1,M,0,0:04:15.153285,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,31
+T,-1,5,100,Grey,0:00:00.408776,Intro\n\n,0
+T,-1,5,100,Black,0:00:22.948912,Verse\n\n,0
+T,-1,5,100,Black,0:00:32.642336,,0
+T,-1,5,100,Red,0:00:44.846715,Pre-Chorus\n\n,0
+T,-1,5,100,DarkRed,0:00:52.145985,Chorus\n\n,0
+T,-1,5,100,Black,0:01:01.430657,Verse\n\n,0
+T,-1,5,100,Black,0:01:11.138686,,0
+T,-1,5,100,Red,0:01:23.313869,Pre-Chorus\n\n,0
+T,-1,5,100,DarkRed,0:01:30.700730,Chorus\n\n,0
+T,-1,5,100,DarkRed,0:01:35.328467,,0
+T,-1,5,100,Green,0:01:42.248175,Interlude\n\n(Bass plays D-natural in M4),0
+T,-1,5,100,DarkGreen,0:01:49.781022,,0
+T,-1,5,100,DarkGreen,0:01:57.124088,,0
+T,-1,5,100,Blue,0:02:04.496350,,0
+T,-1,5,100,Blue,0:02:11.839416,,0
+T,-1,5,100,DarkBlue,0:02:19.153285,Bridge\n\n,0
+T,-1,5,100,DarkBlue,0:02:26.583942,,0
+T,-1,5,100,Teal,0:02:33.985401,Interlude\n\n,0
+T,-1,5,100,Teal,0:02:41.664234,,0
+T,-1,5,100,Grey,0:02:49.343066,,0
+T,-1,5,100,Black,0:02:58.919708,Verse\n\n,0
+T,-1,5,100,Black,0:03:08.554745,,0
+T,-1,5,100,Red,0:03:20.583942,Pre-Chorus\n\n,0
+T,-1,5,100,DarkRed,0:03:27.883212,Chorus\n\n,0
+T,-1,5,100,DarkRed,0:03:32.481752,,0
+T,-1,5,100,Grey,0:03:36.116788,To Coda,0
+T,-1,5,100,DarkBlue,0:03:44.525547,Outro\n\n,0
+T,-1,5,100,DarkBlue,0:03:52.072993,,0
+T,-1,5,100,Olive,0:03:59.649635,,0
+T,-1,5,100,Olive,0:04:07.343066,,0
+T,-1,5,100,Olive,0:04:15.153285,,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,1,18027,994020,,White,,0:00:00.408776,0:00:22.540129
-L,2,1,18027,888438,,White,,0:00:00.408776,0:00:20.145986
-L,3,1,1012047,857535,,White,,0:00:22.948912,0:00:19.445249
-L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+MostRecent,7
+L,1,1,18027,994020,Intro,White,,0:00:00.408776,0:00:22.540129
+L,2,1,1012047,857535,Verse,White,,0:00:22.948912,0:00:19.445249
+L,3,1,1980315,216315,Pre-Chorus,White,,0:00:44.905109,0:00:04.905109
+L,4,1,2300282,205371,Chorus,White,,0:00:52.160584,0:00:04.656934
+L,5,1,4511076,328980,Interlude I (A),White,,0:01:42.291971,0:00:07.459854
+L,6,1,4841343,324473,Interlude I (B),White,,0:01:49.781022,0:00:07.357664
+L,7,1,5490289,323185,Interlude I (C),White,,0:02:04.496350,0:00:07.328468
+L,8,1,5814118,323185,Interlude I (D),White,,0:02:11.839416,0:00:07.328468
+L,9,1,6960074,338637,Interlude II,White,,0:02:37.824818,0:00:07.678833
 L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
@@ -101,3 +173,8 @@ L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,03 Out of Body (Out of Mind).ogg,Stem 1,/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/03 Out of Body (Out of Mind).ogg
+SectionEnd,SeparateStemFiles

@@ -1,13 +1,12 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,21,7,S,0
+Transcribe!,GTK,9,41,7,S,2
 
 SectionStart,Main
-SaveDate,2023-10-14 13:09
+SaveDate,2025-06-03 21:22
 WindowSize,100|100|2560|1408,1
 ViewList,1,0,0.00000000
-SoundFileName,10 - SADAO WATANABE ==  MASAI TALK (1991).m4a,Nix,/home/david/Music/music-practice/duke-bennett/10 - SADAO WATANABE ==  MASAI TALK (1991).m4a
-SoundFileInfo,GStreamer soundfile,'.m4a',2,4949868,44100,13495296,306.01578231
-SubtitleFileName,,Nix,/home/david/
+SoundFileName,09-Santa Cruzin - Grover Washington\C Jr. [bdq2J8TnBy0].mp3,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/09-Santa Cruzin - Grover Washington\C Jr. [bdq2J8TnBy0].mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,6825237,48000,19510272,406.46400000
 SubtitleFontSize,15
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
@@ -20,11 +19,11 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,0,35,0,60,50,0
+FX_Tuning,1,0,0,0,-40,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,0,0,80000,0
-FX_Misc,1,0,85,0
+FX_Misc,1,0,80,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -43,47 +42,50 @@ NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
 ShowGuessChords,0
+ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
 ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
 LoopMode,1
+LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,12
 PianoTopNote,66
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.374167
+TextZoneSplitterPos,0.377889
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.856570
+ViewSplitterPos,0.862690
 VertProfileZoom,1.000000
 HorizProfileZoom,0.149684
-HorizProfilePos,457
-SelectionLeft,1544070,0:00:35.012933
-SelectionRight,1544070,0:00:35.012933
+HorizProfilePos,2723
+SelectionLeft,9236392,0:03:12.424840
+SelectionRight,9236392,0:03:12.424840
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,17
-S,-1,1,A,0,0:00:00.000000
-S,-1,1,B,0,0:00:14.190479
-S,-1,1,C,0,0:00:35.012933
-S,-1,1,D,0,0:00:55.835388
-S,-1,1,E,0,0:01:16.804136
-S,-1,1,F,0,0:01:23.679935
-S,-1,1,G,0,0:01:44.551155
-S,-1,1,H,0,0:01:51.524483
-S,-1,1,I,0,0:02:12.444466
-S,-1,1,J,0,0:02:33.266921
-S,-1,1,K,0,0:02:54.138141
-S,-1,1,L,0,0:03:15.009360
-S,-1,1,M,0,0:03:21.982688
-S,-1,1,N,0,0:03:28.907251
-S,-1,1,O,0,0:03:49.827235
-S,-1,1,P,0,0:04:17.623018
-S,-1,1,Q,0,0:04:42.005283
+S,-1,1,A,0,0:00:00.000000,
+S,-1,1,B,0,0:00:14.190479,
+S,-1,1,C,0,0:00:35.012933,
+S,-1,1,D,0,0:00:55.835388,
+S,-1,1,E,0,0:01:16.804136,
+S,-1,1,F,0,0:01:23.679935,
+S,-1,1,G,0,0:01:44.551155,
+S,-1,1,H,0,0:01:51.524483,
+S,-1,1,I,0,0:02:12.444466,
+S,-1,1,J,0,0:02:33.266921,
+S,-1,1,K,0,0:02:54.138141,
+S,-1,1,L,0,0:03:15.009360,
+S,-1,1,M,0,0:03:21.982688,
+S,-1,1,N,0,0:03:28.907251,
+S,-1,1,O,0,0:03:49.827235,
+S,-1,1,P,0,0:04:17.623018,
+S,-1,1,Q,0,0:04:42.005283,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
@@ -130,3 +132,8 @@ L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,09-Santa Cruzin - Grover Washington\C Jr. [bdq2J8TnBy0].mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/09-Santa Cruzin - Grover Washington\C Jr. [bdq2J8TnBy0].mp3
+SectionEnd,SeparateStemFiles

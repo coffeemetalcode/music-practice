@@ -1,0 +1,157 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,9,41,7,S,2
+
+SectionStart,Main
+SaveDate,2025-06-03 22:33
+WindowSize,10|40|873|1390,1
+ViewList,1,0,0.00000000
+SoundFileName,15-Sugar - David Sanborn [qwp21bEpR6A].mp3,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/15-Sugar - David Sanborn [qwp21bEpR6A].mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,5440893,48000,16253568,338.61600000
+SubtitleFontSize,15
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
+Loops,867504:1983066,4434219:793226,867504:1586453,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,1
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,0
+FX_Tuning,0,0,0,-1,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,0,0,90000,0
+FX_Misc,1,0,85,0,80,0
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,0
+TVVVideoSizeLinear,500
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,0
+ShowGuessNotes,0
+ShowGuessChords,0
+ShowAsMono,0
+ShowDB,0
+ShowTimeLine,0
+ShowLoopLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
+LoopMode,1
+LoopDelayMode,1
+ScrollMode,1
+PianoBtmNote,38
+PianoTopNote,89
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.205200
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.867741
+VertProfileZoom,1.000000
+HorizProfileZoom,0.250000
+HorizProfilePos,9042
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,30
+S,-1,1,A1,0,0:00:00.291971,
+S,-1,1,B2,0,0:00:01.576642,
+B,-1,1,,0,0:00:02.732521,
+B,-1,1,,0,0:00:03.756896,
+B,-1,1,,0,0:00:04.716958,
+B,-1,1,,0,0:00:05.700271,
+B,-1,1,,0,0:00:06.772146,
+B,-1,1,,0,0:00:07.837708,
+B,-1,1,,0,0:00:08.844396,
+S,-1,1,C3,0,0:00:18.072993,
+B,-1,1,,0,0:00:18.209854,
+S,-1,1,D4,0,0:00:34.627737,
+S,-1,1,E5,0,0:00:51.124088,
+S,-1,1,F6,0,0:00:59.532847,
+S,-1,1,G7,0,0:01:15.941606,
+S,-1,1,H8,0,0:01:32.379562,
+S,-1,1,I9,0,0:01:48.905109,
+S,-1,1,J10,0,0:02:05.459854,
+S,-1,1,K11,0,0:02:22.014599,
+S,-1,1,L12,0,0:02:38.452555,
+S,-1,1,M13,0,0:02:55.007299,
+S,-1,1,N14,0,0:03:11.474453,
+S,-1,1,O15,0,0:03:28.029197,
+S,-1,1,P16,0,0:03:44.525547,
+S,-1,1,Q17,0,0:04:01.080292,
+S,-1,1,R18,0,0:04:17.722628,
+S,-1,1,S19,0,0:04:34.189781,
+S,-1,1,T20,0,0:04:50.598540,
+S,-1,1,U21,0,0:05:07.065693,
+S,-1,1,V22,0,0:05:23.562044,
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,21
+T,-1,5,486,Grey,0:00:00.291971,A\n\n| Cm7 /  G9sus4 /   /   | Cm7 /  G9sus4 /   /   :|| x2,1
+T,-1,5,540,Black,0:00:18.072993,B (Head)\n\n| Cm7 /  G9sus4 /        /          | Cm7 / G9sus4 /   /   |\n| Cm7 /  G9sus4 / Ab9sus4/Bb G9sus4 | /   /      G7b9  /   |,1
+T,-1,5,468,Black,0:00:34.627737,(Cont.)\n\n| Cm7 /   Fm7/Gb /    /     | F7sus4 / Ebmaj13 /   |\n| Dm7b5 / Dbmaj7 / Gbmaj7b5 |   /    /     /   /   |,1
+T,-1,5,270,Black,0:00:51.124088,(Cont.)\n\n| Cm7 /  G9sus4 /   /   | % ||,1
+T,-1,5,72,Black,0:00:59.532847,B (Head)\n\n|   |,1
+T,-1,5,63,Black,0:01:15.941606,(Cont.)\n\n,1
+T,-1,5,486,Red,0:01:32.379562,C\n\n|(riff) /   /  G9sus4 /   |(riff) /   /  G9sus4 /   ||,1
+T,-1,5,117,Black,0:01:48.905109,B (Horn Solo)\n\n,1
+T,-1,5,63,Black,0:02:05.459854,(Cont.)\n\n,1
+T,-1,5,81,Black,0:02:22.014599,B (Cont.)\n\n,1
+T,-1,5,63,Black,0:02:38.452555,(Cont.)\n\n,1
+T,-1,5,9,Red,0:02:55.007299,C\n\n,1
+T,-1,5,135,Black,0:03:11.474453,B (Guitar Solo)\n\n,1
+T,-1,5,63,Black,0:03:28.029197,(Cont.)\n\n,1
+T,-1,5,81,Black,0:03:44.525547,B (Cont.)\n\n,1
+T,-1,5,63,Black,0:04:01.080292,(Cont.)\n\n,1
+T,-1,5,72,Black,0:04:17.722628,B (Head)\n\n,1
+T,-1,5,63,Black,0:04:34.189781,(Cont.)\n\n,1
+T,-1,5,9,Grey,0:04:50.598540,A\n\n,1
+T,-1,5,63,Grey,0:05:07.065693,(Cont.)\n\n,1
+T,-1,5,63,Grey,0:05:23.562044,(Cont.)\n\n,1
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,1,867504,1983066,Head,White,,0:00:18.072993,0:00:41.313868
+L,2,1,4434219,793226,Bridge,White,,0:01:32.379562,0:00:16.525547
+L,3,1,867504,1586453,Solos,White,,0:00:18.072993,0:00:33.051095
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,15-Sugar - David Sanborn [qwp21bEpR6A].mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/duke-bennett/2025/15-Sugar - David Sanborn [qwp21bEpR6A].mp3
+SectionEnd,SeparateStemFiles
