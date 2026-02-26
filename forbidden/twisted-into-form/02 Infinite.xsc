@@ -2,7 +2,7 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2025-12-18 16:44
+SaveDate,2026-02-23 19:47
 WindowSize,0|30|2560|1386,1
 ViewList,1,0,0
 SoundFileName,02 Infinite.opus,Nix,/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/02 Infinite.opus
@@ -60,9 +60,9 @@ PianoBtmNote,37
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.488238
+TextZoneSplitterPos,0.488401
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.787130
+ViewSplitterPos,0.787281
 VertProfileZoom,1.000000
 HorizProfileZoom,0.149656
 HorizProfilePos,0

@@ -1,9 +1,18 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,62,7,S,0
+Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SoundFileName,09 - Rust in Peace...Polaris.wav,Nix,/home/david/Dropbox/Megadeth/rust_in_peace/wav/09 - Rust in Peace...Polaris.wav
-SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,64692494,48000,16173104,336.939667
+SaveDate,2026-02-23 20:14
+WindowSize,0|0|0|0,1
+ViewList,1,0,0
+SoundFileName,09 - Rust in Peace...Polaris.wav,Nix,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/09 - Rust in Peace...Polaris.wav
+SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,64692494,48000,16173104,336.93966667
+SubtitleFontSize,15
+SubtitleTopAlign,0
+SubtitleDeltaX,0
+SubtitleDeltaY,0
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -13,17 +22,20 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,0,0,0,0,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,95000,0
-FX_Misc,1,0,53
+FX_Misc,1,0,53,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,0
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -33,38 +45,41 @@ NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
 ShowGuessChords,0
+ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
+ShowLoopLine,0
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
 LoopMode,1
+LoopDelayMode,1
 ScrollMode,1
-PlayZone,4
 PianoBtmNote,39
 PianoTopNote,90
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.499524
+TextZoneSplitterPos,0.499657
 PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.999900
 VertProfileZoom,1.000000
 HorizProfileZoom,0.078563
 HorizProfilePos,0
-SelectionLeft,0
-SelectionRight,0
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,8
-S,23843,1,A,0,0:00:00.497
-S,607994,1,B,0,0:00:12.667
-S,1806101,1,C,0,0:00:37.627
-S,2089235,1,D,0,0:00:43.526
-S,2637626,1,E,0,0:00:54.951
-S,4820657,1,F,0,0:01:40.430
-S,11407098,1,G,0,0:03:57.648
-S,12663567,1,H,0,0:04:23.824
+S,-1,1,A,0,0:00:00.496729,
+S,-1,1,B,0,0:00:12.666542,
+S,-1,1,C,0,0:00:37.627104,
+S,-1,1,D,0,0:00:43.525729,
+S,-1,1,E,0,0:00:54.950542,
+S,-1,1,F,0,0:01:40.430354,
+S,-1,1,G,0,0:03:57.647875,
+S,-1,1,H,0,0:04:23.824313,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
@@ -74,24 +89,30 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+MostRecent,-1
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,09 - Rust in Peace...Polaris.wav,Stem 1,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/09 - Rust in Peace...Polaris.wav
+SectionEnd,SeparateStemFiles

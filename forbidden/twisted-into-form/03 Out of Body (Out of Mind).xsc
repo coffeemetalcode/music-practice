@@ -2,7 +2,7 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2026-01-08 05:30
+SaveDate,2026-02-23 20:14
 WindowSize,0|30|2560|1386,1
 ViewList,1,0,0
 SoundFileName,03 Out of Body (Out of Mind).ogg,Nix,/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/03 Out of Body (Out of Mind).ogg
@@ -25,7 +25,7 @@ FX_Mix,0,0,0,0
 FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,0,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,80000,0
+FX_Speed,1,0,70000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -65,9 +65,9 @@ PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.817095
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,16559
-SelectionLeft,11252260,0:04:15.153285
-SelectionRight,11252260,0:04:15.153285
+HorizProfilePos,7828
+SelectionLeft,4355921,0:01:38.773723
+SelectionRight,4355921,0:01:38.773723
 SectionEnd,View0
 
 SectionStart,Markers

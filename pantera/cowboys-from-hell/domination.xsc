@@ -2,7 +2,7 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2026-02-13 12:51
+SaveDate,2026-02-23 18:59
 WindowSize,0|30|1920|1026,1
 ViewList,1,0,0
 SoundFileName,domination.mp3,Nix,/home/coffeemetalcode/Music/music-practice/pantera/cowboys-from-hell/domination.mp3
@@ -25,7 +25,7 @@ FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,90000,0
+FX_Speed,1,0,95000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -60,14 +60,14 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.258565
+TextZoneSplitterPos,0.257578
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.709725
+ViewSplitterPos,0.708590
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,14978
-SelectionLeft,11117080,0:03:51.605839
-SelectionRight,11388964,0:03:57.270073
+HorizProfilePos,19001
+SelectionLeft,55708,0:00:01.160584
+SelectionRight,55708,0:00:01.160584
 SectionEnd,View0
 
 SectionStart,Markers
@@ -208,7 +208,7 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-MostRecent,5
+MostRecent,1
 L,1,1,180088,334248,Intro (A),White,,0:00:03.751825,0:00:06.963504
 L,2,1,513635,331445,Intro (B),White,,0:00:10.700730,0:00:06.905109
 L,3,1,845781,312526,Intro (C),White,,0:00:17.620438,0:00:06.510949

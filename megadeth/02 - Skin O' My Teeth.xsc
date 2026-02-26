@@ -1,10 +1,18 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,8,73,7,S,0
+Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2020-01-16 18:33
-SoundFileName,02 - Skin O' My Teeth.mp3,Nix,/home/david/Dropbox/david_self_study/guitar/shred/emergency-megadeth/02 - Skin O' My Teeth.mp3
-SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,3358389,48000,9402624,195.888000
+SaveDate,2026-02-23 19:56
+WindowSize,0|0|0|0,1
+ViewList,1,0,0
+SoundFileName,02 - Skin O' My Teeth.mp3,Nix,/home/coffeemetalcode/Music/music-practice/megadeth/02 - Skin O' My Teeth.mp3
+SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,3358389,48000,9402624,195.888
+SubtitleFontSize,15
+SubtitleTopAlign,0
+SubtitleDeltaX,0
+SubtitleDeltaY,0
+SubtitleBackgroundRectangle,0
+SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
 MarkerAutoSection,0
@@ -14,17 +22,20 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80
-FX_Speed,1,0,80000,0
-FX_Misc,1,0,53,0
+FX_Speed,0,0,80000,0
+FX_Misc,1,0,53,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
 PianoRollSensitivity,3
 ShowVideo,1
-TVVZoomPercent,100
+SelectSoundTrack,0
+SelectSubtitles,-2
+ShowSubtitles,0
+TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
@@ -34,74 +45,82 @@ NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
 ShowGuessChords,0
+ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
 ShowLoopLine,0
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
 LoopMode,1
+LoopDelayMode,1
 ScrollMode,1
-PlayZone,4
 PianoBtmNote,39
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.341433
+TextZoneSplitterPos,0.341544
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.811943
+ViewSplitterPos,0.812107
 VertProfileZoom,1.000000
 HorizProfileZoom,0.250000
-HorizProfilePos,3794
-SelectionLeft,134542
-SelectionRight,134542
+HorizProfilePos,970
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,11
-S,4584175,1,A,0,0:01:35.504
-S,5050863,1,B,0,0:01:45.226
-S,5517549,1,C,0,0:01:54.949
-S,5747387,1,D,0,0:01:59.737
-S,5984234,1,E,0,0:02:04.672
-S,7032526,1,F,0,0:02:26.511
-S,7499212,1,G,0,0:02:36.234
-S,7965897,1,H,0,0:02:45.956
-S,8435385,1,I,0,0:02:55.737
-B,9299055,1,,0,0:03:13.730
-M,9299055,1,I2,0,0:03:13.730
+S,-1,1,A,0,0:01:35.503646,
+S,-1,1,B,0,0:01:45.226313,
+S,-1,1,C,0,0:01:54.948938,
+S,-1,1,D,0,0:01:59.737229,
+S,-1,1,E,0,0:02:04.671542,
+S,-1,1,F,0,0:02:26.510958,
+S,-1,1,G,0,0:02:36.233583,
+S,-1,1,H,0,0:02:45.956188,
+S,-1,1,I,0,0:02:55.737188,
+B,-1,1,,0,0:03:13.730313,
+M,-1,1,I2,0,0:03:13.730313,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,5
-T,4584175,5,100,Grey,0:01:35.504,Solo A\n,0
-T,5517549,5,100,Grey,0:01:54.949,Solo B\n ,0
-T,7032526,5,100,Grey,0:02:26.511,Verse\n,0
-T,7965897,5,100,Grey,0:02:45.956,Chorus\n,0
-T,9299055,5,100,Grey,0:03:13.730,,0
+T,-1,5,100,Grey,0:01:35.503646,Solo A\n,0
+T,-1,5,100,Grey,0:01:54.948938,Solo B\n ,0
+T,-1,5,100,Grey,0:02:26.510958,Verse\n,0
+T,-1,5,100,Grey,0:02:45.956188,Chorus\n,0
+T,-1,5,100,Grey,0:03:13.730313,,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-L,1,0,0,0,,White,
-L,2,0,0,0,,White,
-L,3,0,0,0,,White,
-L,4,0,0,0,,White,
-L,5,0,0,0,,White,
-L,6,0,0,0,,White,
-L,7,0,0,0,,White,
-L,8,0,0,0,,White,
-L,9,0,0,0,,White,
-L,10,0,0,0,,White,
-L,11,0,0,0,,White,
-L,12,0,0,0,,White,
-L,13,0,0,0,,White,
-L,14,0,0,0,,White,
-L,15,0,0,0,,White,
-L,16,0,0,0,,White,
-L,17,0,0,0,,White,
-L,18,0,0,0,,White,
-L,19,0,0,0,,White,
-L,20,0,0,0,,White,
+MostRecent,-1
+L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,9,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,10,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,11,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,12,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,13,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,14,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,15,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,16,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,17,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,02 - Skin O' My Teeth.mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/megadeth/02 - Skin O' My Teeth.mp3
+SectionEnd,SeparateStemFiles
