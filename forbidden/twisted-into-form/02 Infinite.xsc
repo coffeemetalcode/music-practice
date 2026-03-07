@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2026-02-23 19:47
-WindowSize,0|30|2560|1386,1
+SaveDate,2026-03-06 20:54
+WindowSize,0|30|1920|1026,1
 ViewList,1,0,0
 SoundFileName,02 Infinite.opus,Nix,/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/02 Infinite.opus
 SoundFileInfo,GStreamer soundfile,'.opus',2,5612690,48000,17073600,355.7
@@ -21,12 +21,12 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,200,0
-FX_Tuning,1,0,0,-1,0,0,60,50,0,440
+FX_Mix,1,0,180,1
+FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80
 FX_Speed,1,0,85000,0
-FX_Misc,1,0,95,0,80,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -60,14 +60,14 @@ PianoBtmNote,37
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.488401
+TextZoneSplitterPos,0.486719
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.787281
+ViewSplitterPos,0.785727
 VertProfileZoom,1.000000
 HorizProfileZoom,0.149656
-HorizProfilePos,0
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfilePos,5377
+SelectionLeft,16359854,0:05:40.830299
+SelectionRight,16359854,0:05:40.830299
 SectionEnd,View0
 
 SectionStart,Markers

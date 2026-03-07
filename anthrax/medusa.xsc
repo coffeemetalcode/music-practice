@@ -2,7 +2,7 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,42,7,S,0
 
 SectionStart,Main
-SaveDate,2026-02-23 20:13
+SaveDate,2026-03-03 21:28
 WindowSize,0|30|1920|1026,1
 ViewList,1,0,0
 SoundFileName,medusa.m4a,Nix,/home/coffeemetalcode/Music/music-practice/anthrax/medusa.m4a
@@ -25,7 +25,7 @@ FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80:-80
-FX_Speed,0,0,80000,0
+FX_Speed,1,0,85000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -60,12 +60,12 @@ PianoBtmNote,12
 PianoTopNote,63
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.471711
+TextZoneSplitterPos,0.473662
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.720333
+ViewSplitterPos,0.721648
 VertProfileZoom,1.000000
 HorizProfileZoom,0.160909
-HorizProfilePos,0
+HorizProfilePos,3707
 SelectionLeft,0,0:00:00.000000
 SelectionRight,0,0:00:00.000000
 SectionEnd,View0
