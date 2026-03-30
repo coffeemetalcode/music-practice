@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,0
 
 SectionStart,Main
-SaveDate,2026-03-26 06:15
+SaveDate,2026-03-28 07:15
 WindowSize,10|40|652|1030,1
 ViewList,1,0,0
 SoundFileName,can-we-talk.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/can-we-talk.m4a
@@ -13,7 +13,7 @@ SubtitleDeltaX,0
 SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,3636801:1013334,1117629:2519816,8167835:1010759,9177950:1003677,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -26,7 +26,7 @@ FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,100000,0
-FX_Misc,1,0,50,0,80,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -48,7 +51,7 @@ ShowGuessChords,0
 ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -56,36 +59,89 @@ TimelineOffset,0:00:00.000000
 LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
-PianoBtmNote,38
+PianoBtmNote,36
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.250094
+TextZoneSplitterPos,0.478198
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700105
+ViewSplitterPos,0.787185
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,0
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfilePos,14164
+SelectionLeft,9177950,0:03:28.116788
+SelectionRight,10181628,0:03:50.875912
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,26
+S,-1,1,A1,0,0:00:00.000000,
+S,-1,1,B2,0,0:00:13.970803,
+S,-1,1,C3,0,0:00:25.343066,
+S,-1,1,D4,0,0:00:36.788321,
+S,-1,1,E5,0,0:00:48.175182,
+S,-1,1,F6,0,0:00:59.445255,
+S,-1,1,G7,0,0:01:10.934307,
+S,-1,1,H8,0,0:01:22.467153,
+S,-1,1,I9,0,0:01:33.941606,
+S,-1,1,J10,0,0:01:45.430657,
+S,-1,1,K11,0,0:01:56.919708,
+S,-1,1,L12,0,0:02:08.335766,
+S,-1,1,M13,0,0:02:19.620438,
+S,-1,1,N14,0,0:02:31.021898,
+S,-1,1,O15,0,0:02:42.437956,
+S,-1,1,P16,0,0:02:53.912409,
+S,-1,1,Q17,0,0:03:05.211679,
+S,-1,1,R18,0,0:03:16.686131,
+S,-1,1,S19,0,0:03:28.116788,
+S,-1,1,T20,0,0:03:39.605839,
+S,-1,1,U21,0,0:03:50.963504,
+S,-1,1,V22,0,0:04:02.335766,
+S,-1,1,W23,0,0:04:13.576642,
+S,-1,1,X24,0,0:04:24.729927,
+S,-1,1,Y25,0,0:04:36.072993,
+S,-1,1,Z26,0,0:04:47.343066,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,27
+T,-1,5,441,Grey,0:00:00.000000,A\n\n                               Am7    Dm7   Gm7 |\n|                    |         Am7    Dm7   Gm7 |\n|                    |         Am7    Dm7   Gm7 |,1
+T,-1,5,468,Grey,0:00:13.970803,\n\n|                    |         Gm7   Fmaj7  Em7b5  |\n|      A7      Dmaj7 |                            ||,1
+T,-1,5,351,Black,0:00:25.343066,B\n\n| Dm7              | A7               |\n| Dm7              | G13              |,1
+T,-1,5,351,Black,0:00:36.788321,\n\n|  Gm7             |   C7             |\n| Fmaj7            | Em7b5    A7      |,0
+T,-1,5,351,Black,0:00:48.175182,\n\n|  Dm7             | A7/C#            |\n| Dm7/C            | G7/B             |,1
+T,-1,89,414,White,0:00:48.175182,Grab the guitar riff here and on the repeat(s),1
+T,-1,5,351,Black,0:00:59.445255,\n\n| Bbmaj7           | F/A              |\n| Bbmaj7           | F/A     A7       |,1
+T,-1,5,495,Black,0:01:10.934307,\n| Bbmaj7                |   F/A                       |\n|  Gm7                  | C7sus4    Am7    Dm7   Gm7 ||,1
+T,-1,5,459,Grey,0:01:22.467153,A\n\n| Gm7                |         Gm7   Fmaj7  Em7b5 |\n|        A7    Dmaj7 |         Am7    Dm7    Gm7  |,1
+T,-1,5,468,Grey,0:01:33.941606,\n\n| Gm7                |         Gm7   Fmaj7  Em7b5  |\n|      A7      Dmaj7 |                            ||,1
+T,-1,5,100,Black,0:01:45.430657,B\n\n,0
+T,-1,5,100,Black,0:01:56.919708,\n\n,0
+T,-1,5,100,Black,0:02:08.335766,\n\n,0
+T,-1,5,100,Black,0:02:19.620438,\n\n,0
+T,-1,5,100,Black,0:02:31.021898,\n\n,0
+T,-1,5,100,Grey,0:02:42.437956,A\n\n,0
+T,-1,5,100,Grey,0:02:53.912409,\n\n,0
+T,-1,5,387,Red,0:03:05.211679,C\n\n| Bbmaj7              |  F/A              |\n|  Dm7                | A7/C#             |,1
+T,-1,5,423,Red,0:03:16.686131,\n\n|  F/C             |  G7/B                    |\n| Bbmaj7    Gm7    | C7sus4    Am7  Dm7  Gm7 ||,1
+T,-1,5,216,Grey,0:03:28.116788,A (first half\C till end)\n\n,1
+T,-1,5,100,Grey,0:03:39.605839,\n\n,0
+T,-1,5,100,Grey,0:03:50.963504,\n\n,0
+T,-1,5,100,Grey,0:04:02.335766,\n\n,0
+T,-1,5,100,Grey,0:04:13.576642,\n\n,0
+T,-1,5,100,Grey,0:04:24.729927,\n\n,0
+T,-1,5,100,Grey,0:04:36.072993,\n\n,0
+T,-1,5,100,Grey,0:04:47.343066,\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-MostRecent,-1
-L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+MostRecent,3
+L,1,1,3636801,1013334,A,White,,0:01:22.467153,0:00:22.978102
+L,2,1,1117629,2519816,B,White,,0:00:25.343066,0:00:57.138686
+L,3,1,8167835,1010759,C,White,,0:03:05.211679,0:00:22.919708
+L,4,1,9177950,1003677,A (Solos),White,,0:03:28.116788,0:00:22.759124
 L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000

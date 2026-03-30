@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,0
 
 SectionStart,Main
-SaveDate,2026-03-26 06:15
+SaveDate,2026-03-27 07:00
 WindowSize,10|40|652|1030,1
 ViewList,1,0,0
 SoundFileName,baby-love.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/baby-love.m4a
@@ -13,7 +13,7 @@ SubtitleDeltaX,0
 SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,206015:726845,933504:727489,5471619:727489,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -26,7 +26,7 @@ FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,100000,0
-FX_Misc,1,0,50,0,80,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -48,7 +51,7 @@ ShowGuessChords,0
 ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -57,34 +60,99 @@ LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,38
-PianoTopNote,93
+PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.250094
+TextZoneSplitterPos,0.356932
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700105
+ViewSplitterPos,0.775744
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,0
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfilePos,9027
+SelectionLeft,5836007,0:02:12.335766
+SelectionRight,5836007,0:02:12.335766
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,32
+S,-1,1,A1,0,0:00:00.000000,
+S,-1,1,B2,0,0:00:04.671533,
+S,-1,1,C3,0,0:00:12.919708,
+S,-1,1,D4,0,0:00:21.167883,
+S,-1,1,E5,0,0:00:29.386861,
+S,-1,1,F6,0,0:00:37.635036,
+S,-1,1,G7,0,0:00:45.868613,
+S,-1,1,H8,0,0:00:54.029197,
+S,-1,1,I9,0,0:00:56.131387,
+S,-1,1,J10,0,0:01:04.379562,
+S,-1,1,K11,0,0:01:12.613139,
+S,-1,1,L12,0,0:01:20.846715,
+S,-1,1,M13,0,0:01:29.080292,
+S,-1,1,N14,0,0:01:37.343066,
+S,-1,1,O15,0,0:01:45.562044,
+S,-1,1,P16,0,0:01:47.620438,
+S,-1,1,Q17,0,0:01:55.854015,
+S,-1,1,R18,0,0:02:04.072993,
+S,-1,1,S19,0,0:02:12.335766,
+S,-1,1,T20,0,0:02:20.569343,
+S,-1,1,U21,0,0:02:28.802920,
+S,-1,1,V22,0,0:02:37.065693,
+S,-1,1,W23,0,0:02:45.240876,
+S,-1,1,X24,0,0:02:53.459854,
+S,-1,1,Y25,0,0:03:01.678832,
+S,-1,1,Z26,0,0:03:09.912409,
+S,-1,1,A27,0,0:03:11.970803,
+S,-1,1,B28,0,0:03:20.218978,
+S,-1,1,C29,0,0:03:28.452555,
+S,-1,1,D30,0,0:03:36.656934,
+S,-1,1,E31,0,0:03:44.890511,
+S,-1,1,F32,0,0:03:53.138686,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,33
+T,-1,5,100,Grey,0:00:00.000000,Intro (Drums)\n\n,0
+T,-1,68,477,White,0:00:00.000000,Song notes:\n\nLearn synth changes+guitar riffs in left channel -\nsometimes the Guitar and Bass track each other\n\nSomething happens at the end of each block of the\nVerse section (Black) and it foreshadows what happens\nat the end of the Verse (Red) before heading into\nthe Chorus (Gray),1
+T,-1,5,552,Grey,0:00:04.671533,\n\n|: Gmaj7     A7    | Gmaj7     A7    :|,0
+T,-1,5,100,Grey,0:00:12.919708,\n\n,0
+T,-1,5,554,Black,0:00:21.167883,Verse\n\n|: Gmaj7                | A7                :|,0
+T,-1,5,555,Black,0:00:29.386861,\n\n| Gmaj7                | A7                |\n| Gmaj7                | Bm7               |,0
+T,-1,5,100,Black,0:00:37.635036,\n\n,0
+T,-1,5,100,Black,0:00:45.868613,\n\n,0
+T,-1,5,100,Red,0:00:54.029197,\n\n| Cmaj7 ||,0
+T,-1,5,100,Grey,0:00:56.131387,Chorus\n\n,0
+T,-1,5,100,Grey,0:01:04.379562,\n\n,0
+T,-1,5,100,Black,0:01:12.613139,Verse\n\n,0
+T,-1,5,100,Black,0:01:20.846715,\n\n,0
+T,-1,5,100,Black,0:01:29.080292,\n\n,0
+T,-1,5,100,Black,0:01:37.343066,\n\n,0
+T,-1,5,100,Red,0:01:45.562044,\n\n,0
+T,-1,5,100,Grey,0:01:47.620438,Chorus\n\n,0
+T,-1,5,100,Grey,0:01:55.854015,\n\n,0
+T,-1,5,556,DarkRed,0:02:04.072993,Bridge\n\n| Gmaj7          | Dmaj7          |\n| Cmaj7          | Gmaj7          |,0
+T,-1,5,553,DarkRed,0:02:12.335766,\n\n| Gmaj7          | Dmaj7          |\n| Cmaj7          |                |,0
+T,-1,5,100,Grey,0:02:20.569343,Solo\n\n,0
+T,-1,5,100,Grey,0:02:28.802920,\n\n,0
+T,-1,5,100,Black,0:02:37.065693,Verse\n\n,0
+T,-1,5,100,Black,0:02:45.240876,\n\n,0
+T,-1,5,100,Black,0:02:53.459854,\n\n,0
+T,-1,5,100,Black,0:03:01.678832,\n\n,0
+T,-1,5,100,Red,0:03:09.912409,\n\n,0
+T,-1,5,108,Grey,0:03:11.970803,Outro-Chorus\n\n,1
+T,-1,5,100,Grey,0:03:20.218978,\n\n,0
+T,-1,5,100,Grey,0:03:28.452555,\n\n,0
+T,-1,5,100,Grey,0:03:36.656934,\n\n,0
+T,-1,5,100,Grey,0:03:44.890511,\n\n,0
+T,-1,5,100,Grey,0:03:53.138686,\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-MostRecent,-1
-L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+MostRecent,0
+L,1,1,206015,726845,Intro / Chorus / Solo,White,,0:00:04.671533,0:00:16.481752
+L,2,1,933504,727489,Verse,White,,0:00:21.167883,0:00:16.496350
+L,3,1,5471619,727489,Bridge,White,,0:02:04.072993,0:00:16.496350
 L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
