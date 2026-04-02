@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,0
 
 SectionStart,Main
-SaveDate,2026-03-26 06:18
+SaveDate,2026-04-01 06:18
 WindowSize,10|40|652|1030,1
 ViewList,1,0,0
 SoundFileName,higher-ground.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/higher-ground.m4a
@@ -13,7 +13,7 @@ SubtitleDeltaX,0
 SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,425549:1317850,3070905:672123,7387555:666972,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -26,7 +26,7 @@ FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,100000,0
-FX_Misc,1,0,50,0,80,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -60,31 +63,93 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.250094
+TextZoneSplitterPos,0.467403
 PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.700105
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,118
-SelectionLeft,485422,0:00:11.007299
-SelectionRight,485422,0:00:11.007299
+HorizProfilePos,25648
+SelectionLeft,17054146,0:06:26.715328
+SelectionRight,17054146,0:06:26.715328
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,31
+S,-1,1,A1,0,0:00:09.649635,
+S,-1,1,B2,0,0:00:24.525547,
+S,-1,1,C3,0,0:00:39.518248,
+S,-1,1,D4,0,0:00:54.540146,
+S,-1,1,E5,0,0:01:07.751825,
+S,-1,1,F6,0,0:01:09.635036,
+S,-1,1,G7,0,0:01:24.861314,
+S,-1,1,H8,0,0:01:32.306569,
+S,-1,1,I9,0,0:01:47.416058,
+S,-1,1,J10,0,0:02:02.525547,
+S,-1,1,K11,0,0:02:17.708029,
+S,-1,1,L12,0,0:02:32.598540,
+S,-1,1,M13,0,0:02:47.518248,
+S,-1,1,N14,0,0:03:02.613139,
+S,-1,1,O15,0,0:03:17.795620,
+S,-1,1,P16,0,0:03:21.722628,
+S,-1,1,Q17,0,0:03:33.021898,
+S,-1,1,R18,0,0:03:48.116788,
+S,-1,1,S19,0,0:04:03.036496,
+S,-1,1,T20,0,0:04:18.160584,
+S,-1,1,U21,0,0:04:33.153285,
+S,-1,1,V22,0,0:04:47.795620,
+S,-1,1,W23,0,0:05:02.642336,
+S,-1,1,X24,0,0:05:17.211679,
+S,-1,1,Y25,0,0:05:32.379562,
+S,-1,1,Z26,0,0:05:47.270073,
+S,-1,1,A27,0,0:06:01.474453,
+S,-1,1,B28,0,0:06:09.051095,
+S,-1,1,C29,0,0:06:26.715328,
+S,-1,1,D30,0,0:06:44.364964,
+S,-1,1,E31,0,0:06:49.372263,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,31
+T,-1,5,369,Grey,0:00:09.649635,Verse (A)\n\n| Ebm      Gb   Ab   | Ebm              |\n| Ebm      Gb   Ab   | Ebm              |,1
+T,-1,5,405,Black,0:00:24.525547,\n\n| Gm7        Ab   Bb   | Eb       Gb   Ab   |\n| Ab                   |                    |\n| Ebm        Gb   Ab   | Ebm                |\n| Ebm        Gb   Ab   | Ebm                |,1
+T,-1,5,100,Grey,0:00:39.518248,A\n\n,0
+T,-1,5,100,Black,0:00:54.540146,\n\n,0
+T,-1,84,126,Black,0:01:07.751825,(Fix)\n\n| Eb7 F F# G |,1
+T,-1,5,306,Red,0:01:09.635036,B\n\n| Ab7      Gb   |  Eb7           |\n| Ab7      Gb   |  Eb7           |\n| Ab7      Gb   |  Eb7           |\n| F7            | Bb7#9          |,1
+T,-1,5,369,Grey,0:01:24.861314,\n\n| Ebm      Gb   Ab   | Ebm              |\n| Ebm      Gb   Ab   | Ebm              |,1
+T,-1,5,176,Grey,0:01:32.306569,A\n\n,0
+T,-1,5,176,Black,0:01:47.416058,\n\n,0
+T,-1,5,176,Red,0:02:02.525547,B\n\n,0
+T,-1,5,176,Grey,0:02:17.708029,\n\n,0
+T,-1,5,342,DarkRed,0:02:32.598540,C\n\n| Eb9              |           Fb9   |\n| Eb9              |           Fb9   |\n,1
+T,-1,5,237,DarkRed,0:02:47.518248,\n\n,0
+T,-1,5,237,DarkRed,0:03:02.613139,\n\n,0
+T,-1,5,261,Green,0:03:17.795620,\n\n| Eb9         |             |,1
+T,-1,5,237,DarkRed,0:03:21.722628,C\n\n,0
+T,-1,5,237,DarkRed,0:03:33.021898,\n\n,0
+T,-1,5,100,DarkRed,0:03:48.116788,\n\n,0
+T,-1,5,100,DarkRed,0:04:03.036496,\n\n,0
+T,-1,5,100,Red,0:04:18.160584,B\n\n,0
+T,-1,5,100,Grey,0:04:33.153285,A\n\n,0
+T,-1,5,100,DarkRed,0:04:47.795620,C\n\n,0
+T,-1,5,100,DarkGreen,0:05:02.642336,Drum Solo\n\n,0
+T,-1,5,100,DarkGreen,0:05:17.211679,\n\n,0
+T,-1,5,100,DarkGreen,0:05:32.379562,\n\n,0
+T,-1,5,100,DarkGreen,0:05:47.270073,\n\n,0
+T,-1,5,100,DarkRed,0:06:01.474453,\n\n,0
+T,-1,5,100,Red,0:06:09.051095,B\n\n,0
+T,-1,5,144,Blue,0:06:26.715328,Cadenza\n\n| Ab7  N.C.    |,1
+T,-1,5,171,Blue,0:06:44.364964,\n\n| Ab7             |,1
+T,-1,5,171,Blue,0:06:49.372263,\n\n| Eb7             |,1
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-MostRecent,-1
-L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+MostRecent,2
+L,1,1,425549,1317850,A,White,,0:00:09.649635,0:00:29.883212
+L,2,1,3070905,672123,B,White,,0:01:09.635036,0:00:15.240876
+L,3,1,7387555,666972,C,White,,0:02:47.518248,0:00:15.124088
 L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000

@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,0
 
 SectionStart,Main
-SaveDate,2026-03-26 06:16
+SaveDate,2026-04-02 06:01
 WindowSize,10|40|652|1030,1
 ViewList,1,0,0
 SoundFileName,lovely-day.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/lovely-day.m4a
@@ -26,7 +26,7 @@ FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,100000,0
-FX_Misc,1,0,50,0,80,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -48,7 +51,7 @@ ShowGuessChords,0
 ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -60,23 +63,78 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.250094
+TextZoneSplitterPos,0.416740
 PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.700105
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,161
-SelectionLeft,441000,0:00:10.000000
-SelectionRight,441000,0:00:10.000000
+HorizProfilePos,17272
+SelectionLeft,11690041,0:04:25.080292
+SelectionRight,11690041,0:04:25.080292
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,28
+S,-1,1,A1,0,0:00:10.394161,
+S,-1,1,B2,0,0:00:20.189781,
+S,-1,1,C3,0,0:00:29.985401,
+S,-1,1,D4,0,0:00:39.781022,
+S,-1,1,E5,0,0:00:49.591241,
+S,-1,1,F6,0,0:00:59.386861,
+S,-1,1,G7,0,0:01:09.197080,
+S,-1,1,H8,0,0:01:18.948905,
+S,-1,1,I9,0,0:01:28.759124,
+S,-1,1,J10,0,0:01:38.554745,
+S,-1,1,K11,0,0:01:48.350365,
+S,-1,1,L12,0,0:01:58.145985,
+B,-1,1,,0,0:01:58.664558,
+S,-1,1,M13,0,0:02:07.927007,
+S,-1,1,N14,0,0:02:17.737226,
+S,-1,1,O15,0,0:02:27.518248,
+S,-1,1,P16,0,0:02:37.313869,
+S,-1,1,Q17,0,0:02:47.124088,
+S,-1,1,R18,0,0:02:56.890511,
+S,-1,1,S19,0,0:03:06.700730,
+S,-1,1,T20,0,0:03:16.496350,
+S,-1,1,U21,0,0:03:26.277372,
+S,-1,1,V22,0,0:03:36.072993,
+S,-1,1,W23,0,0:03:45.883212,
+S,-1,1,X24,0,0:03:55.678832,
+S,-1,1,Y25,0,0:04:05.474453,
+S,-1,1,Z26,0,0:04:15.255474,
+S,-1,1,A27,0,0:04:25.080292,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,27
+T,-1,5,342,Grey,0:00:10.394161,A (Intro)\n\n\n| Ebmaj7           |  Cm7            |\n| Amaj7            | Cbmaj7   Bb7    |,1
+T,-1,5,342,Black,0:00:20.189781,B (Head)\n\n\n| Ebmaj7           | Cm7             |\n| Amaj7            |      Cbmaj7 Bb7 |,1
+T,-1,5,360,Black,0:00:29.985401,B1\n\n\n| Ebmaj7           |  Cm7            |\n| Amaj7            | Cbmaj7      Bb7 |  ,1
+T,-1,5,387,Red,0:00:39.781022,C\n\n\n| Cbmaj9/D            | Ebmaj7            |\n|   Abm7              |  Bbm7             |,1
+T,-1,5,253,Red,0:00:49.591241,\n\n\n,0
+T,-1,5,253,Black,0:00:59.386861,B1\n\n\n,0
+T,-1,5,253,Black,0:01:09.197080,B1\n\n\n,0
+T,-1,5,253,Black,0:01:18.948905,B\n\n\n,0
+T,-1,5,253,Black,0:01:28.759124,B1\n\n\n,0
+T,-1,5,253,Red,0:01:38.554745,C\n\n\n,0
+T,-1,5,253,Red,0:01:48.350365,\n\n\n,0
+T,-1,5,253,Black,0:01:58.145985,B1\n\n\n,0
+T,-1,5,253,Black,0:02:07.927007,B1\n\n\n,0
+T,-1,5,253,Black,0:02:17.737226,Solo (B)\n\n\n,0
+T,-1,5,253,Black,0:02:27.518248,B1\n\n\n,0
+T,-1,5,253,Red,0:02:37.313869,C\n\n\n,0
+T,-1,5,253,Red,0:02:47.124088,C\n\n\n,0
+T,-1,5,253,Black,0:02:56.890511,B1\n\n\n,0
+T,-1,5,253,Black,0:03:06.700730,B1\n\n\n,0
+T,-1,5,253,Black,0:03:16.496350,B1\n\n\n,0
+T,-1,5,253,Black,0:03:26.277372,B1\n\n\n,0
+T,-1,5,253,Black,0:03:36.072993,B1\n\n\n,0
+T,-1,5,253,Black,0:03:45.883212,B1\n\n\n,0
+T,-1,5,253,Black,0:03:55.678832,B1\n\n\n,0
+T,-1,5,253,Black,0:04:05.474453,B1\n\n\n,0
+T,-1,5,253,Black,0:04:15.255474,B1\n\n\n,0
+T,-1,5,253,Black,0:04:25.080292,B1\n\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops

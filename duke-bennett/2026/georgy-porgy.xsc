@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,0
 
 SectionStart,Main
-SaveDate,2026-03-26 06:15
+SaveDate,2026-04-01 05:42
 WindowSize,10|40|652|1030,1
 ViewList,1,0,0
 SoundFileName,georgy-porgy.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/georgy-porgy.m4a
@@ -13,7 +13,7 @@ SubtitleDeltaX,0
 SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,84337:438425,1400899:442288,2727118:444219,5378269:873631,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -26,7 +26,7 @@ FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,100000,0
-FX_Misc,1,0,50,0,80,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -48,7 +51,7 @@ ShowGuessChords,0
 ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -56,36 +59,115 @@ TimelineOffset,0:00:00.000000
 LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
-PianoBtmNote,38
-PianoTopNote,93
+PianoBtmNote,37
+PianoTopNote,98
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.250094
+TextZoneSplitterPos,0.252382
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700105
+ViewSplitterPos,0.702678
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,0
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfilePos,62
+SelectionLeft,84337,0:00:01.912409
+SelectionRight,522762,0:00:11.854015
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,40
+S,-1,1,A1,0,0:00:00.000000,
+S,-1,1,B2,0,0:00:01.912409,
+S,-1,1,C3,0,0:00:11.839416,
+S,-1,1,D4,0,0:00:21.751825,
+S,-1,1,E5,0,0:00:31.766423,
+S,-1,1,F6,0,0:00:41.810219,
+S,-1,1,G7,0,0:00:51.824818,
+S,-1,1,H8,0,0:01:01.839416,
+S,-1,1,I9,0,0:01:11.897810,
+S,-1,1,J10,0,0:01:21.956204,
+S,-1,1,K11,0,0:01:31.956204,
+S,-1,1,L12,0,0:01:42.000000,
+S,-1,1,M13,0,0:01:51.985401,
+S,-1,1,N14,0,0:02:01.927007,
+S,-1,1,O15,0,0:02:11.839416,
+S,-1,1,P16,0,0:02:21.751825,
+S,-1,1,Q17,0,0:02:31.635036,
+S,-1,1,R18,0,0:02:41.664234,
+S,-1,1,S19,0,0:02:51.766423,
+S,-1,1,T20,0,0:03:01.795620,
+S,-1,1,U21,0,0:03:11.605839,
+S,-1,1,V22,0,0:03:21.576642,
+S,-1,1,W23,0,0:03:31.489051,
+S,-1,1,X24,0,0:03:41.445255,
+S,-1,1,Y25,0,0:03:51.445255,
+S,-1,1,Z26,0,0:04:01.372263,
+S,-1,1,A27,0,0:04:11.284672,
+S,-1,1,B28,0,0:04:21.270073,
+S,-1,1,C29,0,0:04:31.270073,
+S,-1,1,D30,0,0:04:41.197080,
+S,-1,1,E31,0,0:04:51.080292,
+S,-1,1,F32,0,0:05:00.992701,
+S,-1,1,G33,0,0:05:10.948905,
+S,-1,1,H34,0,0:05:20.832117,
+S,-1,1,I35,0,0:05:30.773723,
+S,-1,1,J36,0,0:05:40.613139,
+S,-1,1,K37,0,0:05:50.335766,
+S,-1,1,L38,0,0:06:00.145985,
+S,-1,1,M39,0,0:06:09.897810,
+S,-1,1,N40,0,0:06:19.766423,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
-TextBlockFont,80,12,,
-Howmany,0
+TextBlockFont,80,12,"Atari800",
+Howmany,39
+T,-1,5,333,Grey,0:00:00.000000,A\n\n| Em7             | A7/C#           |\n| C7              |  Bm7          :||,1
+T,-1,5,100,Grey,0:00:11.839416,\n\n,0
+T,-1,5,324,Black,0:00:21.751825,B\n\n| Cmaj7           | D              |\n| Em7             |                |,1
+T,-1,5,100,Black,0:00:31.766423,\n\n,0
+T,-1,5,100,Black,0:00:41.810219,\n\n,0
+T,-1,5,100,Black,0:00:51.824818,\n\n,0
+T,-1,5,378,Red,0:01:01.839416,C\n\n| Cmaj7       E7/G#  | Am7               |\n| Bmaj7              |               G7  |,1
+T,-1,5,100,Red,0:01:11.897810,\n\n,0
+T,-1,5,100,Black,0:01:21.956204,B\n\n,0
+T,-1,5,100,Black,0:01:31.956204,\n\n,0
+T,-1,5,100,Red,0:01:42.000000,C\n\n,0
+T,-1,5,100,Red,0:01:51.985401,\n\n,0
+T,-1,5,306,DarkRed,0:02:01.927007,D\n\n| Cmaj7          | A7/C#         |\n|  A°            | B7#9          |,1
+T,-1,5,315,DarkRed,0:02:11.839416,\n\n| Em7            | A7/C#          |\n|  A°            | B7#9           |,1
+T,-1,5,100,Grey,0:02:21.751825,A\n\n,0
+T,-1,5,100,Black,0:02:31.635036,B\n\n,0
+T,-1,5,100,Black,0:02:41.664234,\n\n,0
+T,-1,5,135,Black,0:02:51.766423,B (Guitar Solo)\n\n,1
+T,-1,5,100,Black,0:03:01.795620,\n\n,0
+T,-1,5,100,Black,0:03:11.605839,\n\n,0
+T,-1,5,100,Black,0:03:21.576642,\n\n,0
+T,-1,5,100,Red,0:03:31.489051,C\n\n,0
+T,-1,5,100,Red,0:03:41.445255,\n\n,0
+T,-1,5,100,DarkRed,0:03:51.445255,D\n\n,0
+T,-1,5,100,DarkRed,0:04:01.372263,\n\n,0
+T,-1,5,100,Grey,0:04:11.284672,A\n\n,0
+T,-1,5,100,Grey,0:04:21.270073,\n\n,0
+T,-1,5,117,Black,0:04:31.270073,B (Horn Solo)\n\n,1
+T,-1,5,100,Black,0:04:41.197080,\n\n,0
+T,-1,5,100,Black,0:04:51.080292,\n\n,0
+T,-1,5,100,Black,0:05:00.992701,\n\n,0
+T,-1,5,100,Red,0:05:10.948905,C\n\n,0
+T,-1,5,100,Red,0:05:20.832117,\n\n,0
+T,-1,5,100,DarkRed,0:05:30.773723,D\n\n,0
+T,-1,5,100,DarkRed,0:05:40.613139,\n\n,0
+T,-1,5,100,DarkRed,0:05:50.335766,\n\n,0
+T,-1,5,100,DarkRed,0:06:00.145985,\n\n,0
+T,-1,5,100,Grey,0:06:09.897810,A\n\n,0
+T,-1,5,100,Grey,0:06:19.766423,\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-MostRecent,-1
-L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+MostRecent,0
+L,1,1,84337,438425,A,White,,0:00:01.912409,0:00:09.941606
+L,2,1,1400899,442288,B (Head),White,,0:00:31.766423,0:00:10.029197
+L,3,1,2727118,444219,C,White,,0:01:01.839416,0:00:10.072993
+L,4,1,5378269,873631,D,White,,0:02:01.956204,0:00:19.810219
 L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000

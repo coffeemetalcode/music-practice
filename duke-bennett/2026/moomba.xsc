@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,0
 
 SectionStart,Main
-SaveDate,2026-03-26 06:19
+SaveDate,2026-04-02 07:18
 WindowSize,10|40|652|1030,1
 ViewList,1,0,0
 SoundFileName,moomba.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/moomba.m4a
@@ -13,7 +13,7 @@ SubtitleDeltaX,0
 SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
-Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,3587229:775774,2812099:775774,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -26,7 +26,7 @@ FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,100000,0
-FX_Misc,1,0,50,0,80,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -48,7 +51,7 @@ ShowGuessChords,0
 ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -60,30 +63,96 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.249985
+TextZoneSplitterPos,0.470930
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.699983
+ViewSplitterPos,0.787185
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,77
-SelectionLeft,475765,0:00:10.788321
-SelectionRight,475765,0:00:10.788321
+HorizProfilePos,18601
+SelectionLeft,12725264,0:04:48.554745
+SelectionRight,12725264,0:04:48.554745
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,33
+S,-1,1,A1,0,0:00:10.802920,
+S,-1,1,B2,0,0:00:19.664234,
+S,-1,1,C3,0,0:00:28.496350,
+S,-1,1,D4,0,0:00:37.313869,
+S,-1,1,E5,0,0:00:46.058394,
+S,-1,1,F6,0,0:00:54.934307,
+S,-1,1,G7,0,0:01:03.766423,
+S,-1,1,H8,0,0:01:12.569343,
+S,-1,1,I9,0,0:01:21.343066,
+S,-1,1,J10,0,0:01:30.145985,
+S,-1,1,K11,0,0:01:38.919708,
+S,-1,1,L12,0,0:01:47.795620,
+S,-1,1,M13,0,0:01:56.627737,
+S,-1,1,N14,0,0:02:05.343066,
+S,-1,1,O15,0,0:02:14.277372,
+S,-1,1,P16,0,0:02:23.021898,
+S,-1,1,Q17,0,0:02:31.839416,
+S,-1,1,R18,0,0:02:40.656934,
+S,-1,1,S19,0,0:02:49.430657,
+S,-1,1,T20,0,0:02:58.233577,
+S,-1,1,U21,0,0:03:07.021898,
+S,-1,1,V22,0,0:03:15.883212,
+S,-1,1,W23,0,0:03:24.671533,
+S,-1,1,X24,0,0:03:33.474453,
+S,-1,1,Y25,0,0:03:42.350365,
+S,-1,1,Z26,0,0:03:51.167883,
+S,-1,1,A27,0,0:03:59.883212,
+S,-1,1,B28,0,0:04:08.656934,
+S,-1,1,C29,0,0:04:13.109489,
+S,-1,1,D30,0,0:04:21.912409,
+S,-1,1,E31,0,0:04:30.744526,
+S,-1,1,F32,0,0:04:39.576642,
+S,-1,1,G33,0,0:04:48.554745,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,33
+T,-1,5,351,Grey,0:00:10.802920,A\n\n(N.C.)\n\nBass:\n| B       D       | A        G        |\n| B       D       | A        G        |,1
+T,-1,5,272,Grey,0:00:19.664234,A\n\n\n,0
+T,-1,5,351,Grey,0:00:28.496350,(A1)\n\n\n| Bm      D        | A       G        |\n| Bm      D        | A       G        |,1
+T,-1,5,272,Grey,0:00:37.313869,(A1)\n\n\n,0
+T,-1,5,272,Grey,0:00:46.058394,(A1)\n\n\n,0
+T,-1,5,272,Grey,0:00:54.934307,(A1)\n\n\n,0
+T,-1,5,369,Black,0:01:03.766423,B\n\n| Em7               |                   |\n| F#m7              |                   |,1
+T,-1,5,369,Black,0:01:12.569343,B1\n\n|  Em7              |  A7               |\n| Dmaj7             | F7#9              |,0
+T,-1,5,272,Grey,0:01:21.343066,(A1)\n\n\n,0
+T,-1,5,272,Grey,0:01:30.145985,(A1)\n\n\n,0
+T,-1,5,272,Grey,0:01:38.919708,(A1)\n\n\n,0
+T,-1,5,272,Grey,0:01:47.795620,(A1)\n\n\n,0
+T,-1,5,272,Grey,0:01:56.627737,(A1)\n\n\n,0
+T,-1,5,369,Black,0:02:05.343066,(B)\n\n\n,0
+T,-1,5,369,Black,0:02:14.277372,(B1)\n\n\n,0
+T,-1,5,369,Grey,0:02:23.021898,(A1)\n\n\n,0
+T,-1,5,369,Grey,0:02:31.839416,(A1)\n\n\n,0
+T,-1,5,369,Grey,0:02:40.656934,(A1)\n\n\n,0
+T,-1,5,369,Grey,0:02:49.430657,(A1)\n\n\n,0
+T,-1,5,333,Red,0:02:58.233577,C\n\n\n| Bm  N.C.        |                 |\n|                 |                 |,0
+T,-1,5,333,Red,0:03:07.021898,(C)\n\n\nN.C.,0
+T,-1,5,333,Grey,0:03:15.883212,(A1)\n\n\n,0
+T,-1,5,333,Grey,0:03:24.671533,(A1)\n\n\n,0
+T,-1,5,333,Grey,0:03:33.474453,(A1)\n\n\n,0
+T,-1,5,333,Grey,0:03:42.350365,(A1)\n\n\n,0
+T,-1,5,369,Black,0:03:51.167883,(B)\n\n\n,0
+T,-1,5,369,Black,0:03:59.883212,(B1)\n\n\n,0
+T,-1,5,288,DarkRed,0:04:08.656934,D\n\n\n| Em7  N.C.     |              |,1
+T,-1,5,369,Grey,0:04:13.109489,(A1)\n\n\n\n,0
+T,-1,5,369,Grey,0:04:21.912409,(A1)\n\n\n,0
+T,-1,5,369,Grey,0:04:30.744526,(A1)\n\n\n,0
+T,-1,5,369,Grey,0:04:39.576642,(A1)\n\n\n,0
+T,-1,5,369,Grey,0:04:48.554745,Out\n\n\n| Bm7           |.,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-MostRecent,-1
-L,1,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,2,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+MostRecent,0
+L,1,1,3587229,775774,A1,White,,0:01:21.343066,0:00:17.591241
+L,2,1,2812099,775774,B,White,,0:01:03.766423,0:00:17.591241
 L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
