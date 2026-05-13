@@ -1,9 +1,9 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,51,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-03-28 07:15
-WindowSize,10|40|652|1030,1
+SaveDate,2026-05-13 07:16
+WindowSize,0|56|1920|1024,1
 ViewList,1,0,0
 SoundFileName,can-we-talk.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/can-we-talk.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,5023795,44100,13696000,310.56689342
@@ -68,9 +68,9 @@ PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.787185
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,14164
-SelectionLeft,9177950,0:03:28.116788
-SelectionRight,10181628,0:03:50.875912
+HorizProfilePos,6020
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
@@ -106,16 +106,16 @@ SectionEnd,Markers
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,27
-T,-1,5,441,Grey,0:00:00.000000,A\n\n                               Am7    Dm7   Gm7 |\n|                    |         Am7    Dm7   Gm7 |\n|                    |         Am7    Dm7   Gm7 |,1
-T,-1,5,468,Grey,0:00:13.970803,\n\n|                    |         Gm7   Fmaj7  Em7b5  |\n|      A7      Dmaj7 |                            ||,1
-T,-1,5,351,Black,0:00:25.343066,B\n\n| Dm7              | A7               |\n| Dm7              | G13              |,1
+T,-1,5,392,Grey,0:00:00.000000,A\n\n                               Am7    Dm7   Gm7 |\n|                    |         Am7    Dm7   Gm7 |\n|                    |         Am7    Dm7   Gm7 |,1
+T,-1,5,416,Grey,0:00:13.970803,\n\n|                    |         Gm7   Fmaj7  Em7b5  |\n|      A7      Dmaj7 |                            ||,1
+T,-1,5,312,Black,0:00:25.343066,B\n\n| Dm7              | A7               |\n| Dm7              | G13              |,1
 T,-1,5,351,Black,0:00:36.788321,\n\n|  Gm7             |   C7             |\n| Fmaj7            | Em7b5    A7      |,0
-T,-1,5,351,Black,0:00:48.175182,\n\n|  Dm7             | A7/C#            |\n| Dm7/C            | G7/B             |,1
-T,-1,89,414,White,0:00:48.175182,Grab the guitar riff here and on the repeat(s),1
-T,-1,5,351,Black,0:00:59.445255,\n\n| Bbmaj7           | F/A              |\n| Bbmaj7           | F/A     A7       |,1
-T,-1,5,495,Black,0:01:10.934307,\n| Bbmaj7                |   F/A                       |\n|  Gm7                  | C7sus4    Am7    Dm7   Gm7 ||,1
-T,-1,5,459,Grey,0:01:22.467153,A\n\n| Gm7                |         Gm7   Fmaj7  Em7b5 |\n|        A7    Dmaj7 |         Am7    Dm7    Gm7  |,1
-T,-1,5,468,Grey,0:01:33.941606,\n\n| Gm7                |         Gm7   Fmaj7  Em7b5  |\n|      A7      Dmaj7 |                            ||,1
+T,-1,5,312,Black,0:00:48.175182,\n\n|  Dm7             | A7/C#            |\n| Dm7/C            | G7/B             |,1
+T,-1,89,368,White,0:00:48.175182,Grab the guitar riff here and on the repeat(s),1
+T,-1,5,312,Black,0:00:59.445255,\n\n| Bbmaj7           | F/A              |\n| Bbmaj7           | F/A     A7       |,1
+T,-1,5,440,Black,0:01:10.934307,\n| Bbmaj7                |   F/A                       |\n|  Gm7                  | C7sus4    Am7    Dm7   Gm7 ||,1
+T,-1,5,408,Grey,0:01:22.467153,A\n\n| Gm7                |         Gm7   Fmaj7  Em7b5 |\n|        A7    Dmaj7 |         Am7    Dm7    Gm7  |,1
+T,-1,5,416,Grey,0:01:33.941606,\n\n| Gm7                |         Gm7   Fmaj7  Em7b5  |\n|      A7      Dmaj7 |                            ||,1
 T,-1,5,100,Black,0:01:45.430657,B\n\n,0
 T,-1,5,100,Black,0:01:56.919708,\n\n,0
 T,-1,5,100,Black,0:02:08.335766,\n\n,0
@@ -123,9 +123,9 @@ T,-1,5,100,Black,0:02:19.620438,\n\n,0
 T,-1,5,100,Black,0:02:31.021898,\n\n,0
 T,-1,5,100,Grey,0:02:42.437956,A\n\n,0
 T,-1,5,100,Grey,0:02:53.912409,\n\n,0
-T,-1,5,387,Red,0:03:05.211679,C\n\n| Bbmaj7              |  F/A              |\n|  Dm7                | A7/C#             |,1
-T,-1,5,423,Red,0:03:16.686131,\n\n|  F/C             |  G7/B                    |\n| Bbmaj7    Gm7    | C7sus4    Am7  Dm7  Gm7 ||,1
-T,-1,5,216,Grey,0:03:28.116788,A (first half\C till end)\n\n,1
+T,-1,5,344,Red,0:03:05.211679,C\n\n| Bbmaj7              |  F/A              |\n|  Dm7                | A7/C#             |,1
+T,-1,5,376,Red,0:03:16.686131,\n\n|  F/C             |  G7/B                    |\n| Bbmaj7    Gm7    | C7sus4    Am7  Dm7  Gm7 ||,1
+T,-1,5,192,Grey,0:03:28.116788,A (first half\C till end)\n\n,1
 T,-1,5,100,Grey,0:03:39.605839,\n\n,0
 T,-1,5,100,Grey,0:03:50.963504,\n\n,0
 T,-1,5,100,Grey,0:04:02.335766,\n\n,0

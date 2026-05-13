@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-05-09 21:02
-WindowSize,0|56|960|360,0
+SaveDate,2026-05-13 06:08
+WindowSize,0|56|1920|1024,1
 ViewList,1,0,0
 SoundFileName,what-you-wont-do-for-love.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/what-you-wont-do-for-love.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,3919858,44100,10686464,242.32344671
@@ -25,8 +25,8 @@ FX_Mix,0,0,100,0
 FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,80000,0
-FX_Misc,1,0,50,0,80,0
+FX_Speed,1,0,100000,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -63,12 +63,12 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.249985
+TextZoneSplitterPos,0.250080
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.699983
+ViewSplitterPos,0.700090
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,20135
+HorizProfilePos,0
 SelectionLeft,0,0:00:00.000000
 SelectionRight,0,0:00:00.000000
 SectionEnd,View0

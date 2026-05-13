@@ -2,7 +2,7 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-05-13 06:05
+SaveDate,2026-05-13 06:07
 WindowSize,10|10|1920|1048,1
 ViewList,1,0,0
 SoundFileName,queenies-theme.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/queenies-theme.m4a
@@ -26,7 +26,7 @@ FX_Tuning,0,0,0,0,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,100000,0
-FX_Misc,1,0,50,0,80,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -63,12 +63,12 @@ PianoBtmNote,37
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.387966
+TextZoneSplitterPos,0.387990
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700000
+ViewSplitterPos,0.700017
 VertProfileZoom,1.000000
 HorizProfileZoom,0.250000
-HorizProfilePos,12173
+HorizProfilePos,12172
 SelectionLeft,12222000,0:04:37.142857
 SelectionRight,12222000,0:04:37.142857
 SectionEnd,View0

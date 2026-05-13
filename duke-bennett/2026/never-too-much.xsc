@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-05-08 19:54
-WindowSize,10|40|652|1030,1
+SaveDate,2026-05-13 07:16
+WindowSize,0|56|1920|1024,1
 ViewList,1,0,0
 SoundFileName,never-too-much.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/never-too-much.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,3928448,44100,10710016,242.85750567
@@ -25,8 +25,8 @@ FX_Mix,0,0,100,0
 FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,100000,0
-FX_Misc,1,0,50,0,80,0
+FX_Speed,1,0,90000,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -63,23 +63,26 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.261326
+TextZoneSplitterPos,0.261424
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.712919
+ViewSplitterPos,0.713032
 VertProfileZoom,1.000000
-HorizProfileZoom,0.500000
+HorizProfileZoom,0.125000
 HorizProfilePos,0
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+SelectionLeft,148777,0:00:03.373626
+SelectionRight,148777,0:00:03.373626
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,2
+S,-1,1,A1,0,0:00:01.175824,
+S,-1,1,B2,0,0:00:03.373626,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,1
+T,-1,5,100,Grey,0:00:03.373626,,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops

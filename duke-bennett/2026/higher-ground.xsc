@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,51,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-04-01 06:18
+SaveDate,2026-05-13 07:16
 WindowSize,10|40|652|1030,1
 ViewList,1,0,0
 SoundFileName,higher-ground.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/higher-ground.m4a
@@ -68,9 +68,9 @@ PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.700105
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,25648
-SelectionLeft,17054146,0:06:26.715328
-SelectionRight,17054146,0:06:26.715328
+HorizProfilePos,0
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
@@ -111,21 +111,21 @@ SectionEnd,Markers
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,31
-T,-1,5,369,Grey,0:00:09.649635,Verse (A)\n\n| Ebm      Gb   Ab   | Ebm              |\n| Ebm      Gb   Ab   | Ebm              |,1
-T,-1,5,405,Black,0:00:24.525547,\n\n| Gm7        Ab   Bb   | Eb       Gb   Ab   |\n| Ab                   |                    |\n| Ebm        Gb   Ab   | Ebm                |\n| Ebm        Gb   Ab   | Ebm                |,1
+T,-1,5,328,Grey,0:00:09.649635,Verse (A)\n\n| Ebm      Gb   Ab   | Ebm              |\n| Ebm      Gb   Ab   | Ebm              |,1
+T,-1,5,360,Black,0:00:24.525547,\n\n| Gm7        Ab   Bb   | Eb       Gb   Ab   |\n| Ab                   |                    |\n| Ebm        Gb   Ab   | Ebm                |\n| Ebm        Gb   Ab   | Ebm                |,1
 T,-1,5,100,Grey,0:00:39.518248,A\n\n,0
 T,-1,5,100,Black,0:00:54.540146,\n\n,0
-T,-1,84,126,Black,0:01:07.751825,(Fix)\n\n| Eb7 F F# G |,1
-T,-1,5,306,Red,0:01:09.635036,B\n\n| Ab7      Gb   |  Eb7           |\n| Ab7      Gb   |  Eb7           |\n| Ab7      Gb   |  Eb7           |\n| F7            | Bb7#9          |,1
-T,-1,5,369,Grey,0:01:24.861314,\n\n| Ebm      Gb   Ab   | Ebm              |\n| Ebm      Gb   Ab   | Ebm              |,1
+T,-1,84,112,Black,0:01:07.751825,(Fix)\n\n| Eb7 F F# G |,1
+T,-1,5,272,Red,0:01:09.635036,B\n\n| Ab7      Gb   |  Eb7           |\n| Ab7      Gb   |  Eb7           |\n| Ab7      Gb   |  Eb7           |\n| F7            | Bb7#9          |,1
+T,-1,5,328,Grey,0:01:24.861314,\n\n| Ebm      Gb   Ab   | Ebm              |\n| Ebm      Gb   Ab   | Ebm              |,1
 T,-1,5,176,Grey,0:01:32.306569,A\n\n,0
 T,-1,5,176,Black,0:01:47.416058,\n\n,0
 T,-1,5,176,Red,0:02:02.525547,B\n\n,0
 T,-1,5,176,Grey,0:02:17.708029,\n\n,0
-T,-1,5,342,DarkRed,0:02:32.598540,C\n\n| Eb9              |           Fb9   |\n| Eb9              |           Fb9   |\n,1
+T,-1,5,304,DarkRed,0:02:32.598540,C\n\n| Eb9              |           Fb9   |\n| Eb9              |           Fb9   |\n,1
 T,-1,5,237,DarkRed,0:02:47.518248,\n\n,0
 T,-1,5,237,DarkRed,0:03:02.613139,\n\n,0
-T,-1,5,261,Green,0:03:17.795620,\n\n| Eb9         |             |,1
+T,-1,5,232,Green,0:03:17.795620,\n\n| Eb9         |             |,1
 T,-1,5,237,DarkRed,0:03:21.722628,C\n\n,0
 T,-1,5,237,DarkRed,0:03:33.021898,\n\n,0
 T,-1,5,100,DarkRed,0:03:48.116788,\n\n,0
@@ -139,9 +139,9 @@ T,-1,5,100,DarkGreen,0:05:32.379562,\n\n,0
 T,-1,5,100,DarkGreen,0:05:47.270073,\n\n,0
 T,-1,5,100,DarkRed,0:06:01.474453,\n\n,0
 T,-1,5,100,Red,0:06:09.051095,B\n\n,0
-T,-1,5,144,Blue,0:06:26.715328,Cadenza\n\n| Ab7  N.C.    |,1
-T,-1,5,171,Blue,0:06:44.364964,\n\n| Ab7             |,1
-T,-1,5,171,Blue,0:06:49.372263,\n\n| Eb7             |,1
+T,-1,5,128,Blue,0:06:26.715328,Cadenza\n\n| Ab7  N.C.    |,1
+T,-1,5,152,Blue,0:06:44.364964,\n\n| Ab7             |,1
+T,-1,5,152,Blue,0:06:49.372263,\n\n| Eb7             |,1
 SectionEnd,TextBlocks
 
 SectionStart,Loops

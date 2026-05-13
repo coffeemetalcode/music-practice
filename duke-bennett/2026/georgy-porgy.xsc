@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-05-06 11:36
-WindowSize,10|32|960|360,0
+SaveDate,2026-05-13 06:17
+WindowSize,10|32|960|360,1
 ViewList,1,0,0
 SoundFileName,georgy-porgy.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/georgy-porgy.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,6317829,44100,17224704,390.58285714
@@ -25,7 +25,7 @@ FX_Mix,0,0,100,0
 FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,80000,0
+FX_Speed,0,0,80000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -63,14 +63,14 @@ PianoBtmNote,37
 PianoTopNote,98
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.240320
+TextZoneSplitterPos,0.240335
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.689324
+ViewSplitterPos,0.689340
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,24301
-SelectionLeft,12377077,0:04:40.659341
-SelectionRight,12377077,0:04:40.659341
+HorizProfilePos,33627
+SelectionLeft,15341469,0:05:47.879121
+SelectionRight,15341469,0:05:47.879121
 SectionEnd,View0
 
 SectionStart,Markers
@@ -120,24 +120,24 @@ SectionEnd,Markers
 SectionStart,TextBlocks
 TextBlockFont,80,12,"Atari800",
 Howmany,39
-T,-1,5,452,Grey,0:00:00.000000,A\n\n| Em7             | A7/C#           |\n| C7              |  Bm7          :||,0
+T,-1,5,452,Grey,0:00:00.000000,A\n\n| Em7             | C#m7b5           |\n| C9              |  B7#9           :|,0
 T,-1,5,100,Grey,0:00:11.839416,\n\n,0
-T,-1,5,138,Black,0:00:21.751825,B\n\n| Cmaj7           | D              |\n| Em7             |                |,1
+T,-1,5,288,Black,0:00:21.751825,B\n\n| Cmaj7           | D              |\n| Em7             |                |,1
 T,-1,5,100,Black,0:00:31.766423,\n\n,0
 T,-1,5,100,Black,0:00:41.810219,\n\n,0
 T,-1,5,100,Black,0:00:51.824818,\n\n,0
-T,-1,5,193,Red,0:01:01.839416,C\n\n| Cmaj7       E7/G#  | Am7               |\n| Bmaj7              |               G7  |,1
+T,-1,5,336,Red,0:01:01.839416,C\n\n| Cmaj7       E7/G#  | Am7               |\n|   B7               |               G7  |,1
 T,-1,5,100,Red,0:01:11.897810,\n\n,0
 T,-1,5,100,Black,0:01:21.956204,B\n\n,0
 T,-1,5,100,Black,0:01:31.956204,\n\n,0
 T,-1,5,100,Red,0:01:42.000000,C\n\n,0
 T,-1,5,100,Red,0:01:51.985401,\n\n,0
-T,-1,5,150,DarkRed,0:02:01.927007,D\n\n| Cmaj7          | A7/C#         |\n|  A°            | B7#9          |,1
-T,-1,5,148,DarkRed,0:02:11.839416,\n\n| Em7            | A7/C#          |\n|  A°            | B7#9           |,1
+T,-1,5,280,DarkRed,0:02:01.927007,D\n\n| Em7            | C#m7b5         |\n| C9             |  B7#9          |,1
+T,-1,5,274,DarkRed,0:02:11.839416,\n\n,0
 T,-1,5,100,Grey,0:02:21.751825,A\n\n,0
 T,-1,5,100,Black,0:02:31.635036,B\n\n,0
 T,-1,5,100,Black,0:02:41.664234,\n\n,0
-T,-1,5,84,Black,0:02:51.766423,B (Guitar Solo)\n\n,1
+T,-1,5,120,Black,0:02:51.766423,B (Guitar Solo)\n\n,1
 T,-1,5,100,Black,0:03:01.795620,\n\n,0
 T,-1,5,100,Black,0:03:11.605839,\n\n,0
 T,-1,5,100,Black,0:03:21.576642,\n\n,0
@@ -147,7 +147,7 @@ T,-1,5,100,DarkRed,0:03:51.445255,D\n\n,0
 T,-1,5,100,DarkRed,0:04:01.372263,\n\n,0
 T,-1,5,100,Grey,0:04:11.284672,A\n\n,0
 T,-1,5,100,Grey,0:04:21.270073,\n\n,0
-T,-1,5,78,Black,0:04:31.270073,B (Horn Solo)\n\n,1
+T,-1,5,104,Black,0:04:31.270073,B (Horn Solo)\n\n,1
 T,-1,5,100,Black,0:04:41.197080,\n\n,0
 T,-1,5,100,Black,0:04:51.080292,\n\n,0
 T,-1,5,100,Black,0:05:00.992701,\n\n,0

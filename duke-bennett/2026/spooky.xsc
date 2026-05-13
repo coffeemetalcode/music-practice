@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-05-07 20:23
-WindowSize,10|40|652|1030,1
+SaveDate,2026-05-13 07:08
+WindowSize,0|56|1920|1024,1
 ViewList,1,0,0
 SoundFileName,spooky.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/spooky.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,7374673,44100,20107264,455.94702948
@@ -42,8 +42,8 @@ TVVVideoMirror,0
 TVVVideoVFlip,0
 TVVCropStatus,0
 TVVCropRect,0|0|0|0
-ShowNavbar,0
-NavBarMeasures,1
+ShowNavbar,2
+NavBarMeasures,0
 NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
@@ -51,7 +51,7 @@ ShowGuessChords,0
 ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -63,23 +63,63 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.249985
+TextZoneSplitterPos,0.346824
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.699983
+ViewSplitterPos,0.700090
 VertProfileZoom,1.000000
-HorizProfileZoom,0.500000
-HorizProfilePos,0
-SelectionLeft,493147,0:00:11.182482
-SelectionRight,493147,0:00:11.182482
+HorizProfileZoom,0.125000
+HorizProfilePos,8457
+SelectionLeft,18097477,0:06:50.373626
+SelectionRight,18097477,0:06:50.373626
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,20
+S,-1,1,A1,0,0:00:11.186813,
+S,-1,1,B2,0,0:00:32.131868,
+S,-1,1,C3,0,0:00:53.582418,
+S,-1,1,D4,0,0:01:15.340659,
+S,-1,1,E5,0,0:01:37.230769,
+S,-1,1,F6,0,0:01:59.120879,
+S,-1,1,G7,0,0:02:20.923077,
+S,-1,1,H8,0,0:02:31.736264,
+S,-1,1,I9,0,0:02:53.670330,
+S,-1,1,J10,0,0:03:15.516484,
+S,-1,1,K11,0,0:03:37.010989,
+S,-1,1,L12,0,0:03:58.417582,
+S,-1,1,M13,0,0:04:20.043956,
+S,-1,1,N14,0,0:04:42.153846,
+S,-1,1,O15,0,0:05:03.560440,
+S,-1,1,P16,0,0:05:24.791209,
+S,-1,1,Q17,0,0:05:46.373626,
+S,-1,1,R18,0,0:06:08.043956,
+S,-1,1,S19,0,0:06:29.274725,
+S,-1,1,T20,0,0:06:50.373626,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,0
+Howmany,20
+T,-1,5,100,Grey,0:00:11.186813,(Drums)\n\n,0
+T,-1,5,100,Grey,0:00:32.131868,[A]\n\n,0
+T,-1,5,100,Grey,0:00:53.582418,[A]\n\n,0
+T,-1,5,240,Grey,0:01:15.340659,[A]\n\n| Fm9          | Bb7         |\n| Fm9          | Bb7         |,1
+T,-1,5,240,Black,0:01:37.230769,[B] (Head)\n\n| Fm9          | Bb7         |\n| Fm9          | Bb7         |,1
+T,-1,5,248,Red,0:01:59.120879,[B] (cont)\n\n| Fm9          |              |\n| Bb7          | B°7          |\n| Fm9          | Bb7          |\n| Fm9          | C7#9         |,1
+T,-1,5,136,Black,0:02:20.923077,[B] (Interlude)\n\n,0
+T,-1,5,136,Black,0:02:31.736264,[B] (Head)\n\n,0
+T,-1,5,136,Red,0:02:53.670330,[B] (cont)\n\n,0
+T,-1,5,136,Black,0:03:15.516484,[B] (Horn Solo)\n\n,0
+T,-1,5,136,Black,0:03:37.010989,[B]\n\n,0
+T,-1,5,136,Red,0:03:58.417582,[B] (cont)\n\n,0
+T,-1,5,136,DarkRed,0:04:20.043956,[C] (Interlude)\n\n,0
+T,-1,5,280,Green,0:04:42.153846,[D] (Guitar Solo)\n\n| Abm9           | Db7            |\n| Abm9           | Db7           :|,1
+T,-1,5,136,Black,0:05:03.560440,[B]\n\n,0
+T,-1,5,136,Black,0:05:24.791209,[B] (Head)\n\n,0
+T,-1,5,136,Red,0:05:46.373626,[B] (cont)\n\n,0
+T,-1,5,136,Black,0:06:08.043956,[B] (ad lib)\n\n,0
+T,-1,5,136,Black,0:06:29.274725,[B]\n\n,0
+T,-1,5,136,Red,0:06:50.373626,[B] (Head)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
