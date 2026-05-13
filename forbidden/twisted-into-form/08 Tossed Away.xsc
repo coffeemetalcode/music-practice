@@ -1,11 +1,11 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2025-07-07 06:22
+SaveDate,2026-05-01 09:56
 WindowSize,100|100|2560|1410,1
 ViewList,1,0,0
-SoundFileName,08 Tossed Away.opus,Nix,/media/coffeemetalcode/3a94eb9b-66c8-4249-baf3-f492a8c602c5/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/08 Tossed Away.opus
+SoundFileName,08 Tossed Away.opus,Nix,/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/08 Tossed Away.opus
 SoundFileInfo,GStreamer soundfile,'.opus',2,4358601,48000,13222080,275.46
 SubtitleFontSize,15
 SubtitleTopAlign,0
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -66,8 +69,8 @@ ViewSplitterPos,0.809893
 VertProfileZoom,1.000000
 HorizProfileZoom,0.181460
 HorizProfilePos,0
-SelectionLeft,1385693,0:00:28.868602
-SelectionRight,1385693,0:00:28.868602
+SelectionLeft,922928,0:00:19.227660
+SelectionRight,922928,0:00:19.227660
 SectionEnd,View0
 
 SectionStart,Markers
@@ -151,5 +154,5 @@ SectionEnd,Loops
 
 SectionStart,SeparateStemFiles
 ShowStemSelector,0
-StemFile,08 Tossed Away.opus,Stem 1,/media/coffeemetalcode/3a94eb9b-66c8-4249-baf3-f492a8c602c5/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/08 Tossed Away.opus
+StemFile,08 Tossed Away.opus,Stem 1,/home/coffeemetalcode/Music/music-practice/forbidden/twisted-into-form/08 Tossed Away.opus
 SectionEnd,SeparateStemFiles

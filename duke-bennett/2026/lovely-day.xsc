@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,51,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-04-02 06:01
+SaveDate,2026-05-09 21:02
 WindowSize,10|40|652|1030,1
 ViewList,1,0,0
 SoundFileName,lovely-day.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/lovely-day.m4a
@@ -25,7 +25,7 @@ FX_Mix,0,0,100,0
 FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,100000,0
+FX_Speed,0,0,80000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -63,14 +63,14 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.416740
+TextZoneSplitterPos,0.435643
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700105
+ViewSplitterPos,0.713049
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,17272
-SelectionLeft,11690041,0:04:25.080292
-SelectionRight,11690041,0:04:25.080292
+HorizProfilePos,14395
+SelectionLeft,2618961,0:00:59.386861
+SelectionRight,2618961,0:00:59.386861
 SectionEnd,View0
 
 SectionStart,Markers
@@ -108,10 +108,10 @@ SectionEnd,Markers
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,27
-T,-1,5,342,Grey,0:00:10.394161,A (Intro)\n\n\n| Ebmaj7           |  Cm7            |\n| Amaj7            | Cbmaj7   Bb7    |,1
-T,-1,5,342,Black,0:00:20.189781,B (Head)\n\n\n| Ebmaj7           | Cm7             |\n| Amaj7            |      Cbmaj7 Bb7 |,1
-T,-1,5,360,Black,0:00:29.985401,B1\n\n\n| Ebmaj7           |  Cm7            |\n| Amaj7            | Cbmaj7      Bb7 |  ,1
-T,-1,5,387,Red,0:00:39.781022,C\n\n\n| Cbmaj9/D            | Ebmaj7            |\n|   Abm7              |  Bbm7             |,1
+T,-1,5,178,Grey,0:00:10.394161,A (Intro)\n\n\n| Ebmaj7           |  Cm7            |\n| Amaj7            | Cbmaj7   Bb7    |,1
+T,-1,5,178,Black,0:00:20.189781,B (Head)\n\n\n| Ebmaj7           | Cm7             |\n| Amaj7            |      Cbmaj7 Bb7 |,1
+T,-1,5,184,Black,0:00:29.985401,B1\n\n\n| Ebmaj7           |  Cm7            |\n| Amaj7            | Cbmaj7      Bb7 |  ,1
+T,-1,5,192,Red,0:00:39.781022,C\n\n\n| Cbmaj9/D            | Ebmaj7            |\n|   Abm7              |  Bbm7             |,1
 T,-1,5,253,Red,0:00:49.591241,\n\n\n,0
 T,-1,5,253,Black,0:00:59.386861,B1\n\n\n,0
 T,-1,5,253,Black,0:01:09.197080,B1\n\n\n,0

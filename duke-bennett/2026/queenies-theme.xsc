@@ -2,11 +2,11 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-05-08 19:54
-WindowSize,10|40|652|1030,1
+SaveDate,2026-05-13 06:05
+WindowSize,10|10|1920|1048,1
 ViewList,1,0,0
-SoundFileName,never-too-much.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/never-too-much.m4a
-SoundFileInfo,GStreamer soundfile,'.m4a',2,3928448,44100,10710016,242.85750567
+SoundFileName,queenies-theme.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/queenies-theme.m4a
+SoundFileInfo,GStreamer soundfile,'.m4a',2,5008444,44100,13655040,309.63809524
 SubtitleFontSize,15
 SubtitleTopAlign,0
 SubtitleDeltaX,0
@@ -16,13 +16,13 @@ SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
-MarkerAutoMeasure,0
+MarkerAutoMeasure,1
 MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,0
-FX_Tuning,0,0,0,-1,0,0,60,50,0,440
+FX_Tuning,0,0,0,0,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
 FX_Speed,1,0,100000,0
@@ -42,7 +42,7 @@ TVVVideoMirror,0
 TVVVideoVFlip,0
 TVVCropStatus,0
 TVVCropRect,0|0|0|0
-ShowNavbar,0
+ShowNavbar,2
 NavBarMeasures,1
 NavBarMeasuresMenu,1
 ShowSpectrum,0
@@ -51,7 +51,7 @@ ShowGuessChords,0
 ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
-ShowLoopLine,0
+ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
@@ -59,27 +59,57 @@ TimelineOffset,0:00:00.000000
 LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
-PianoBtmNote,38
-PianoTopNote,93
+PianoBtmNote,37
+PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.261326
+TextZoneSplitterPos,0.387966
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.712919
+ViewSplitterPos,0.700000
 VertProfileZoom,1.000000
-HorizProfileZoom,0.500000
-HorizProfilePos,0
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfileZoom,0.250000
+HorizProfilePos,12173
+SelectionLeft,12222000,0:04:37.142857
+SelectionRight,12222000,0:04:37.142857
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,0
+Howmany,15
+S,-1,1,A1,0,0:00:00.505495,
+S,-1,1,B2,0,0:01:00.285714,
+S,-1,1,C3,0,0:01:11.186813,
+S,-1,1,D4,0,0:01:32.989011,
+S,-1,1,E5,0,0:01:43.956044,
+S,-1,1,F6,0,0:02:05.714286,
+S,-1,1,G7,0,0:02:16.615385,
+S,-1,1,H8,0,0:02:27.582418,
+S,-1,1,I9,0,0:02:49.384615,
+S,-1,1,J10,0,0:03:11.230769,
+S,-1,1,K11,0,0:03:33.010989,
+S,-1,1,L12,0,0:03:42.637363,
+S,-1,1,M13,0,0:03:53.494505,
+S,-1,1,N14,0,0:04:15.318681,
+S,-1,1,O15,0,0:04:37.142857,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
-TextBlockFont,80,12,,
-Howmany,0
+TextBlockFont,70,10,Hack,.
+Howmany,15
+T,-1,5,584,Grey,0:00:00.505495,[A]\n\n| Fmaj7                           |            Em7                      |\n| Fmaj7                           |            Em7                     :|,1
+T,-1,5,400,Black,0:01:00.285714,[B]\n\n| Fmaj7      Em7       |          Fmaj7          |\n| Fmaj7      Em7       |          Fmaj7         :|,0
+T,-1,5,400,Black,0:01:11.186813,[B] (Head)\n\n,0
+T,-1,5,400,Black,0:01:32.989011,[B] (Interlude)\n\n,0
+T,-1,5,400,Black,0:01:43.956044,[B] (Head)\n\n,0
+T,-1,5,400,Black,0:02:05.714286,[B] (Interlude)\n\n,0
+T,-1,5,400,Red,0:02:16.615385,[C]\n\n|: Fmaj7              |           Em7  Fmaj7  |\n|                     |           Em7  Fmaj7 :|,0
+T,-1,5,400,Red,0:02:27.582418,[C]\n\n,0
+T,-1,5,400,Red,0:02:49.384615,[C]\n\n,0
+T,-1,5,400,Red,0:03:11.230769,[C]\n\n,0
+T,-1,5,400,Red,0:03:33.010989,[C]\n\n,0
+T,-1,5,400,Black,0:03:42.637363,[B]\n\n,0
+T,-1,5,400,Black,0:03:53.494505,[B] (Head)\n\n,0
+T,-1,5,400,Black,0:04:15.318681,[B] (Interlude)\n\n,0
+T,-1,5,400,Black,0:04:37.142857,[B] (ad lib)\n\n,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
@@ -109,5 +139,5 @@ SectionEnd,Loops
 
 SectionStart,SeparateStemFiles
 ShowStemSelector,0
-StemFile,never-too-much.m4a,Stem 1,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/never-too-much.m4a
+StemFile,queenies-theme.m4a,Stem 1,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/queenies-theme.m4a
 SectionEnd,SeparateStemFiles

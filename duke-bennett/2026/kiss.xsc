@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,0
 
 SectionStart,Main
-SaveDate,2026-04-02 05:37
-WindowSize,10|40|652|1030,1
+SaveDate,2026-04-20 19:53
+WindowSize,0|30|1920|1050,1
 ViewList,1,0,0
 SoundFileName,kiss.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/kiss.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,1889766,44100,5150720,116.79637188
@@ -68,9 +68,9 @@ PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.785600
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,2035
-SelectionLeft,1909498,0:00:43.299270
-SelectionRight,1909498,0:00:43.299270
+HorizProfilePos,6085
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
