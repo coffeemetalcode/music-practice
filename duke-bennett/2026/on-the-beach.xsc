@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,51,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-04-24 20:36
+SaveDate,2026-05-13 20:56
 WindowSize,0|30|1920|1050,1
 ViewList,1,0,0
 SoundFileName,on-the-beach.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/on-the-beach.m4a
@@ -13,7 +13,7 @@ SubtitleDeltaX,0
 SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
-Loops,1135012:330267,1795546:330911,3116615:330911,6748909:661822,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,1135012:330267,1795546:330911,3116615:330911,6748909:661822,10054800:329538,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -25,7 +25,7 @@ FX_Mix,0,0,100,0
 FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,90000,0
+FX_Speed,1,0,80000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -63,14 +63,14 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.452491
+TextZoneSplitterPos,0.452669
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.792420
+ViewSplitterPos,0.792603
 VertProfileZoom,1.000000
-HorizProfileZoom,0.500000
-HorizProfilePos,10747
-SelectionLeft,7410088,0:02:48.029197
-SelectionRight,7410088,0:02:48.029197
+HorizProfileZoom,0.250000
+HorizProfilePos,0
+SelectionLeft,143566,0:00:03.255474
+SelectionRight,143566,0:00:03.255474
 SectionEnd,View0
 
 SectionStart,Markers
@@ -113,16 +113,16 @@ SectionEnd,Markers
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,33
-T,-1,5,387,Grey,0:00:03.255474,A\n\n\n| Fm7 (N.C.)         |                    |,1
+T,-1,5,344,Grey,0:00:03.255474,A\n\n\n| Fm7 (N.C.)         |                    |,1
 T,-1,5,307,Grey,0:00:10.744526,Riff\n\n\n,0
 T,-1,5,307,Grey,0:00:18.248175,\n\n\n,0
-T,-1,5,342,Grey,0:00:25.737226,A1\n\n\n| Fm9             |  Fm9             |\n| Dbmaj7          | C7#9             |,1
+T,-1,5,304,Grey,0:00:25.737226,A1\n\n\n| Fm9             |  Fm9             |\n| Dbmaj7          | C7#9             |,1
 T,-1,5,307,Grey,0:00:33.211679,\n\n\n,0
-T,-1,5,342,Black,0:00:40.715328,B\n\n\n| Fm9           | Gm7b5    C7#9      |\n| Fm9           | Gm7b5    C7#9      |,1
+T,-1,5,304,Black,0:00:40.715328,B\n\n\n| Fm9           | Gm7b5    C7#9      |\n| Fm9           | Gm7b5    C7#9      |,1
 T,-1,5,307,Black,0:00:48.204380,Verse (B)\n\n\n,0
 T,-1,5,307,Black,0:00:55.722628,(B)\n\n\n,0
 T,-1,5,307,Black,0:01:03.182482,(B)\n\n\n,0
-T,-1,5,288,Red,0:01:10.671533,C\n\n\n|  Bbm7         | Cm7          |\n| Dbmaj7        | Eb           |,1
+T,-1,5,256,Red,0:01:10.671533,C\n\n\n|  Bbm7         | Cm7          |\n| Dbmaj7        | Eb           |,1
 T,-1,5,307,Grey,0:01:18.160584,Chorus (A1)\n\n\n,0
 T,-1,5,307,Grey,0:01:25.635036,\n\n\n,0
 T,-1,5,307,Black,0:01:33.080292,Verse (B)\n\n\n,0
@@ -133,11 +133,11 @@ T,-1,5,307,Grey,0:02:03.080292,Chorus (A1)\n\n\n,0
 T,-1,5,307,Grey,0:02:10.583942,(A1)\n\n\n,0
 T,-1,5,307,Grey,0:02:18.087591,(A1)\n\n\n,0
 T,-1,5,307,Grey,0:02:25.547445,(A1)\n\n\n,0
-T,-1,5,261,DarkRed,0:02:33.036496,Interlude (D)\n\n\n| Dbm9        | Abm7        |\n| Dbm9        | Abm7        |,1
-T,-1,5,261,DarkRed,0:02:40.540146,\n\n\n| Dbm9        | Abm7        |\n| Dbm9        | Bbm7  C7#9  |,1
+T,-1,5,232,DarkRed,0:02:33.036496,Interlude (D)\n\n\n| Dbm9        | Abm7        |\n| Dbm9        | Abm7        |,1
+T,-1,5,232,DarkRed,0:02:40.540146,\n\n\n| Dbm9        | Abm7        |\n| Dbm9        | Bbm7  C7#9  |,1
 T,-1,5,307,Black,0:02:48.029197,Verse (B)\n\n\n,0
-T,-1,5,342,Black,0:02:55.518248,(B1)\n\n\n|  Fm9           |  Eb7     Ab7      |\n| Dmaj7          | C7#9              |,1
-T,-1,5,351,Black,0:03:03.036496,(B2)\n\n\n| Fm9              | C7#9             |\n| Fm9              | C7#9             |,1
+T,-1,5,304,Black,0:02:55.518248,(B1)\n\n\n|  Fm9           |  Eb7     Ab7      |\n| Dmaj7          | C7#9              |,1
+T,-1,5,312,Black,0:03:03.036496,(B2)\n\n\n| Fm9              | C7#9             |\n| Fm9              | C7#9             |,1
 T,-1,5,307,Red,0:03:10.467153,(C)\n\n\n,0
 T,-1,5,307,Grey,0:03:18.029197,Chorus (A1)\n\n\n,0
 T,-1,5,307,Grey,0:03:25.503650,(A1)\n\n\n,0
@@ -150,12 +150,12 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-MostRecent,3
+MostRecent,4
 L,1,1,1135012,330267,A1,White,,0:00:25.737226,0:00:07.489051
 L,2,1,1795546,330911,B,White,,0:00:40.715328,0:00:07.503650
 L,3,1,3116615,330911,C,White,,0:01:10.671533,0:00:07.503649
 L,4,1,6748909,661822,D,White,,0:02:33.036496,0:00:15.007300
-L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,5,1,10054800,329538,,White,,0:03:48.000000,0:00:07.472527
 L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,8,0,0,0,,White,,0:00:00.000000,0:00:00.000000
