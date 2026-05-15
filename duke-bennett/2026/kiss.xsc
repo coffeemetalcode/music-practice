@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,51,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-04-20 19:53
+SaveDate,2026-05-14 19:42
 WindowSize,0|30|1920|1050,1
 ViewList,1,0,0
 SoundFileName,kiss.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/kiss.m4a
@@ -13,7 +13,7 @@ SubtitleDeltaX,0
 SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
-Loops,2383975:1535453,1249607:753885,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+Loops,2383975:1535453,1249607:753885,0:0,1249607:2668023,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
 MarkerAutoMeasure,0
@@ -25,7 +25,7 @@ FX_Mix,0,0,100,0
 FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,100000,0
+FX_Speed,1,0,80000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -63,14 +63,14 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.435957
+TextZoneSplitterPos,0.457301
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.785600
+ViewSplitterPos,0.808202
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,6085
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfilePos,4541
+SelectionLeft,1249607,0:00:28.335766
+SelectionRight,3917631,0:01:28.835165
 SectionEnd,View0
 
 SectionStart,Markers
@@ -92,10 +92,10 @@ SectionEnd,Markers
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,12
-T,-1,5,171,Grey,0:00:02.744526,Verse (A)\n\n| A7         | (4×),1
-T,-1,5,153,Black,0:00:11.328467,\n\n| D7       | (4×),1
+T,-1,5,152,Grey,0:00:02.744526,Verse (A)\n\n| A7         | (4×),1
+T,-1,5,136,Black,0:00:11.328467,\n\n| D7       | (4×),1
 T,-1,5,100,Grey,0:00:19.839416,\n\n,0
-T,-1,5,243,Red,0:00:28.335766,Chorus (B)\n\n| E7         | D7         |\n| E7         | D7         |,1
+T,-1,5,216,Red,0:00:28.335766,Chorus (B)\n\n| E7         | D7         |\n| E7         | D7         |,1
 T,-1,5,135,Red,0:00:43.299270,\n\n| E7b9       ||,0
 T,-1,5,151,Grey,0:00:45.430657,\n\n,0
 T,-1,5,151,Grey,0:00:54.058394,A\n\n,0
@@ -108,11 +108,11 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
-MostRecent,0
+MostRecent,3
 L,1,1,2383975,1535453,A,White,,0:00:54.058394,0:00:34.817518
 L,2,1,1249607,753885,B,White,,0:00:28.335766,0:00:17.094891
 L,3,0,0,0,,White,,0:00:00.000000,0:00:00.000000
-L,4,0,0,0,,White,,0:00:00.000000,0:00:00.000000
+L,4,1,1249607,2668023,Full Sequence,White,,0:00:28.335766,0:01:00.499399
 L,5,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,6,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,7,0,0,0,,White,,0:00:00.000000,0:00:00.000000
