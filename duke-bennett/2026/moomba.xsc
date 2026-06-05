@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-05-12 21:12
-WindowSize,0|56|1920|1024,1
+SaveDate,2026-05-17 14:12
+WindowSize,0|32|952|1020,0
 ViewList,1,0,0
 SoundFileName,moomba.m4a,Nix,/home/coffeemetalcode/Music/music-practice/duke-bennett/2026/moomba.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,4844910,44100,13208576,299.51419501
@@ -67,8 +67,8 @@ TextZoneSplitterPos,0.471089
 PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.787338
 VertProfileZoom,1.000000
-HorizProfileZoom,0.500000
-HorizProfilePos,6551
+HorizProfileZoom,0.250000
+HorizProfilePos,248
 SelectionLeft,476409,0:00:10.802920
 SelectionRight,476409,0:00:10.802920
 SectionEnd,View0
@@ -113,13 +113,13 @@ SectionEnd,Markers
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
 Howmany,33
-T,-1,5,143,Grey,0:00:10.802920,A\n\n(N.C.)\n\nBass:\n| B       D       | A        G        |\n| B       D       | A        G        |,1
+T,-1,5,312,Grey,0:00:10.802920,A\n\n(N.C.)\n\nBass:\n| B       D       | A        G        |\n| B       D       | A        G        |,1
 T,-1,5,272,Grey,0:00:19.664234,A\n\n\n,0
-T,-1,5,150,Grey,0:00:28.496350,(A1)\n\n\n| Bm      D        | A       G        |\n| Bm      D        | A       G        |,1
+T,-1,5,312,Grey,0:00:28.496350,(A1)\n\n\n| Bm      D        | A       G        |\n| Bm      D        | A       G        |,1
 T,-1,5,272,Grey,0:00:37.313869,(A1)\n\n\n,0
 T,-1,5,272,Grey,0:00:46.058394,(A1)\n\n\n,0
 T,-1,5,272,Grey,0:00:54.934307,(A1)\n\n\n,0
-T,-1,5,146,Black,0:01:03.766423,B\n\n| Em7               |                   |\n| F#m7              |                   |,1
+T,-1,5,328,Black,0:01:03.766423,B\n\n| Em7               |                   |\n| F#m7              |                   |,1
 T,-1,5,369,Black,0:01:12.569343,B1\n\n|  Em7              |  A7               |\n| Dmaj7             | F7#9              |,0
 T,-1,5,272,Grey,0:01:21.343066,(A1)\n\n\n,0
 T,-1,5,272,Grey,0:01:30.145985,(A1)\n\n\n,0
@@ -140,7 +140,7 @@ T,-1,5,333,Grey,0:03:33.474453,(A1)\n\n\n,0
 T,-1,5,333,Grey,0:03:42.350365,(A1)\n\n\n,0
 T,-1,5,369,Black,0:03:51.167883,(B)\n\n\n,0
 T,-1,5,369,Black,0:03:59.883212,(B1)\n\n\n,0
-T,-1,5,127,DarkRed,0:04:08.656934,D\n\n\n| Em7  N.C.     |              |,1
+T,-1,5,256,DarkRed,0:04:08.656934,D\n\n\n| Em7  N.C.     |              |,1
 T,-1,5,369,Grey,0:04:13.109489,(A1)\n\n\n\n,0
 T,-1,5,369,Grey,0:04:21.912409,(A1)\n\n\n,0
 T,-1,5,369,Grey,0:04:30.744526,(A1)\n\n\n,0
