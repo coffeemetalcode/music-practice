@@ -1,8 +1,8 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-03-23 20:25
+SaveDate,2026-06-07 10:32
 WindowSize,319|943|1280|676,1
 ViewList,1,0,0
 SoundFileName,only-full.m4a,Nix,/home/coffeemetalcode/Music/music-practice/anthrax/only-full.m4a
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -64,15 +67,16 @@ TextZoneSplitterPos,0.254204
 PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.699085
 VertProfileZoom,1.000000
-HorizProfileZoom,0.432040
-HorizProfilePos,12820
-SelectionLeft,10246877,0:03:52.355479
-SelectionRight,10246877,0:03:52.355479
+HorizProfileZoom,0.216020
+HorizProfilePos,9741
+SelectionLeft,12297099,0:04:38.845772
+SelectionRight,12297099,0:04:38.845772
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,16
-S,-1,1,A1,0,0:00:08.890511,
+Howmany,38
+S,-1,1,A1,0,0:00:00.292504,
+S,-1,1,B2,0,0:00:08.890511,
 B,-1,1,,0,0:00:09.585714,
 B,-1,1,,0,0:00:10.101179,
 B,-1,1,,0,0:00:10.641519,
@@ -88,12 +92,54 @@ B,-1,1,,0,0:00:15.525147,
 B,-1,1,,0,0:00:16.041859,
 B,-1,1,,0,0:00:16.586644,
 B,-1,1,,0,0:00:17.099864,
+S,-1,1,C3,0,0:00:17.601138,
+S,-1,1,D4,0,0:00:34.833466,
+S,-1,1,E5,0,0:00:45.605260,
+S,-1,1,F6,0,0:00:56.364337,
+S,-1,1,G7,0,0:01:07.199720,
+S,-1,1,H8,0,0:01:28.794180,
+S,-1,1,I9,0,0:01:48.201215,
+S,-1,1,J10,0,0:01:58.985727,
+S,-1,1,K11,0,0:02:09.795674,
+S,-1,1,L12,0,0:02:31.441004,
+S,-1,1,M13,0,0:02:50.873474,
+S,-1,1,N14,0,0:02:59.470562,
+S,-1,1,O15,0,0:03:08.118520,
+S,-1,1,P16,0,0:03:16.791913,
+S,-1,1,Q17,0,0:03:25.363565,
+S,-1,1,R18,0,0:03:34.011523,
+S,-1,1,S19,0,0:03:42.659481,
+B,-1,1,,0,0:03:59.929962,
+S,-1,1,T20,0,0:03:59.980832,
+S,-1,1,U21,0,0:04:19.387867,
+S,-1,1,V22,0,0:04:38.845772,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,1
-T,-1,5,100,Grey,0:00:08.890511,,0
+Howmany,22
+T,-1,5,100,Grey,0:00:00.292504,Intro,0
+T,-1,5,100,Grey,0:00:08.890511,Guitars + Bass in,0
+T,-1,5,100,Grey,0:00:17.601138,Ref: Chorus,0
+T,-1,5,100,Grey,0:00:34.833466,,0
+T,-1,5,100,Black,0:00:45.605260,Verse,0
+T,-1,5,100,Black,0:00:56.364337,,0
+T,-1,5,100,Red,0:01:07.199720,Pre-Chorus,0
+T,-1,5,100,DarkRed,0:01:28.794180,Chorus,0
+T,-1,5,100,Black,0:01:48.201215,Verse,0
+T,-1,5,100,Black,0:01:58.985727,,0
+T,-1,5,100,Red,0:02:09.795674,Pre-Chorus,0
+T,-1,5,100,DarkRed,0:02:31.441004,Chorus,0
+T,-1,5,100,Green,0:02:50.873474,Interlude,0
+T,-1,5,100,DarkGreen,0:02:59.470562,Guitar Solo,0
+T,-1,5,100,Blue,0:03:08.118520,,0
+T,-1,5,100,DarkGreen,0:03:16.791913,,0
+T,-1,5,100,DarkBlue,0:03:25.363565,,0
+T,-1,5,100,DarkBlue,0:03:34.011523,,0
+T,-1,5,100,DarkRed,0:03:42.659481,Chorus,0
+T,-1,5,100,DarkRed,0:03:59.980832,,0
+T,-1,5,100,DarkRed,0:04:19.387867,Second guitar: w/ Pre-Chorus riff,0
+T,-1,5,100,Blue,0:04:38.845772,Outro,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops

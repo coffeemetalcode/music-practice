@@ -2,11 +2,11 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-06-07 10:06
-WindowSize,7|8|1440|794,1
+SaveDate,2026-06-07 10:18
+WindowSize,0|32|952|1020,1
 ViewList,1,0,0
-SoundFileName,holy-wars-iso-drums.mp3,Nix,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/01 - Holy Wars...the Punishment Due/holy-wars-iso-drums.mp3
-SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Bitrate 192K),2,9493732,44100,17444736,395.5722449
+SoundFileName,only-iso-drums.m4a,Nix,/home/coffeemetalcode/Music/music-practice/anthrax/only-iso-drums.m4a
+SoundFileInfo,GStreamer soundfile,'.m4a',2,1809212,44100,13103104,297.12253968
 SubtitleFontSize,15
 SubtitleTopAlign,0
 SubtitleDeltaX,0
@@ -16,16 +16,16 @@ SynchronizeViews,1
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,1
 MarkerAutoSection,0
-MarkerAutoMeasure,0
+MarkerAutoMeasure,1
 MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,0
-FX_Tuning,0,0,0,-1,0,0,60,50,0,440
+FX_Tuning,0,0,0,0,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,0,0,90000,0
+FX_Speed,1,0,100000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -42,7 +42,7 @@ TVVVideoMirror,0
 TVVVideoVFlip,0
 TVVCropStatus,0
 TVVCropRect,0|0|0|0
-ShowNavbar,0
+ShowNavbar,2
 NavBarMeasures,1
 NavBarMeasuresMenu,1
 ShowSpectrum,0
@@ -59,63 +59,57 @@ TimelineOffset,0:00:00.000000
 LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
-PianoBtmNote,38
-PianoTopNote,93
+PianoBtmNote,37
+PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.477409
+TextZoneSplitterPos,0.388189
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.708482
+ViewSplitterPos,0.700161
 VertProfileZoom,1.000000
-HorizProfileZoom,0.216020
-HorizProfilePos,13636
-SelectionLeft,16916222,0:06:23.587804
-SelectionRight,16916222,0:06:23.587804
+HorizProfileZoom,0.250000
+HorizProfilePos,11603
+SelectionLeft,12299538,0:04:38.901099
+SelectionRight,12299538,0:04:38.901099
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,20
-S,-1,1,A1,0,0:00:00.000000,
-S,-1,1,B2,0,0:00:27.698900,
-S,-1,1,C3,0,0:00:47.792685,
-S,-1,1,D4,0,0:01:10.531727,
-S,-1,1,E5,0,0:01:30.574642,
-S,-1,1,F6,0,0:01:53.313684,
-S,-1,1,G7,0,0:02:17.349920,
-S,-1,1,H8,0,0:02:28.617700,
-S,-1,1,I9,0,0:02:44.005978,
-S,-1,1,J10,0,0:02:59.343386,
-S,-1,1,K11,0,0:03:14.731664,
-S,-1,1,L12,0,0:03:30.018201,
-S,-1,1,M13,0,0:03:45.864313,
-S,-1,1,N14,0,0:03:53.596604,
-S,-1,1,O15,0,0:04:08.883142,
-S,-1,1,P16,0,0:04:24.195114,
-S,-1,1,Q17,0,0:04:39.583392,
-S,-1,1,R18,0,0:04:58.354548,
-S,-1,1,S19,0,0:05:43.196753,
-S,-1,1,T20,0,0:06:23.587804,
+Howmany,15
+S,-1,1,A1,0,0:00:00.329670,
+S,-1,1,B2,0,0:00:08.945055,
+S,-1,1,C3,0,0:00:45.626374,
+S,-1,1,D4,0,0:01:07.208791,
+S,-1,1,E5,0,0:01:28.835165,
+S,-1,1,F6,0,0:01:48.263736,
+S,-1,1,G7,0,0:02:09.824176,
+S,-1,1,H8,0,0:02:31.450549,
+S,-1,1,I9,0,0:02:50.901099,
+S,-1,1,J10,0,0:02:59.516484,
+S,-1,1,K11,0,0:03:25.428571,
+S,-1,1,L12,0,0:03:42.725275,
+S,-1,1,M13,0,0:04:00.000000,
+S,-1,1,N14,0,0:04:19.406593,
+S,-1,1,O15,0,0:04:38.901099,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
 TextBlockFont,80,12,,
-Howmany,16
-T,-1,5,100,Grey,0:00:00.000000,Intro,0
-T,-1,5,100,Grey,0:00:47.792685,Interlude (Mustaine),0
-T,-1,5,100,Grey,0:01:10.531727,,0
-T,-1,5,100,Grey,0:01:30.574642,Verse,0
-T,-1,5,100,Grey,0:02:17.349920,Guitar Solo (Friedman),0
-T,-1,5,100,Grey,0:02:28.617700,Bridge,0
-T,-1,5,100,Grey,0:02:44.005978,Interlude,0
-T,-1,5,100,Grey,0:02:59.343386,Verse,0
-T,-1,5,100,Grey,0:03:30.018201,Guitar Solo (Friedman),0
-T,-1,5,100,Grey,0:03:45.864313,Interlude,0
-T,-1,5,100,Grey,0:03:53.596604,Verse,0
-T,-1,5,100,Grey,0:04:24.195114,Guitar Solo (Friedman),0
-T,-1,5,100,Grey,0:04:39.583392,Interlude (Tempo 1),0
-T,-1,5,100,Grey,0:04:58.354548,Guitar Solo (Mustaine),0
-T,-1,5,100,Grey,0:05:43.196753,Verse,0
-T,-1,5,100,Grey,0:06:23.587804,Outro,0
+Howmany,15
+T,-1,5,100,Grey,0:00:00.329670,Intro,0
+T,-1,5,100,Grey,0:00:08.945055,Guitars + Bass in,0
+T,-1,5,100,Grey,0:00:45.626374,Verse,0
+T,-1,5,100,Grey,0:01:07.208791,Pre-Chorus,0
+T,-1,5,100,Grey,0:01:28.835165,Chorus,0
+T,-1,5,100,Grey,0:01:48.263736,Verse,0
+T,-1,5,100,Grey,0:02:09.824176,Pre-Chorus,0
+T,-1,5,100,Grey,0:02:31.450549,Chorus,0
+T,-1,5,100,Grey,0:02:50.901099,Interlude,0
+T,-1,5,100,Grey,0:02:59.516484,Guitar Solo (Spitz),0
+T,-1,5,100,Grey,0:03:25.428571,Guitar Solo (Cont.) (over Chorus sec.),0
+T,-1,5,100,Grey,0:03:42.725275,Chorus,0
+T,-1,5,100,Grey,0:04:00.000000,Chorus,0
+T,-1,5,100,Grey,0:04:19.406593,Outro-Chorus,0
+T,-1,5,100,Grey,0:04:38.901099,Outro,0
 SectionEnd,TextBlocks
 
 SectionStart,Loops
@@ -145,5 +139,5 @@ SectionEnd,Loops
 
 SectionStart,SeparateStemFiles
 ShowStemSelector,0
-StemFile,holy-wars-iso-drums.mp3,Stem 1,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/01 - Holy Wars...the Punishment Due/holy-wars-iso-drums.mp3
+StemFile,only-iso-drums.m4a,Stem 1,/home/coffeemetalcode/Music/music-practice/anthrax/only-iso-drums.m4a
 SectionEnd,SeparateStemFiles
