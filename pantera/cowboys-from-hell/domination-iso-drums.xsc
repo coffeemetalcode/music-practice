@@ -2,7 +2,7 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-06-07 10:48
+SaveDate,2026-06-08 19:56
 WindowSize,0|32|952|1020,1
 ViewList,1,0,0
 SoundFileName,domination-iso-drums.mp3,Nix,/home/coffeemetalcode/Music/music-practice/pantera/cowboys-from-hell/domination-iso-drums.mp3
@@ -56,16 +56,16 @@ FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 TimelineOffset,0:00:00.000000
-LoopMode,1
+LoopMode,0
 LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,37
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.387990
+TextZoneSplitterPos,0.388014
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700017
+ViewSplitterPos,0.700034
 VertProfileZoom,1.000000
 HorizProfileZoom,0.125000
 HorizProfilePos,0

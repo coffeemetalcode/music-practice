@@ -2,7 +2,7 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-06-07 10:18
+SaveDate,2026-06-08 19:51
 WindowSize,0|32|952|1020,1
 ViewList,1,0,0
 SoundFileName,only-iso-drums.m4a,Nix,/home/coffeemetalcode/Music/music-practice/anthrax/only-iso-drums.m4a
@@ -56,21 +56,21 @@ FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 TimelineOffset,0:00:00.000000
-LoopMode,1
+LoopMode,0
 LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,37
 PianoTopNote,91
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.388189
+TextZoneSplitterPos,0.388213
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.700161
+ViewSplitterPos,0.700178
 VertProfileZoom,1.000000
 HorizProfileZoom,0.250000
 HorizProfilePos,11603
-SelectionLeft,12299538,0:04:38.901099
-SelectionRight,12299538,0:04:38.901099
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers

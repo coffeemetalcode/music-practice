@@ -1,9 +1,9 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-02-23 18:59
-WindowSize,0|30|1920|1026,1
+SaveDate,2026-06-10 06:09
+WindowSize,100|100|1920|1024,1
 ViewList,1,0,0
 SoundFileName,domination.mp3,Nix,/home/coffeemetalcode/Music/music-practice/pantera/cowboys-from-hell/domination.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,5206509,48000,14656896,305.352
@@ -22,10 +22,10 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0,440
+FX_Tuning,0,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,95000,0
+FX_Speed,1,0,50000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -57,7 +60,7 @@ LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,38
-PianoTopNote,93
+PianoTopNote,92
 PianoRollBtmNote,24
 PianoRollTopNote,96
 TextZoneSplitterPos,0.257578
@@ -65,9 +68,9 @@ PianoRollSplitterPos,0.500000
 ViewSplitterPos,0.708590
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,19001
-SelectionLeft,55708,0:00:01.160584
-SelectionRight,55708,0:00:01.160584
+HorizProfilePos,22625
+SelectionLeft,12235445,0:04:14.905109
+SelectionRight,12235445,0:04:14.905109
 SectionEnd,View0
 
 SectionStart,Markers

@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-06-07 10:06
-WindowSize,7|8|1440|794,1
+SaveDate,2026-06-08 19:31
+WindowSize,0|56|1920|1024,1
 ViewList,1,0,0
 SoundFileName,holy-wars-iso-drums.mp3,Nix,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/01 - Holy Wars...the Punishment Due/holy-wars-iso-drums.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Bitrate 192K),2,9493732,44100,17444736,395.5722449
@@ -56,21 +56,21 @@ FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 TimelineOffset,0:00:00.000000
-LoopMode,1
+LoopMode,0
 LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.477409
+TextZoneSplitterPos,0.477438
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.708482
+ViewSplitterPos,0.708500
 VertProfileZoom,1.000000
-HorizProfileZoom,0.216020
-HorizProfilePos,13636
-SelectionLeft,16916222,0:06:23.587804
-SelectionRight,16916222,0:06:23.587804
+HorizProfileZoom,0.108010
+HorizProfilePos,5860
+SelectionLeft,0,0:00:00.000000
+SelectionRight,0,0:00:00.000000
 SectionEnd,View0
 
 SectionStart,Markers
