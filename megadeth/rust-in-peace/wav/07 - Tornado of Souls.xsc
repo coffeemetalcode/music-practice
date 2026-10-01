@@ -1,9 +1,9 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2025-11-06 20:29
-WindowSize,0|30|2560|1386,1
+SaveDate,2026-09-28 17:57
+WindowSize,0|32|1920|1024,1
 ViewList,1,0,0
 SoundFileName,07 - Tornado of Souls.wav,Nix,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/07 - Tornado of Souls.wav
 SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,62037618,48000,15509385,323.1121875
@@ -25,8 +25,8 @@ FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,100000,0
-FX_Misc,1,0,75,0,80,0
+FX_Speed,1,0,50000,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,1
+DeblurSubtitles,0
 TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -53,26 +56,41 @@ FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
 TimelineOffset,0:00:00.000000
-LoopMode,0
+LoopMode,1
 LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,39
 PianoTopNote,90
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.425796
+TextZoneSplitterPos,0.417876
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.824005
+ViewSplitterPos,0.814191
 VertProfileZoom,1.000000
 HorizProfileZoom,0.078563
-HorizProfilePos,1562
-SelectionLeft,0,0:00:00.000000
-SelectionRight,0,0:00:00.000000
+HorizProfilePos,2064
+SelectionLeft,9015233,0:03:07.817350
+SelectionRight,9015233,0:03:07.817350
 SectionEnd,View0
 
 SectionStart,Markers
-Howmany,3
+Howmany,18
 S,-1,1,A,0,0:03:10.230188,
+B,-1,1,,0,0:03:10.568188,
+B,-1,1,,0,0:03:10.862604,
+B,-1,1,,0,0:03:11.162313,
+B,-1,1,,0,0:03:11.488979,
+B,-1,1,,0,0:03:11.796188,
+B,-1,1,,0,0:03:12.103375,
+B,-1,1,,0,0:03:12.392729,
+B,-1,1,,0,0:03:12.717792,
+B,-1,1,,0,0:03:13.019396,
+B,-1,1,,0,0:03:13.315917,
+B,-1,1,,0,0:03:13.619917,
+B,-1,1,,0,0:03:13.956438,
+B,-1,1,,0,0:03:14.267667,
+B,-1,1,,0,0:03:14.577250,
+B,-1,1,,0,0:03:14.883667,
 S,-1,1,B,0,0:03:49.674333,
 S,-1,1,C,0,0:04:09.419229,
 SectionEnd,Markers

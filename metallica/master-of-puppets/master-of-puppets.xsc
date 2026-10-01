@@ -1,9 +1,9 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-03-22 20:39
-WindowSize,0|54|2560|1386,1
+SaveDate,2026-09-29 18:12
+WindowSize,0|28|2560|1388,1
 ViewList,1,0,0
 SoundFileName,master-of-puppets.mp3,Nix,/home/coffeemetalcode/Music/music-practice/metallica/master-of-puppets/master-of-puppets.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,8609661,48000,24741504,515.448
@@ -25,7 +25,7 @@ FX_Mix,0,0,100,1
 FX_Tuning,1,0,0,-1,20,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,60000,0
+FX_Speed,1,0,90000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -60,14 +63,14 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.254896
+TextZoneSplitterPos,0.258549
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.705528
+ViewSplitterPos,0.709709
 VertProfileZoom,1.000000
 HorizProfileZoom,1.000000
-HorizProfilePos,45846
-SelectionLeft,16367650,0:05:40.992701
-SelectionRight,17826920,0:06:11.394161
+HorizProfilePos,66426
+SelectionLeft,14212220,0:04:56.087912
+SelectionRight,14212220,0:04:56.087912
 SectionEnd,View0
 
 SectionStart,Markers

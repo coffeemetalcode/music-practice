@@ -1,14 +1,16 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,00,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2021-10-26 06:55
-WindowSize,66|95|1440|794,0
-ViewList,1,0,0.00000000
-SoundFileName,01 - Holy Wars...the Punishment Due.wav,Nix,/home/david/Music/music-practice/megadeth/rust-in-peace/wav/01 - Holy Wars...the Punishment Due/01 - Holy Wars...the Punishment Due.wav
+SaveDate,2026-09-07 19:56
+WindowSize,0|56|2560|1384,1
+ViewList,1,0,0
+SoundFileName,01 - Holy Wars...the Punishment Due.wav,Nix,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/01 - Holy Wars...the Punishment Due/01 - Holy Wars...the Punishment Due.wav
 SoundFileInfo,Wave Audio Data File WAV (Microsoft),16 bit PCM,2,69907790,44100,17476928,396.30222222
-SubtitleFileName,,Nix,/home/david/
 SubtitleFontSize,15
+SubtitleTopAlign,0
+SubtitleDeltaX,0
+SubtitleDeltaY,0
 SubtitleBackgroundRectangle,0
 SynchronizeViews,1
 Loops,9133241:270322,9330646:270322,9497681:270322,9676864:270322,9157538:780594,1126744:509799,0:0,0:0,0:0,0:0
@@ -20,11 +22,11 @@ SectionEnd,Main
 
 SectionStart,View0
 FX_Mix,0,0,100,1
-FX_Tuning,1,0,0,-1,0,0,60,50,0
+FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,85000,0
-FX_Misc,1,0,53,0
+FX_Speed,1,0,90000,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -33,69 +35,75 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,1
+DeblurSubtitles,0
 TVVVideoSizeLinear,-1
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
 ShowSpectrum,0
 ShowGuessNotes,0
 ShowGuessChords,0
+ShowAsMono,0
 ShowDB,0
 ShowTimeLine,0
 ShowLoopLine,1
 FitWholeFile,0
 FitWholeFileHorizZoom,1.000000
 FitWholeFileStartwavpix,-1
+TimelineOffset,0:00:00.000000
 LoopMode,1
+LoopDelayMode,1
 ScrollMode,1
 PianoBtmNote,12
 PianoTopNote,63
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.428571
+TextZoneSplitterPos,0.431938
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.812092
+ViewSplitterPos,0.816094
 VertProfileZoom,1.000000
 HorizProfileZoom,0.149684
-HorizProfilePos,3829
+HorizProfilePos,8240
 SelectionLeft,33055,0:00:00.749546
 SelectionRight,33055,0:00:00.749546
 SectionEnd,View0
 
 SectionStart,Markers
 Howmany,29
-S,-1,1,A,0,0:00:00.749546
-S,-1,1,B,0,0:00:11.145420
-S,-1,1,C,0,0:00:25.549751
-S,-1,1,D,0,0:00:45.689751
-S,-1,1,E,0,0:01:08.502041
-S,-1,1,F,0,0:01:28.613991
-S,-1,1,G,0,0:01:40.052109
-S,-1,1,H,0,0:01:51.454308
-S,-1,1,I,0,0:02:02.762676
-S,-1,1,J,0,0:02:15.537574
-S,-1,1,K,0,0:02:26.845941
-S,-1,1,L,0,0:02:42.195351
-S,-1,1,M,0,0:02:57.675102
-S,-1,1,N,0,0:03:13.057120
-S,-1,1,O,0,0:03:28.434150
-S,-1,1,P,0,0:03:44.375125
-S,-1,1,Q,0,0:03:52.066122
-S,-1,1,R,0,0:04:07.480703
-S,-1,1,S,0,0:04:22.827166
-S,-1,1,T,0,0:04:38.179524
-S,-1,1,U,0,0:04:51.736553
-S,-1,1,V,0,0:04:57.081134
-S,-1,1,W,0,0:05:13.033424
-S,-1,1,X,0,0:05:28.887982
-S,-1,1,Y,0,0:05:42.086508
-S,-1,1,Z,0,0:05:52.775692
-S,-1,1,A,0,0:06:03.595238
-S,-1,1,B,0,0:06:17.217438
-S,-1,1,C,0,0:06:22.627211
+S,-1,1,A,0,0:00:00.749546,
+S,-1,1,B,0,0:00:11.145420,
+S,-1,1,C,0,0:00:25.549751,
+S,-1,1,D,0,0:00:45.689751,
+S,-1,1,E,0,0:01:08.502041,
+S,-1,1,F,0,0:01:28.613991,
+S,-1,1,G,0,0:01:40.052109,
+S,-1,1,H,0,0:01:51.454308,
+S,-1,1,I,0,0:02:02.762676,
+S,-1,1,J,0,0:02:15.537574,
+S,-1,1,K,0,0:02:26.845941,
+S,-1,1,L,0,0:02:42.195351,
+S,-1,1,M,0,0:02:57.675102,
+S,-1,1,N,0,0:03:13.057120,
+S,-1,1,O,0,0:03:28.434150,
+S,-1,1,P,0,0:03:44.375125,
+S,-1,1,Q,0,0:03:52.066122,
+S,-1,1,R,0,0:04:07.480703,
+S,-1,1,S,0,0:04:22.827166,
+S,-1,1,T,0,0:04:38.179524,
+S,-1,1,U,0,0:04:51.736553,
+S,-1,1,V,0,0:04:57.081134,
+S,-1,1,W,0,0:05:13.033424,
+S,-1,1,X,0,0:05:28.887982,
+S,-1,1,Y,0,0:05:42.086508,
+S,-1,1,Z,0,0:05:52.775692,
+S,-1,1,A,0,0:06:03.595238,
+S,-1,1,B,0,0:06:17.217438,
+S,-1,1,C,0,0:06:22.627211,
 SectionEnd,Markers
 
 SectionStart,TextBlocks
@@ -133,6 +141,7 @@ SectionEnd,TextBlocks
 
 SectionStart,Loops
 Howmany,20
+MostRecent,-1
 L,1,1,9133241,270322,,White,,0:03:27.102971,0:00:06.129751
 L,2,1,9330646,270322,,White,,0:03:31.579274,0:00:06.129751
 L,3,1,9497681,270322,,White,,0:03:35.366916,0:00:06.129751
@@ -154,3 +163,8 @@ L,18,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,19,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 L,20,0,0,0,,White,,0:00:00.000000,0:00:00.000000
 SectionEnd,Loops
+
+SectionStart,SeparateStemFiles
+ShowStemSelector,0
+StemFile,01 - Holy Wars...the Punishment Due.wav,Stem 1,/home/coffeemetalcode/Music/music-practice/megadeth/rust-in-peace/wav/01 - Holy Wars...the Punishment Due/01 - Holy Wars...the Punishment Due.wav
+SectionEnd,SeparateStemFiles

@@ -1,9 +1,9 @@
 Transcribe!,6089,Seventh String Software
-Transcribe!,GTK,9,42,7,S,0
+Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-01-08 05:52
-WindowSize,100|100|2560|1386,1
+SaveDate,2026-09-07 19:56
+WindowSize,329|1472|1920|1024,1
 ViewList,1,0,0
 SoundFileName,behind-the-crooked-cross.mp3,Nix,/home/coffeemetalcode/Music/music-practice/slayer/south-of-heaven/behind-the-crooked-cross.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,3484365,48000,9347328,194.736
@@ -21,12 +21,12 @@ MarkerAutoBeat,1
 SectionEnd,Main
 
 SectionStart,View0
-FX_Mix,0,0,100,1
+FX_Mix,1,0,100,0
 FX_Tuning,1,1,0,0,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,0,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,80000,0
-FX_Misc,1,0,70,0,80,0
+FX_Speed,1,0,90000,0
+FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
 PianoRollPiano,1
@@ -35,10 +35,13 @@ ShowVideo,1
 SelectSoundTrack,0
 SelectSubtitles,-2
 ShowSubtitles,0
+DeblurSubtitles,0
 TVVVideoSizeLinear,500
 TVVVtimeOffset,0.000000
 TVVVideoMirror,0
 TVVVideoVFlip,0
+TVVCropStatus,0
+TVVCropRect,0|0|0|0
 ShowNavbar,0
 NavBarMeasures,1
 NavBarMeasuresMenu,1
@@ -60,14 +63,14 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.264186
+TextZoneSplitterPos,0.269320
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.716258
+ViewSplitterPos,0.722330
 VertProfileZoom,1.000000
 HorizProfileZoom,0.500000
-HorizProfilePos,11423
-SelectionLeft,6338803,0:02:12.058394
-SelectionRight,6746628,0:02:20.554745
+HorizProfilePos,8945
+SelectionLeft,5375473,0:01:51.989011
+SelectionRight,5375473,0:01:51.989011
 SectionEnd,View0
 
 SectionStart,Markers

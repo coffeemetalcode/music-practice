@@ -2,8 +2,8 @@ Transcribe!,6089,Seventh String Software
 Transcribe!,GTK,9,51,7,S,1
 
 SectionStart,Main
-SaveDate,2026-06-07 10:32
-WindowSize,319|943|1280|676,1
+SaveDate,2026-07-26 16:40
+WindowSize,289|175|1280|674,0
 ViewList,1,0,0
 SoundFileName,only-full.m4a,Nix,/home/coffeemetalcode/Music/music-practice/anthrax/only-full.m4a
 SoundFileInfo,GStreamer soundfile,'.m4a',2,4795901,44100,13075456,296.49560091
@@ -25,7 +25,7 @@ FX_Mix,0,0,100,0
 FX_Tuning,1,0,0,-1,0,0,60,50,0,440
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,0,0,90000,0
+FX_Speed,1,0,90000,0
 FX_Misc,1,0,85,0,80,0
 ShowTextZone,1
 ShowPianoRoll,0
@@ -63,14 +63,14 @@ PianoBtmNote,38
 PianoTopNote,93
 PianoRollBtmNote,24
 PianoRollTopNote,96
-TextZoneSplitterPos,0.254204
+TextZoneSplitterPos,0.249974
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.699085
+ViewSplitterPos,0.694484
 VertProfileZoom,1.000000
 HorizProfileZoom,0.216020
 HorizProfilePos,9741
-SelectionLeft,12297099,0:04:38.845772
-SelectionRight,12297099,0:04:38.845772
+SelectionLeft,392072,0:00:08.890511
+SelectionRight,392072,0:00:08.890511
 SectionEnd,View0
 
 SectionStart,Markers
